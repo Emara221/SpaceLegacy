@@ -1,0 +1,108 @@
+Source ID: nasa3d-lm
+Title: Apollo Lunar Module (3D model, GLB)
+Publisher: NASA 3D Resources
+URL: https://github.com/nasa/NASA-3D-Resources/tree/master/3D%20Models/Apollo%20Lunar%20Module
+Fetched from: https://github.com/nasa/NASA-3D-Resources/tree/master/3D%20Models/Apollo%20Lunar%20Module
+Retrieved: 2026-11-07 01:50 UTC (HTTP 200)
+Note: plain-text extract of the public page, kept as evidence for facts.csv. NASA web content is generally not subject to U.S. copyright; see the original page for images and context.
+------------------------------------------------------------------------------
+NASA-3D-Resources/3D Models/Apollo Lunar Module at master · nasa/NASA-3D-Resources · GitHub
+Skip to content
+Navigation Menu
+Sign in
+Products Platform GitHub Repository hosting, code review, and collaboration
+Copilot AI coding agent for tasks, projects, and automated work
+Build & Ship Actions CI/CD and automation
+Code Quality Quality analysis, fixes, and enforcement
+Codespaces Cloud development environments
+Secure Code Security Vulnerability detection and remediation
+Secret Protection Secret scanning and leak prevention
+All Features
+Developers Learn Documentation
+Training
+Certifications
+Build Build with Copilot
+Customize Copilot
+Integrations
+Explore Trending repos
+GitHub Sponsors
+Developer articles
+Changelog Changelog Your source for the latest features, improvements, and fixes across GitHub products, all in one place.
+Businesses By Stage Enterprises
+Team
+Startups
+Nonprofits
+By Industry Healthcare
+Financial services
+Manufacturing
+Government
+See all industries
+Evaluate GitHub Why GitHub
+Customer Stories
+Business insights
+Trust Center
+Add-ons GitHub Advanced Security Enterprise-grade code security
+Copilot for business Enterprise-grade AI features
+Premium Support Enterprise-grade 24/7 support
+Resources Learn & Connect Documentation
+Resource center
+Blog
+Events & webinars
+Community Forum
+Support Customer support
+GitHub Status
+Company About
+Partners
+Changelog
+GitHub Universe GitHub Universe The event for developers, by developers — talks, workshops, and what’s next for GitHub.
+Pricing
+Search /
+Sign up Appearance settings
+You signed in with another tab or window. Reload to refresh your session.
+You signed out in another tab or window. Reload to refresh your session.
+You switched accounts on another tab or window. Reload to refresh your session.
+Dismiss alert
+{{ message }}
+nasa
+NASA-3D-Resources
+Repository navigation
+Code
+Issues 4 ( 4 )
+Pull requests
+Actions
+Projects
+Wiki
+Security and quality
+Insights
+More items
+Files Expand file tree
+master
+Breadcrumbs
+/ 3D Models
+/ Apollo Lunar Module
+Copy path
+Directory actions
+More options
+Latest commit
+History
+Top
+Folders and files
+Name Name Last commit message
+Last commit date
+parent directory
+Apollo Lunar Module.glb
+Apollo Lunar Module.png
+View all files
+Footer
+© 2026 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Community
+Docs
+Contact
+Manage cookies
+Do not share my personal information
+You can’t perform that action at this time.

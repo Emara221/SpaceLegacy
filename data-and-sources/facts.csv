@@ -1,0 +1,135 @@
+fact_id,artifact,topic,claim,value,source_id,evidence,used_on_website
+A11-01,apollo11-descent-stage,landing,Eagle landed on the Moon on 20 July 1969,1969-07-20 20:17:40 UT,nssdc-a11-lm,The LM landed at 20:17:40 UT (4:17:40 p.m. EDT) on 20 July 1969,yes
+A11-02,apollo11-descent-stage,location,Landing coordinates (from LRO images),"0.67416 N, 23.47314 E",nssdc-a11-lm,"0.67416 degrees N latitude, 23.47314 degrees E longitude (as determined from Lunar Reconnaissance Orbiter images",yes
+A11-03,apollo11-descent-stage,first,First crewed vehicle to land on the Moon,,nssdc-a11-lm,was the first crewed vehicle to land on the Moon,yes
+A11-04,apollo11-descent-stage,crew,"Crew on the surface: Neil A. Armstrong and Edwin E. ""Buzz"" Aldrin Jr.",,nssdc-a11-lm,"It carried two astronauts, Commander Neil A. Armstrong and LM pilot Edwin E.",yes
+A11-05,apollo11-descent-stage,descent,Descent engine burn to the surface,"756.3 s, starting 20:05 UT",nssdc-a11-lm,At 20:05 the LM descent engine fired for 756.3 seconds,yes
+A11-06,apollo11-descent-stage,surface,Armstrong stepped onto the surface,1969-07-21 02:56:15 UT,nssdc-a11-lm,Armstrong stepped onto the lunar surface at 02:56:15 UT on 21 July,yes
+A11-07,apollo11-descent-stage,surface,Aldrin followed 19 minutes later,,nssdc-a11-lm,Aldrin followed 19 minutes later,yes
+A11-08,apollo11-descent-stage,plaque,Crew unveiled the plaque on a strut behind the ladder and read it aloud,,nssdc-a11-lm,unveiled the plaque mounted on a strut behind the ladder and read the inscription aloud,yes
+A11-09,apollo11-descent-stage,plaque,"Plaque inscription as transcribed by NSSDCA (the engraving itself, visible in AS11-40-5899, reads ""upon the Moon""; the website quotes the engraving)","Here men from the planet Earth first set foot on the Moon July 1969, A.D. We came in peace for all mankind.",nssdc-a11-lm,"Here men from the planet Earth first set foot on the Moon July 1969, A.D. We came in peace for all mankind.",yes
+A11-10,apollo11-descent-stage,plaque,"Plaque fixed to the ladder on the landing-gear strut, covered by steel sheet in flight",,img-as11-40-5899,The plaque was attached to the ladder on the landing gear strut on the descent stage,yes
+A11-11,apollo11-descent-stage,plaque,Plaque size (stainless steel),"9 x 7 5/8 in, 1/16 in thick (about 23 x 19 cm)",img-s69-39334,"measuring nine by seven and five-eighths inches, and one-sixteenth inch thick",yes
+A11-12,apollo11-descent-stage,departure,Ascent stage lifted off after 21 h 36 min on the surface,1969-07-21 17:54:01 UT,nssdc-a11-lm,"The LM lifted off from the Moon at 17:54:01 UT on 21 July after 21 hours, 36 minutes on the lunar surface.",yes
+A11-13,apollo11-descent-stage,status,Fate of the ascent stage unknown; assumed to have crashed within 1 to 4 months,,nssdc-a11-lm,"The fate of the LM is not known, but it is assumed that it crashed into the lunar surface sometime within the following 1 to 4 months.",yes
+A11-14,apollo11-descent-stage,status,The descent stage served as launch platform and was left on the Moon,,nssdc-a11-lm,The descent stage served as a platform for launching the ascent stage and was left behind on the Moon.,yes
+A11-15,apollo11-descent-stage,design,Descent stage shape and size,"octagonal prism 4.2 m across, 1.7 m thick",nssdc-a11-lm,octagonal prism 4.2 meters across and 1.7 m thick,yes
+A11-16,apollo11-descent-stage,design,Legs held the stage bottom 1.5 m above the surface,1.5 m,nssdc-a11-lm,held the bottom of the stage 1.5 m above the surface,yes
+A11-17,apollo11-descent-stage,design,Distance between opposite footpads,9.4 m,nssdc-a11-lm,The distance between the ends of the footpads on opposite landing legs was 9.4 m.,yes
+A11-18,apollo11-descent-stage,design,One leg had an egress platform (porch) and ladder,,nssdc-a11-lm,One of the legs had a small astronaut egress platform and ladder.,yes
+A11-19,apollo11-descent-stage,design,Descent engine skirt about 1 m long,1 m,nssdc-a11-lm,A one meter long conical descent engine skirt protruded from the bottom of the stage.,yes
+A11-20,apollo11-descent-stage,design,Tanks carried in the descent stage,"Aerozine 50, nitrogen tetroxide, water, oxygen, helium",nssdc-a11-lm,"two tanks of aerozine 50 fuel, two tanks of nitrogen tetroxide oxidizer, water, oxygen and helium tanks",yes
+A11-21,apollo11-descent-stage,design,Descent engine maximum thrust (deep-throttling),"about 45,000 N",nssdc-a11-lm,"deep-throttling ablative rocket with a maximum thrust of about 45,000 N",yes
+A11-22,apollo11-descent-stage,design,Descent stage dry mass and initial propellant,"2,034 kg dry; 8,248 kg propellant",nssdc-a11-lm,The descent stage dry mass (including stowed surface equipment) was 2034 kg and 8248 kg of propellant were onboard initially.,yes
+A11-23,apollo11-descent-stage,legacy,"On Apollo 15, 16 and 17 the descent stage also carried the lunar rover",,nssdc-a11-lm,"in the case of Apollo 15, 16, and 17, the lunar rover",yes
+A11-24,apollo11-descent-stage,equipment bay,The experiments package was stowed in the descent stage scientific equipment bay,,img-as11-40-5927,scientific equipment bay,yes
+A11-25,apollo11-descent-stage,science,Lunar samples collected,21.55 kg (about 47 lb),nssdc-a11-lm,collected 21.55 kg of lunar rock and soil,yes
+A11-26,apollo11-descent-stage,science,Samples (MSFC caption figure),47 pounds,msfc-6900957,collected 47 pounds of lunar surface material,yes
+LR-01,apollo11-retroreflector,location,Experiments package (EASEP) site about 17 m south of the LM,"0.6735 N, 23.4730 E",nssdc-a11-lm,"The EASEP was deployed approximately 17 m south of the LM, at 0.6735 N latitude, 23.4730 E longitude",yes
+LR-02,apollo11-retroreflector,location,Reflector deployed about 5 m north-northwest of the EASEP; needs no power,,nssdc-a11-lm,It was deployed about 5 meters NNW of the EASEP.,yes
+LR-03,apollo11-retroreflector,design,Reflector required no power,,nssdc-a11-lm,required no power,yes
+LR-04,apollo11-retroreflector,design,Built of fused-silica cubes on a folding support aimed at Earth,,nssdc-a11-lrrr,folding support structure for aiming and aligning the array toward earth. The array was built of cubes of fused silica.,yes
+LR-05,apollo11-retroreflector,people,Principal investigator,"Carroll O. Alley, University of Maryland",nssdc-a11-lrrr,Carroll O. Alley,yes
+LR-06,apollo11-retroreflector,design,Apollo 11 and 14 arrays: 100 corner cubes each; Apollo 15: 300,100 / 100 / 300,nasa-llr-keeps-giving,"The Apollo 11 and 14 arrays have 100 quartz glass prisms (called corner cubes) each, while the array of Apollo 15 has 300.",yes
+LR-07,apollo11-retroreflector,design,The arrays require no power,,nasa-llr-keeps-giving,The arrays themselves require no power.,yes
+LR-08,apollo11-retroreflector,status,Observatories using the arrays (as of NASA 2019 article),"New Mexico, France, Italy, Germany",nasa-llr-keeps-giving,"Four telescopes at observatories in New Mexico, France, Italy and Germany fire lasers at them",yes
+LR-09,apollo11-retroreflector,science,Distance precision,a few millimeters,nasa-llr-keeps-giving,within a fraction of an inch (a few millimeters),yes
+LR-10,apollo11-retroreflector,science,Average Earth-Moon distance (NASA article),"385,000 km",nasa-llr-keeps-giving,"average distance of 239,000 miles (385,000 kilometers)",yes
+LR-11,apollo11-retroreflector,science,Moon recedes from Earth,3.8 cm per year,nasa-llr-keeps-giving,increases by 1.5 inches (3.8 centimeters) a year,yes
+LR-12,apollo11-retroreflector,science,Tidal cause of the recession,3 mm per month,nasa-llr-keeps-giving,causes the Moon to spiral away from Earth by 0.1 inches (3 millimeters) each month,yes
+LR-13,apollo11-retroreflector,science,Moon flexes up and down each month,up to 15 cm,nasa-llr-keeps-giving,vary as much as six inches (15 centimeters) up and down each month,yes
+LR-14,apollo11-retroreflector,science,Lunar laser ranging shows the Moon has a fluid core,,nasa-llr-keeps-giving,shows that the Moon has a fluid core,yes
+LR-15,apollo11-retroreflector,science,Test of Einstein: no composition-dependent difference in gravity,,nasa-llr-keeps-giving,finds no difference in how gravity attracts the Moon and Earth due to their makeup,yes
+LR-16,apollo11-retroreflector,science,Lunar orbit and orientation needed by orbiters and landers,,nasa-llr-keeps-giving,The lunar orbit and the orientation of the rotating Moon are needed by spacecraft that orbit and land on the Moon.,yes
+LR-17,apollo11-retroreflector,legacy,NASA approved a new generation of lunar reflectors,,nasa-llr-keeps-giving,NASA has approved a new generation of reflectors,yes
+LR-18,apollo11-retroreflector,status,Research with Apollo-era reflectors continues,,nasa-retroreflectors-apollo-mars,Research with these Apollo-era lunar retroreflectors continues to this day.,yes
+LR-19,apollo11-retroreflector,legacy,Perseverance and InSight carry laser retroreflectors,,nasa-retroreflectors-apollo-mars,Laser Retroreflector for InSight,yes
+LR-20,apollo11-retroreflector,history,Aldrin carried the seismometer (left hand) and reflector (right hand),,nasa-tranquility-base,Passive Seismic Experiments Package (in his left hand) and the Laser Ranging Retroreflector (in his right),yes
+LR-21,apollo11-retroreflector,history,Seismometer stopped accepting commands on 27 Aug 1969,1969-08-27,nssdc-a11-lm,"on 27 August 1969, near noon of this second lunar day, the EASEP no longer accepted commands from Earth stations",yes
+LR-22,apollo11-retroreflector,photo,"Photo AS11-40-5948 shows seismometer in front, reflector beyond",,img-as11-40-5948,In the foreground is the Passive Seismic Experiment Package (PSEP); beyond it is the Laser Ranging Retro-Reflector (LR-3),yes
+LLR-01,laser-activity,constant,Speed of light in vacuum (exact),"299,792,458 m/s",nist-c,299 792 458 m s -1,yes
+LLR-02,laser-activity,constant,Moon orbit semimajor axis,"0.3844 x 10^6 km = 384,400 km",nssdc-moon-facts,Semimajor axis (10 6 km) 0.3844,yes
+LLR-03,laser-activity,constant,Mean perigee,"363,300 km",nssdc-moon-facts,Perigee (10 6 km)* 0.3633,yes
+LLR-04,laser-activity,constant,Mean apogee,"405,500 km",nssdc-moon-facts,Apogee (10 6 km)* 0.4055,yes
+SP-01,spirit-rover,launch,Launch,"2003-06-10 10:58:47 PDT, Cape Canaveral",nasa-mer-spirit,"Launch Date and Time June 10, 2003 / 10:58:47 PDT",yes
+SP-02,spirit-rover,landing,Landing time,2004-01-03 20:35 PST (2004-01-04 UTC),nasa-mer-spirit,"hit the Martian surface at 20:35 PST Jan. 3, 2004",yes
+SP-03,spirit-rover,landing,Bounced 28 times on airbags,28,nasa-mer-spirit,bouncing 28 times,yes
+SP-04,spirit-rover,location,Landing coordinates,"14.5692 S, 175.4729 E",nasa-mer-spirit,Landing coordinates were 14.5692 degrees south latitude and 175.4729 degrees east longitude.,yes
+SP-05,spirit-rover,location,Landing site named Columbia Memorial Station,,nasa-mer-spirit,The site became known as Columbia Memorial Station,yes
+SP-06,spirit-rover,mission,Planned mission length,90 Martian days,nasa-mer-spirit,originally planned to last 90 Martian days,yes
+SP-07,spirit-rover,mission,Actual operating life,6 y 2 m 19 d (>25x planned),nasa-mer-spirit,"It had operated for six years, two months and 19 days, more than 25 times its original intended lifetime.",yes
+SP-08,spirit-rover,mission,Distance driven,7.73 km (4.8 mi),nasa-mer-spirit,4.8 miles (7.73 kilometers),yes
+SP-09,spirit-rover,design,Rover mass,about 185 kg,nasa-mer-spirit,about 405 pounds or 185 kilograms,yes
+SP-10,spirit-rover,design,Rover size,about the size of a golf cart,nasa-mer-spirit,about the size of a golf cart,yes
+SP-11,spirit-rover,design,"Arm instruments: Mössbauer, APXS, magnets, Microscopic Imager, RAT",,nasa-mer-spirit,"A suite of instruments (MB, APXS, the magnets, MI and RAT) was deployed on a robotic arm (known as the instrument deployment device or IDD).",yes
+SP-12,spirit-rover,design,Panoramic cameras (Pancam),,nasa-mer-spirit,panoramic cameras (Pancam),yes
+SP-13,spirit-rover,design,Mini-TES infrared spectrometer,,nasa-mer-spirit,miniature thermal emission spectrometer (Mini-TES),yes
+SP-14,spirit-rover,design,"Deck carries the Pancam mast and high-gain, low-gain and UHF antennas",,nssdc-spirit,"on which is mounted the Pancam mast assembly, high gain, low gain, and UHF antennas",yes
+SP-15,spirit-rover,mission,First rock grinding on Mars (Adirondack),,nasa-mer-spirit,a feat performed for the very first time on Mars,yes
+SP-16,spirit-rover,mission,Reached the summit of Husband Hill,2005-09-29,nasa-mer-spirit,"On Sept. 29, 2005, the rover finally reached the summit of Husband Hill",yes
+SP-17,spirit-rover,power,Dust devils cleaned the panels in March 2005,60% to 93% power,nasa-mer-spirit,from the usual 60% to 93%,yes
+SP-18,spirit-rover,power,Late-2008 output vs normal,89 vs about 700 Wh per day,nasa-mer-spirit,about 89 watt-hours per Martian day. A normal amount would be about 700 watt-hours per day.,yes
+SP-19,spirit-rover,comms,Relayed data via Mars Global Surveyor and 2001 Mars Odyssey,,nasa-mer-spirit,transmitted data to Earth via Mars Global Surveyor,yes
+SP-20,spirit-rover,wheel,A front wheel stopped working (2006),,nasa-mer-spirit,partly because a front wheel stopped working,yes
+SP-21,spirit-rover,science,Ancient explosion found at Home Plate (2006),,nasa-mer-spirit,"Found evidence of an ancient explosion at a bright, low plateau called Home Plate.",yes
+SP-22,spirit-rover,science,Nearly pure silica found by dragging the right front wheel (2007),,nasa-mer-spirit,"Unearthed a patch of nearly pure silica, the main ingredient of window glass, while dragging its right front wheel.",yes
+SP-23,spirit-rover,science,Silica likely from hot springs or steam vents,,nasa-mer-spirit,likely produced in an environment of hot springs or steam vents,yes
+SP-24,spirit-rover,science,Gertrude Weise soil is about 90% silica,~90%,pj-pia09491,is about 90 percent silica,yes
+SP-25,spirit-rover,science,"Silica patch exposed on sol 1,150",2007-03-29,pj-pia09491,"1,150th Martian day",yes
+SP-26,spirit-rover,science,Disturbed-soil track width,about 20 cm,pj-pia09491,The track of disturbed soil is roughly 20 centimeters (8 inches) wide.,yes
+SP-27,spirit-rover,end,Became stuck in soft soil beside Home Plate,2009-05-01,nasa-mer-spirit,"on May 1, 2009, while driving south beside the western edge of a low plateau called Home Plate, Spirit became stuck in soft soil",yes
+SP-28,spirit-rover,end,Right rear wheel also stopped (28 Nov 2009),,nasa-mer-spirit,"the right rear one, stopped working",yes
+SP-29,spirit-rover,end,Reformulated as a stationary science platform (Jan 2010),,nasa-mer-spirit,reformulated the Spirit mission as a stationary science platform,yes
+SP-30,spirit-rover,end,No contact after 22 March 2010,2010-03-22,nasa-mer-spirit,were not able to regain contact with Spirit,yes
+SP-31,spirit-rover,end,NASA ended recovery efforts,2011-05-25,nasa-mer-spirit,"On May 25, 2011, NASA ended efforts to contact the marooned rover and declared its mission complete.",yes
+SP-32,spirit-rover,end,Most probable cause: cold made survival heaters ineffective,,nasa-mer-spirit,excessive cold that made its survival heaters ineffective,yes
+SP-33,spirit-rover,twins,Spirit and Opportunity were identical twins,,nasa-mer-twins,identical twin robots,yes
+SP-34,spirit-rover,location,Gusev Crater: a possible former lake,,nasa-mer-twins,"Spirit landed at Gusev Crater, a possible former lake in a giant impact crater.",yes
+SP-35,spirit-rover,location,East hills (Columbia Hills) about 3 km from the lander,3 km,nasa-mer-twins,"the east hills, about 3 kilometers (2 miles) away from the lander",yes
+SP-36,spirit-rover,science,Twins confirmed long-standing water on ancient Mars,,nasa-mer-twins,confirmed that water was long standing on the surface of Mars in ancient times,yes
+SP-37,spirit-rover,legacy,Perseverance passed Opportunity's distance record,2026-10-11,nasa-mer-twins,"That record held until Oct. 11, 2026",yes
+SP-38,spirit-rover,end,Troy: where Spirit became embedded in spring 2009,,pj-pia12203,where Spirit became embedded in soft soil during the spring of 2009,yes
+IN-01,insight-lander,launch,Launch,"2018-05-05, Vandenberg AFB, Atlas V-401",nasa-insight,"Launched: May 5, 2018",yes
+IN-02,insight-lander,landing,Landing,2018-11-26 11:52:59 a.m. PT (19:52:59 UT),nasa-insight,"Landed: Nov. 26, 2018, at 11:52:59 a.m. PT",yes
+IN-03,insight-lander,landing,"Landing in UT, western Elysium Planitia",19:52:59 UT,nssdc-insight,landed in the western Elysium Planitia region on 26 November 2018 at 19:52:59 UT,yes
+IN-04,insight-lander,location,"Landing site centre (NASA, rounded)","4.5 N, 135.9 E",nasa-insight,centered at about 4.5 degrees north latitude and 135.9 degrees east longitude,yes
+IN-05,insight-lander,location,"Site chosen for safety, not surface features",,nasa-insight,"selected not for its surface features, but for safety considerations",yes
+IN-06,insight-lander,design,Robotic arm length,1.8 m,nasa-insight,robotic arm was over 5 feet 9 inches (1.8 meters) long,yes
+IN-07,insight-lander,design,Built on the Mars Phoenix lander design,,nasa-insight,The lander was built on the proven design of NASA,yes
+IN-08,insight-lander,design,Landed mass; span with solar panels about 6 m,360 kg,nssdc-insight,total landed mass is 360 kg,yes
+IN-09,insight-lander,design,Instrument Deployment Camera on the arm elbow,,nasa-insight-science,"Instrument Deployment Camera, located on the elbow of its robotic arm",yes
+IN-10,insight-lander,science,First seismometer robotically placed on another planet,2018-12-19,jpl-insight-first-instrument,This was the first time a spacecraft robotically placed a seismometer onto the surface of another planet.,yes
+IN-11,insight-lander,science,Seismometer placed on Mars,2018-12-19,jpl-insight-first-instrument,"placed its seismometer on Mars on Dec. 19, 2018",yes
+IN-12,insight-lander,science,Wind/pressure/temperature/magnetic sensors fine-tuned the seismometer,,nasa-insight-instruments,"A suite of wind, pressure, temperature, and magnetic field sensors helped fine-tune the seismometer",yes
+IN-13,insight-lander,science,RISE tracked the lander to measure Mars' polar wobble (core),,nasa-insight-instruments,precisely tracked the location of the lander to determine just how much Mars,yes
+IN-14,insight-lander,science,HP3 could not reach the desired depth,,nasa-insight-instruments,encountered different soil properties than expected and was unable to reach the desired depth,yes
+IN-15,insight-lander,science,Wind rumble recorded on 1 Dec 2018,5-7 m/s,nasa-insight,"10 to 15 mph (5 to 7 meters a second) on Dec. 1, 2018",yes
+IN-16,insight-lander,science,Marsquakes detected over the mission,"1,319",jpl-insight-retired,"detected 1,319 marsquakes",yes
+IN-17,insight-lander,science,Marsquake monitoring by CNES and the Marsquake Service (ETH Zurich),,jpl-insight-retired,Marsquake Service managed by ETH Zurich,yes
+IN-18,insight-lander,science,Mole designed to dig 5 m,5 m,jpl-insight-retired,intended to dig 16 feet (5 meters) down,yes
+IN-19,insight-lander,science,Mole could not gain traction in clumpy soil,,jpl-insight-retired,could not gain traction in the unexpectedly clumpy soil,yes
+IN-20,insight-lander,science,Mole buried its 40 cm probe just below the surface,40 cm,jpl-insight-retired,buried its 16-inch (40-centimeter) probe just slightly below the surface,yes
+IN-21,insight-lander,science,HP3 provided by the German Aerospace Center (DLR),,jpl-insight-retired,German Aerospace Center (DLR),yes
+IN-22,insight-lander,power,Scoop sprinkled dirt on panels on windy days to clean them,,jpl-insight-retired,sprinkle dirt from the scoop onto the panels during windy days,yes
+IN-23,insight-lander,power,Seismometer was the last instrument powered on,,jpl-insight-retired,The seismometer was the last science instrument that remained powered on,yes
+IN-24,insight-lander,legacy,First seismology-focused mission beyond Earth since Apollo,,jpl-insight-retired,seismology was the focus of a mission beyond Earth for the first time since the Apollo missions,yes
+IN-25,insight-lander,science,Mars core radius,"1,830 km",jpl-insight-interior,"radius of 1,137 miles (1,830 kilometers)",yes
+IN-26,insight-lander,science,Crust thickness,20 or 37 km,jpl-insight-interior,"It goes as deep as 12 miles (20 kilometers) if there are two sub-layers, or 23 miles (37 kilometers) if there are three.",yes
+IN-27,insight-lander,science,Mantle depth,"1,560 km",jpl-insight-interior,"extends 969 miles (1,560 kilometers) below the surface",yes
+IN-28,insight-lander,science,Marsquakes recorded by the 2021 papers,733,jpl-insight-interior,has recorded 733 distinct marsquakes,yes
+IN-29,insight-lander,end,Final selfie,"2022-04-24 (sol 1,211)",img-pia25287,"final selfie on April 24, 2022, the 1,211th Martian day",yes
+IN-30,insight-lander,end,Mission declared over after two missed contacts,2022-12-21,jpl-insight-retired,declare the mission over if the lander missed two communication attempts,yes
+IN-31,insight-lander,end,Last contact,2022-12-15,jpl-insight-retired,The last time InSight communicated with Earth was Dec. 15.,yes
+IN-32,insight-lander,end,End of mission listed by NASA,2022-12-15,nasa-insight,"End of Mission: Dec. 15, 2022",yes
+IN-33,insight-lander,photo,Wind and thermal shield in place by sol 110,April 2019,img-pia23177,110th Martian day,yes
+IN-34,insight-lander,photo,Deck view on sol 8: copper cover over SEIS,2018-12-04,img-pia22871,copper-colored hexagonal cover protects the Seismic Experiment for Interior Structure,yes
+IN-35,insight-lander,mission,MarCO CubeSats launched with InSight,,nasa-insight,"Mars Cube One, or MarCO",yes
+IN-36,insight-lander,location,About 600 km from Curiosity's landing site,600 km,nasa-insight,373 miles (600 kilometers) from Curiosity,yes
+TA-01,terms-and-assets,terms,NASA content generally not subject to U.S. copyright,,nasa-media-guidelines,generally are not subject to copyright in the United States,yes
+TA-02,terms-and-assets,terms,Factual use without implied endorsement needs no permission,,nasa-media-guidelines,NASA content used in a factual manner that does not imply endorsement may be used without needing explicit permission.,yes
+TA-03,terms-and-assets,terms,Do not attribute AI-processed information directly to NASA,,nasa-media-guidelines,attribution of the information directly to NASA is not permitted,yes
+TA-04,terms-and-assets,terms,NASA 3D Resources: free and without copyright,,nasa3d-github,These assets are free and without copyright.,yes
+TA-05,terms-and-assets,terms,NASA SVS credit requirement,,svs-cgi-moon-kit,Please give credit for this item to,yes
+TA-06,terms-and-assets,assets,Mars texture made from Viking images processed at USGS,,nasa3d-mars-texture,From Viking images processed at the USGS.,yes
+TA-07,terms-and-assets,assets,NASA offers a 3D model of the twin rovers,,nasa-mer-twins,"A 3D model of the twin Mars Exploration Rovers, Spirit and Opportunity.",yes
+TA-08,terms-and-assets,brief,Challenge goal,,challenge-brief,Your challenge is to tell the story of some or all of this equipment that introduces school-age space enthusiasts to the hardware and the science it made possible.,yes

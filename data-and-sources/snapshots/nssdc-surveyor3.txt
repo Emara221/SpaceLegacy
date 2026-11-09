@@ -1,0 +1,78 @@
+Source ID: nssdc-surveyor3
+Title: Surveyor 3 (1967-035A)
+Publisher: NASA Space Science Data Coordinated Archive (NSSDCA)
+URL: https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1967-035A
+Fetched from: https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1967-035A
+Retrieved: 2026-11-07 01:50 UTC (HTTP 200)
+Note: plain-text extract of the public page, kept as evidence for facts.csv. NASA web content is generally not subject to U.S. copyright; see the original page for images and context.
+------------------------------------------------------------------------------
+NASA - NSSDCA - Spacecraft - Details
+Friday, 06 November 2026
+Surveyor 3
+NSSDCA/COSPAR ID: 1967-035A
+Description
+Surveyor 3 was the second spacecraft of the Surveyor series to achieve a lunar soft landing. The primary objectives of the Surveyor program, a series of seven robotic lunar softlanding flights, were to support the coming crewed Apollo landings by: (1) developing and validating the technology for landing softly on the Moon; (2) providing data on the compatibility of the Apollo design with conditions encountered on the lunar surface; and (3) adding to the scientific knowledge of the Moon. The specific objectives for this mission were to: (1) perform a soft landing on the Moon within the Apollo zone and east of the Surveyor 1 landing site; (2) obtain postlanding television pictures of the lunar surface; (3) obtain information on lunar-surface bearing strength, radar reflectivity, and thermal properties; and (4) use the surface sampler to manipulate the lunar surface and observe the effects with the television camera.
+Spacecraft and Subsystems
+The basic Surveyor spacecraft structure consisted of a tripod of thin-walled aluminum tubing and interconnecting braces providing mounting surfaces and attachments for the power, communications, propulsion, flight control, and payload systems. A central mast extended about one meter above the apex of the tripod. Three hinged landing legs were attached to the lower corners of the structure. The legs held shock absorbers, crushable, honeycomb aluminum blocks, and the deployment locking mechanism and terminated in footpads with crushable bottoms. The three footpads extended out 4.3 meters from the center of the Surveyor. The spacecraft was about 3 meters tall. The legs folded to fit into a nose shroud for launch.
+A 0.855 square meter array of 792 solar cells was mounted on a positioner on top of the mast and generated up to 85 W of power which was stored in rechargeable silver-zinc batteries. Communications were achieved via a movable large planar array high gain antenna mounted near the top of the central mast to transmit television images, two omnidirectional conical antennas mounted on the ends of folding booms for uplink and downlink, two receivers and two transmitters. Thermal control was achieved by a combination of white paint, high IR-emittance thermal finish, polished aluminum underside. Two thermally controlled compartments, equipped with superinsulating blankets, conductive heat paths, thermal switches and small electric heaters, were mounted on the spacecraft structure. One compartment, held at 5 - 50 degrees C, housed communications and power supply electronics. The other, held between -20 and 50 degrees C, housed the command and signal processing components. The TV survey camera was mounted near the top of the tripod and strain gauges, temperature sensors, and other engineering instruments are incorporated throughout the spacecraft. One photometric targets was mounted near the end of a landing leg and one on a short boom extending from the bottom of the structure. Other payload packages, which differed from mission to mission, were mounted on various parts of the structure depending on their function.
+A Sun sensor, Canopus tracker and rate gyros on three axes provided attitude knowledge. Propulsion and attitude control were provided by cold-gas (nitrogen) attitude control jets during cruise phases, three throttlable vernier rocket engines during powered phases, including the landing, and the solid-propellant retrorocket engine during terminal descent. The retrorocket was a spherical steel case mounted in the bottom center of the spacecraft. The vernier engines used monomethyl hydrazine hydrate fuel and MON-10 (90% N2O2, 10% NO) oxidizer. Each thrust chamber could produce 130 N to 460 N of thrust on command, one engine could swivel for roll control. The fuel was stored in spherical tanks mounted to the tripod structure. For the landing sequence, an altitude marking radar initiated the firing of the main retrorocket for primary braking. After firing was complete, the retrorocket and radar were jettisoned and the doppler and altimeter radars were activated. These provided information to the autopilot which controlled the vernier propulsion system to touchdown.
+Surveyor 3 was similar in design to Surveyors 1 and 2 but had several changes in the payload. It carried a survey television camera, soil mechanics experiments, and devices to measure temperature and radar reflectivity as on the earlier missions, but the TV camera had an extended glare hood. A surface sampler, consisting of a 12 cm long by 5 cm wide scoop mounted on a 1.5 meter pantograph arm, replaced the approach television camera. Two flat auxilliary mirrors were attached to the frame to provide the camera with a view of the ground beneath the engines and one of the footpads. Surveyor 3 had a mass of 1026 kg at launch and 296 kg at landing.
+Mission Profile
+Surveyor 3 was launched at 07:05:01 UT (2:05:01 a.m. EST) on 17 April 1967 on an Atlas-Centaur from complex 36B of the Eastern Test Range at Kennedy Space Center. After separation from the Atlas, the Centaur burned for approximately 5 minutes, putting the spacecraft into a 167 km circular Earth parking orbit. The Centaur was restarted 22 minutes, 9 seconds later, injecting the spacecraft into a selenographic trajectory. A midcourse maneuver 21.9 hrs after liftoff aimed the Surveyor towards the selected landing point. On 20 April at 00:01:06 UT, at 76 km altitude traveling at 2626 m/s, the vernier and main retrorocket were ignited by a signal from the altitude marking radar, slowing the spacecraft to 137 m/s at time of retro burnout and ejection. Descent continued under control of the vernier engines and the doppler and altimeter radars.
+A few seconds before touchdown the radars lost lock, apparently due to high scintillating reflections from the landing site. The guidance system automatically switched to an inertially controlled mode which prevented vernier engine cutoff. Touchdown on the lunar surface occurred three times because the vernier engines continued to fire during the first two touchdowns causing the spacecraft to lift off the surface. The distance between the first and second touchdown sites was about 20 meters and between the second and third 11 meters. Engines were shut off 34 seconds after initial touchdown by an engine cutoff command transmitted from Earth. Initial touchdown occurred at 00:04:17 UT and final touchdown at 00:04:53 UT on 20 April 1967 (19:04:53 19 April EST) at 3.0162 S, 336.582 E (as determined from Lunar Reconnaissance Orbiter images). The spacecraft slid about 30 cm following final touchdown. Surveyor 3 came to rest on a 14 degree slope inside a subdued 200 meter crater in southeast Oceanus Procellarum roughly 370 km south of Copernicus crater.
+Initial photos were received within an hour of landing and the surface sampler was used two days later. Surveyor operated throughout the lunar day until after local sunset on 03 May. The lunar sampler was operated for a total of 18 hours, 22 minutes, digging trenches as deep as 18 cm, and the television camera returned 6326 pictures. A large volume of new data on the strength, texture, and structure of lunar material was transmitted by the spacecraft. Images of an eclipse of the Sun by the Earth and related thermal measurements were recorded. The last data were returned on 04 May 1967 at 00:04 UT and Surveyor 3 failed to come back to life following the two week lunar night. Excessive glare in some of the images has been attributed to dust or erosion effects on the mirror due to the extended operation of the engines during touchdown. All mission objectives were accomplished. The Surveyor program involved building and launching seven Surveyor spacecraft to the Moon at a total cost of $469 million.
+Apollo 12
+On 19 November 1969 the Apollo 12 Lunar Module (LM) landed within about 180 m of the Surveyor 3 spacecraft. Astronauts Pete Conrad and Alan Bean visited the spacecraft on their second moonwalk on 20 November, examining Surveyor 3 and its surroundings, taking photographs, and removing about 10 kg of parts from the spacecraft, including the TV camera, for later examination back on Earth.
+The Surveyor 3 camera is now on display in the Smithsonian National Air and Space Museum in Washington, D.C.
+Alternate Names
+02756
+Surveyor3
+Surveyor-C
+Facts in Brief
+Launch Date: 1967-04-17
+Launch Vehicle: Atlas-Centaur
+Launch Site: Cape Canaveral, United States
+Mass: 296 kg
+Funding Agency
+NASA-Office of Space Science Applications (United States)
+Discipline
+Planetary Science
+Additional Information
+Launch/Orbital information for Surveyor 3
+Telecommunications information for Surveyor 3
+Experiments on Surveyor 3
+Data collections from Surveyor 3
+Questions and comments about this spacecraft can be directed to:
+Coordinated Request and User Support Office
+Personnel
+Name Role Original Affiliation E-mail
+Mr. Howard H. Haglund Project Manager NASA Jet Propulsion Laboratory
+Dr. Leonard D. Jaffe Project Scientist NASA Jet Propulsion Laboratory
+Mr. Benjamin Milwitzky Program Manager NASA Headquarters
+Selected References
+Surveyor 3 mission report, parts 1, 2 and 3,
+JPL, Calif. Inst. Technol., TR 32-1177, Pasadena, CA, June 1967.
+Newell, H. E., Surveyor III: A preliminary report,
+NASA, SP-146, Wash., DC, June 1967.
+Gault, D. E., et al. , Lunar theory and processes (Surveyor 3),
+J. Geophys. Res. , 73, 4115-4131, doi:10.1029/JB073i012p04115, June 1968. A68-36618.
+Surveyor 3 - preliminary science results,
+JPL, Calif. Inst. Technol., PD 125, Pasadena, CA, May 1967.
+Related Information at NSSDCA
+Apollo 12 astronaut Pete Conrad standing next to Surveyor 3
+Analysis of Surveyor 3 material and photographs returned by Apollo 12 - 1972 (PDF file)
+Surveyor
+Lunar Science
+Moon Page
+NSSDCA Master Catalog Search
+Spacecraft
+Experiments
+Data Collections
+Publications
+Maps
+New/Updated Data
+Lunar/Planetary Events
++ Privacy Policy and Important Notices
+NASA Official: Thomas H. Morgan
+Curator: T. R. Holden
+Version 5.3.0, 16 October 2026

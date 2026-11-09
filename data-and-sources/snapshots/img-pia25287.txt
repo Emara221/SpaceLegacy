@@ -1,0 +1,14 @@
+Source ID: img-pia25287
+Title: PIA25287: InSight's Final Selfie
+Publisher: NASA Image and Video Library
+URL: https://images.nasa.gov/details/PIA25287
+Fetched from: https://images-api.nasa.gov/search?nasa_id=PIA25287
+Retrieved: 2026-11-07 01:50 UTC (HTTP 200)
+Note: plain-text extract of the public page, kept as evidence for facts.csv. NASA web content is generally not subject to U.S. copyright; see the original page for images and context.
+------------------------------------------------------------------------------
+nasa_id: PIA25287
+title: InSight's Final Selfie
+date_created: 2022-05-23T00:00:00Z
+center: JPL
+secondary_creator: NASA/JPL-Caltech
+description: NASA's InSight Mars lander took this final selfie on April 24, 2022, the 1,211th Martian day, or sol, of the mission. The lander is covered with far more dust than it was in its first selfie, taken in December 2018, not long after landing – or in its second selfie, composed of images taken in March and April 2019.  The arm needs to move several times in order to capture a full selfie. Because InSight's dusty solar panels are producing less power, the team will soon put the lander's robotic arm in its resting position (called the "retirement pose") for the last time in May of 2022.  Animation available at https://photojournal.jpl.nasa.gov/catalog/PIA25287

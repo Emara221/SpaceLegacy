@@ -1,0 +1,14 @@
+Source ID: img-pia04413
+Title: PIA04413: Artist Concept of Rover on Mars
+Publisher: NASA Image and Video Library
+URL: https://images.nasa.gov/details/PIA04413
+Fetched from: https://images-api.nasa.gov/search?nasa_id=PIA04413
+Retrieved: 2026-11-07 01:50 UTC (HTTP 200)
+Note: plain-text extract of the public page, kept as evidence for facts.csv. NASA web content is generally not subject to U.S. copyright; see the original page for images and context.
+------------------------------------------------------------------------------
+nasa_id: PIA04413
+title: Artist Concept of Rover on Mars
+date_created: 2003-02-26T21:03:33Z
+center: JPL
+secondary_creator: NASA/JPL/Cornell University
+description: An artist concept portrays a NASA Mars Exploration Rover on the surface of Mars. Two rovers were launched in 2003 and arrived at sites on Mars in January 2004.

@@ -1,0 +1,14 @@
+Source ID: img-as11-40-5951
+Title: AS11-40-5951: Aldrin deploys the Passive Seismic Experiment Package
+Publisher: NASA Image and Video Library
+URL: https://images.nasa.gov/details/as11-40-5951
+Fetched from: https://images-api.nasa.gov/search?nasa_id=as11-40-5951
+Retrieved: 2026-11-07 01:50 UTC (HTTP 200)
+Note: plain-text extract of the public page, kept as evidence for facts.csv. NASA web content is generally not subject to U.S. copyright; see the original page for images and context.
+------------------------------------------------------------------------------
+nasa_id: as11-40-5951
+title: KSC-AS11-40-5951
+date_created: 1969-07-20T00:00:00Z
+center: KSC
+photographer: NASA or National Aeronautics and Space Administration
+description: JOHNSON SPACE CENTER, HOUSTON, TEXAS  - Apollo 11 Lunar Module Pilot Edwin E. Aldrin Jr. deployes the Passive Seismic Experiment Package (PSE) on the Moon's surface near Tranquility Base.  The sensitive instrument remained behind on the lunar surface to radio back information concerning moonquakes, landslides and meteorite impacts.

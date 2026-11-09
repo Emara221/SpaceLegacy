@@ -1,0 +1,90 @@
+Source ID: nssdc-a17-lm
+Title: Apollo 17 Lunar Module / ALSEP (1972-096C)
+Publisher: NASA Space Science Data Coordinated Archive (NSSDCA)
+URL: https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1972-096C
+Fetched from: https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1972-096C
+Retrieved: 2026-11-07 01:50 UTC (HTTP 200)
+Note: plain-text extract of the public page, kept as evidence for facts.csv. NASA web content is generally not subject to U.S. copyright; see the original page for images and context.
+------------------------------------------------------------------------------
+NASA - NSSDCA - Spacecraft - Details
+Friday, 06 November 2026
+Apollo 17 Lunar Module /ALSEP
+NSSDCA/COSPAR ID: 1972-096C
+Description
+The Apollo 17 Lunar Module (LM) "Challenger" was the sixth and last lunar lander in the Apollo program. It carried two astronauts, Commander Eugene A. Cernan and LM pilot Harrison H. Schmitt, the eleventh and twelfth men to walk on the Moon. Schmitt was the first scientist-astronaut to walk on the Moon. The LM also carried a Lunar Roving Vehicle (LRV), an Apollo Lunar Surface Experiments Package (ALSEP) that contained scientific experiments to be deployed and left on the lunar surface, and other scientific and sample collection apparatus.
+Mission Profile
+The LM separated from the Command/Service Module (CSM) at 17:20:56 UT on 11 December 1972 and landed at 19:54:57 UT (2:54:57 p.m. EST) on the southeastern rim of Mare Serenitatis (the Sea of Serenity) in a dark deposit between massive units of the southwestern Taurus Mountains south of Littrow Crater, at 20.1911 N latitude, 30.7723 E longitude (as determined from Lunar Reconnaissance Orbiter images, DE 421 mean Earth/polar rotation axis reference frame). Cernan and Schmitt made three moonwalk extra-vehicular activities (EVAs) totaling 22 hours, 4 minutes. During this time they covered 30 km and collected 110.52 kg of lunar samples. The LRV was used during EVAs to extend the range of manned lunar exploration. The first EVA was from 23:54:49 UT on 11 December to 07:06:42 UT on 12 December, during which the LRV was deployed and driven and the ALSEP was set up. During the second EVA, which began at 23:28:06 UT on 12 December and ended at 07:05:02 UT on 13 December, the astronauts deployed explosive packages for the active seismic experiment and Schmitt discovered a patch of orange soil. The third EVA involved more traverses and sample collection and lasted from 22:25:48 UT on 13 December to 05:40:56 UT on 14 December. At the end of the final EVA the astronauts unveiled the plaque on the LM and read it on TV, "Here man completed his first exploration of the Moon, December 1972 A.D. May the spirit of peace in which he came be reflected in the lives of all mankind." The EVA ended with Gene Cernan taking the final step off the lunar surface. During these EVAs the astronauts set up the ALSEP and performed other scientific experiments. The LM lifted off from the Moon on 14 December at 22:54:37 UT after 75 hours on the lunar surface. The LM docked with the CSM (piloted by Ronald E. Evans) at 01:10:15 UT on 15 December. At 04:51:31 UT on 15 December 1972 the LM was jettisoned from the CM and later fired into the Moon. It struck at 06:50:21 UT at 19.97 N, 30.49 E.
+Lunar Module Spacecraft and Subsystems
+The lunar module was a two-stage vehicle designed for space operations near and on the Moon. The spacecraft mass of 16456 kg was the total mass of the LM ascent and descent stages including propellants (fuel and oxidizer). The dry mass of the ascent stage was 2260 kg and it held 2387 kg of propellant. The descent stage dry mass (including stowed surface equipment) was 2935 kg and 8874 kg of propellant were onboard initially. The ascent and descent stages of the LM operated as a unit until staging, when the ascent stage functioned as a single spacecraft for rendezvous and docking with the command and service module (CSM). The descent stage comprised the lower part of the spacecraft and was an octagonal prism 4.2 meters across and 1.7 m thick. Four landing legs with round footpads were mounted on the sides of the descent stage and held the bottom of the stage 1.5 m above the surface. The distance between the ends of the footpads on opposite landing legs was 9.4 m. One of the legs had a small astronaut egress platform and ladder. A one meter long conical descent engine skirt protruded from the bottom of the stage. The descent stage contained the landing rocket, two tanks of aerozine 50 fuel, two tanks of nitrogen tetroxide oxidizer, water, oxygen and helium tanks and storage space for the lunar equipment and experiments, and in the case of Apollo 15, 16, and 17, the lunar rover. The descent stage served as a platform for launching the ascent stage and was left behind on the Moon.
+The ascent stage was an irregularly shaped unit approximately 2.8 m high and 4.0 by 4.3 meters in width mounted on top of the descent stage. The ascent stage housed the astronauts in a pressurized crew compartment with a volume of 6.65 cubic meters. There was an ingress-egress hatch in one side and a docking hatch for connecting to the CSM on top. Also mounted along the top were a parabolic rendezvous radar antenna, a steerable parabolic S-band antenna, and 2 in-flight VHF antennas. Two triangular windows were above and to either side of the egress hatch and four thrust chamber assemblies were mounted around the sides. At the base of the assembly was the ascent engine. The stage also contained an aerozine 50 fuel and an oxidizer tank, and helium, liquid oxygen, gaseous oxygen, and reaction control fuel tanks. There were no seats in the LM. A control console was mounted in the front of the crew compartment above the ingress-egress hatch and between the windows and two more control panels mounted on the side walls. The ascent stage was launched from the Moon at the end of lunar surface operations and returned the astronauts to the CSM.
+The descent engine was a deep-throttling ablative rocket with a maximum thrust of about 45,000 N mounted on a gimbal ring in the center of the descent stage. The ascent engine was a fixed, constant-thrust rocket with a thrust of about 15,000 N. Maneuvering was achieved via the reaction control system, which consisted of the four thrust modules, each one composed of four 450 N thrust chambers and nozzles pointing in different directions. Telemetry, TV, voice, and range communications with Earth were all via the S-band antenna. VHF was used for communications between the astronauts and the LM, and the LM and orbiting CSM. There were redundant tranceivers and equipment for both S-band and VHF. An environmental control system recycled oxygen and maintained temperature in the electronics and cabin. Power was provided by 6 silver-zinc batteries. Guidance and navigation control were provided by a radar ranging system, an inertial measurement unit consisting of gyroscopes and accelerometers, and the Apollo guidance computer.
+Apollo Lunar Surface Experiments Package (ALSEP)
+The Apollo Lunar Surface Experiments Package (ALSEP) consisted of a set of scientific instruments emplaced at the landing site by the astronauts. The instruments were arrayed around a central station which supplied power to run the instruments and communications so data collected by the experiments could be relayed to Earth. The central station was a 25 kg box with a stowed volume of 34,800 cubic cm. Thermal control was achieved by passive elements (insulation, reflectors, thermal coatings) as well as power dissipation resistors and heaters. Communications with Earth were achieved through a 58 cm long, 3.8 cm diameter modified axial-helical antenna mounted on top of the central station and pointed towards Earth by the astronauts. Transmitters, receivers, data processors and multiplexers were housed within the central station. Data collected from the instruments were converted into a telemetry format and transmitted to Earth. The ALSEP system and instruments were controlled by commands from Earth. The uplink frequency for all Apollo mission ALSEP's was 2119 MHz, the downlink frequency for the Apollo 17 ALSEP was 2275.5 MHz.
+Radioisotope Thermoelectric Generator (RTG)
+The SNAP-27 model RTG produced the power to run the ALSEP operations. The generator consisted of a 46 cm high central cylinder and eight radiating rectangular fins with a total tip-to-tip diameter of 40 cm. The central cylinder had a thinner concentric inner cylinder inside, and the two cylinders were attached along their surfaces by 442 spring-loaded lead-telluride thermoelectric couples mounted radially along the length of the cylinders. The generator assembly had a total mass of 17 kg. The power source was an approximately 4 kg fuel capsule in the shape of a long rod which contained plutonium-238 and was placed in the inner cylinder of the RTG by the astronauts on deployment. Plutonium-238 decays with a half-life of 89.6 years and produces heat. This heat would conduct from the inner cylinder to the outer via the thermocouples which would convert the heat directly to electrical power. Excess heat on the outer cylinder would be radiated to space by the fins. The RTG produced approximately 70 W DC at 16 V. (63.5 W after one year.) The electricity was routed through a cable to a power conditioning unit and a power distribution unit in the central station to supply the correct voltage and power to each instrument.
+ALSEP Scientific Instruments
+All ALSEP instruments were deployed on the surface by the astronauts and attached to the central station by cables. The Apollo 17 ALSEP instruments consisted of: (1) a heat flow experiment, designed to measure the rate of heat loss from the lunar interior and the thermal properties of lunar material; (2) a lunar surface gravimeter, designed to measure the lunar surface gravity and its temporal variations at a selected point on the surface; (3) a lunar mass spectrometer, designed to measure the composition of the tenuous lunar atmosphere; (4) a lunar seismic profiling experiment, to study the physical properties of lunar surface and subsurface materials and the structure of the local near-surface layers; and (5) a lunar ejecta and meteorites experiment, designed to measure the speed, direction, energy, and momentum of cosmic dust particles and lunar ejecta. The central station, located at 20.1921 N latitude, 30.7649 E longitude, was turned on at 02:53 UT on 12 December 1972 and shut down along with the other ALSEP stations on 30 September 1977.
+Alternate Names
+Challenger
+06307
+LEM 17
+Rover 17
+Apollo 17 LM/ALSEP
+LM-12
+Apollo 17C
+Apollo17ALSEP
+Apollo 17 Lunar Surface Experiments Package
+Facts in Brief
+Launch Date: 1972-12-07
+Launch Vehicle: Saturn 5
+Launch Site: Cape Canaveral, United States
+Mass: 16456 kg
+Funding Agencies
+NASA-Office of Space Science (United States)
+NASA-Office of Manned Space Flight (United States)
+Disciplines
+Planetary Science
+Space Physics
+Human Crew
+Additional Information
+Launch/Orbital information for Apollo 17 Lunar Module /ALSEP
+Telecommunications information for Apollo 17 Lunar Module /ALSEP
+Experiments on Apollo 17 Lunar Module /ALSEP
+Data collections from Apollo 17 Lunar Module /ALSEP
+Questions and comments about this spacecraft can be directed to:
+Coordinated Request and User Support Office
+Personnel
+Name Role Original Affiliation E-mail
+Mr. Floyd I. Roberson Program Manager NASA Headquarters
+Mr. Wilbert F. Eichelman Project Manager NASA Johnson Space Center
+Dr. John B. Hanley Program Scientist NASA Headquarters
+Selected References
+Apollo 17 preliminary science report,
+NASA, SP-330, Wash., D.C., 1973.
+Davies, M. E., and T. R. Colvin, Lunar coordinates in the regions of the Apollo landers,
+J. Geophys. Res. , 105, No. E8, 20277-20280, Aug. 2000.
+Diagram of the Apollo Lunar Module.
+(Courtesy of NASA History Office .)
+Other Sources of Apollo 17 Information at NSSDCA
+Apollo 17 Command Module
+Apollo Lunar Roving Vehicle
+Apollo 17 Page
+Other Sources of Apollo Information at NSSDCA
+Apollo landing sites and ALSEP and LRRR locations
+- and information on the modified DMA/603 control network
+Apollo Page
+Lunar Science Page
+Related Information at NSSDCA
+Moon Page
+NSSDCA Master Catalog Search
+Spacecraft
+Experiments
+Data Collections
+Publications
+Maps
+New/Updated Data
+Lunar/Planetary Events
++ Privacy Policy and Important Notices
+NASA Official: Thomas H. Morgan
+Curator: T. R. Holden
+Version 5.3.0, 16 October 2026

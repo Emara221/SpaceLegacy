@@ -1,0 +1,14 @@
+Source ID: img-pia23177
+Title: PIA23177: InSight's Seismometer on the Martian Surface
+Publisher: NASA Image and Video Library
+URL: https://images.nasa.gov/details/PIA23177
+Fetched from: https://images-api.nasa.gov/search?nasa_id=PIA23177
+Retrieved: 2026-11-07 01:51 UTC (HTTP 200)
+Note: plain-text extract of the public page, kept as evidence for facts.csv. NASA web content is generally not subject to U.S. copyright; see the original page for images and context.
+------------------------------------------------------------------------------
+nasa_id: PIA23177
+title: InSight's Seismometer on the Martian Surface
+date_created: 2019-04-23T00:00:00Z
+center: JPL
+secondary_creator: NASA/JPL-Caltech
+description: This image shows InSight's domed Wind and Thermal Shield, which covers its seismometer. The image was taken on the 110th Martian day, or sol, of the mission. The seismometer is called Seismic Experiment for Interior Structure, or SEIS.  https://photojournal.jpl.nasa.gov/catalog/PIA23177

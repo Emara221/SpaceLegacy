@@ -1,0 +1,84 @@
+Source ID: nssdc-surveyor1
+Title: Surveyor 1 (1966-045A)
+Publisher: NASA Space Science Data Coordinated Archive (NSSDCA)
+URL: https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1966-045A
+Fetched from: https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1966-045A
+Retrieved: 2026-11-07 01:50 UTC (HTTP 200)
+Note: plain-text extract of the public page, kept as evidence for facts.csv. NASA web content is generally not subject to U.S. copyright; see the original page for images and context.
+------------------------------------------------------------------------------
+NASA - NSSDCA - Spacecraft - Details
+Friday, 06 November 2026
+Surveyor 1
+NSSDCA/COSPAR ID: 1966-045A
+Description
+Surveyor 1 was the first spacecraft launched in the Surveyor program and the first soft landing on the Moon by the United States. The mission was considered a complete success and demonstrated the technology necessary to achieve landing and operations on the lunar surface. The primary objectives of the Surveyor program, a series of seven robotic lunar softlanding flights, were to support the coming crewed Apollo landings by: (1) developing and validating the technology for landing softly on the Moon; (2) providing data on the compatibility of the Apollo design with conditions encountered on the lunar surface; and (3) adding to the scientific knowledge of the Moon. The specific primary objectives for this mission were to: (1) demonstrate the capability of the Surveyor spacecraft to perform successful midcourse and terminal maneuvers, and to achieve a soft landing on the Moon; (2) demonstrate the capability of the Surveyor communications system and Deep Space Network to maintain communications with the spacecraft during its flight and after a soft landing; and (3) demonstrate the capability of the Atlas/Centaur launch vehicle to inject the Surveyor spacecraft on a lunar intercept trajectory. Secondary objectives were to obtain engineering data on spacecraft subsystems used during cruise, descent and after landing. Tertiary objectives were to obtain postlanding TV pictures of a spacecraft footpad, the surface material immediately surrounding it and the lunar topography, and to obtain data on radar reflectivity and bearing strength of the lunar surface and on spacecraft temperatures.
+Spacecraft and Subsystems
+The basic Surveyor spacecraft structure consisted of a tripod of thin-walled aluminum tubing and interconnecting braces providing mounting surfaces and attachments for the power, communications, propulsion, flight control, and payload systems. A central mast extended about one meter above the apex of the tripod. Three hinged landing legs were attached to the lower corners of the structure. The legs held shock absorbers, crushable, honeycomb aluminum blocks, and the deployment locking mechanism and terminated in footpads with crushable bottoms. The three footpads extended out 4.3 meters from the center of the Surveyor. The spacecraft was about 3 meters tall. The legs folded to fit into a nose shroud for launch.
+A 0.855 square meter array of 792 solar cells was mounted on a positioner on top of the mast and generated up to 85 Watts of power which was stored in rechargeable silver-zinc batteries. Communications were achieved via a movable large planar array high gain antenna mounted near the top of the central mast to transmit television images, two omnidirectional conical antennas mounted on the ends of folding booms for uplink and downlink, two receivers and two transmitters. Thermal control was achieved by a combination of white paint, high IR-emittance thermal finish, polished aluminum underside. Two thermally controlled compartments, equipped with superinsulating blankets, conductive heat paths, thermal switches and small electric heaters, were mounted on the spacecraft structure. One compartment, held at 5 - 50 degrees C, housed communications and power supply electronics. The other, held between -20 and 50 degrees C, housed the command and signal processing components. The TV survey camera was mounted near the top of the tripod and strain gauges, temperature sensors, and other engineering instruments are incorporated throughout the spacecraft. One photometric targets was mounted near the end of a landing leg and one on a short boom extending from the bottom of the structure. Other payload packages, which differed from mission to mission, were mounted on various parts of the structure depending on their function.
+A Sun sensor, Canopus tracker and rate gyros on three axes provided attitude knowledge. Propulsion and attitude control were provided by cold-gas (nitrogen) attitude control jets during cruise phases, three throttlable vernier rocket engines during powered phases, including the landing, and the solid-propellant retrorocket engine during terminal descent. The retrorocket was a spherical steel case mounted in the bottom center of the spacecraft. The vernier engines used monomethyl hydrazine hydrate fuel and MON-10 (90% N2O2, 10% NO) oxidizer. Each thrust chamber could produce 130 N to 460 N of thrust on command, one engine could swivel for roll control. The fuel was stored in spherical tanks mounted to the tripod structure. For the landing sequence, an altitude marking radar initiated the firing of the main retrorocket for primary braking. After firing was complete, the retrorocket and radar were jettisoned and the doppler and altimeter radars were activated. These provided information to the autopilot which controlled the vernier propulsion system to touchdown.
+No instrumentation was carried specifically for scientific experiments, but considerable scientific information was obtained. Surveyor 1 carried two television cameras - one mounted on the bottom of the frame for approach photography, which was not used, and the survey television camera. Over 100 engineering sensors were on board. Surveyor 1 had a mass of 995.2 kg at launch and 294.3 kg at landing.
+Mission Profile
+Surveyor 1 was launched on 30 May 1966 at 14:41:00 UT (9:41 EST) on an Atlas/Centaur from Complex 36-A of the Eastern Test Range directly into a lunar impact trajectory. After a midcourse correction at 06:45 UT on 31 May the spacecraft reached the Moon about 63 hours after launch. At an altitude of 75.3 km and a velocity of 2612 m/s the main retrorocket, signaled by the altitude marking radar, ignited for a 40 second burn and was jettisoned at an altitude of roughly 11 km having slowed the spacecraft to 110 m/s. Descent continued with the vernier engines under control of the altimeter and doppler radars. Engines were turned off at a height of 3.4 m above the lunar surface and the spacecraft fell freely from this height. Surveyor 1 landed on the lunar surface on 2 June 1966 at 6:17:36 UT (1:17:36 a.m. EST) at about 3 m/s. The landing site was at 2.4745 S, 316.6602 E (as determined from Lunar Reconnaissance Orbiter images) on a flat area inside a 100 km crater north of Flamsteed Crater in southwest Oceanus Procellarum.
+Surveyor 1's first hour on the Moon was spent performing engineering tests. Photography sessions were then initiated throughout the remainder of the lunar day. The television system transmitted pictures of the spacecraft footpad and surrounding lunar terrain and surface materials. Some 10,338 photos were returned prior to nightfall on June 14. The spacecraft also acquired data on the radar reflectivity of the lunar surface, bearing strength of the lunar surface, and spacecraft temperatures for use in the analysis of the lunar surface temperatures. Surveyor 1 was able to withstand the first lunar night and near high noon on its second lunar day, July 7, photos again were returned. On 13 July at 7:30 UT (2:30 a.m. EST), after a total of 11,240 pictures had been transmitted, Surveyor 1's mission was terminated due to a dramatic drop in battery voltage just after sunset. Engineering interrogations continued until January 7, 1967. All mission objectives were accomplished. The Surveyor program involved building and launching 7 Surveyor spacecraft to the Moon at a total cost of $469 million.
+Alternate Names
+02185
+Surveyor I
+Surveyor-A
+Surveyor1
+Facts in Brief
+Launch Date: 1966-05-30
+Launch Vehicle: Atlas-Centaur
+Launch Site: Cape Canaveral, United States
+Mass: 294.3 kg
+Funding Agency
+NASA-Office of Space Science Applications (United States)
+Discipline
+Planetary Science
+Additional Information
+Launch/Orbital information for Surveyor 1
+Telecommunications information for Surveyor 1
+Experiments on Surveyor 1
+Data collections from Surveyor 1
+Questions and comments about this spacecraft can be directed to:
+Coordinated Request and User Support Office
+Personnel
+Name Role Original Affiliation E-mail
+Dr. Leonard D. Jaffe Project Scientist NASA Jet Propulsion Laboratory
+Mr. Howard H. Haglund Project Manager NASA Jet Propulsion Laboratory
+Mr. Benjamin Milwitzky Program Manager NASA Headquarters
+Selected References
+Jaffe, L. D., et al. , Surveyor 1 mission report,
+JPL, Calif. Inst. Technol., TR 32-1023, Pts. 1, 2, and 3, Pasadena, CA, Aug. 1966.
+Jaffe, L. D., Lunar surface exploration by Surveyor spacecraft: Introduction,
+J. Geophys. Res. , 72, No. 2, 773-778, doi:10.1029/JZ072i002p00773, Jan. 1967.
+Surveyor 1 preliminary results,
+Science , 152, 1737-1750, doi:10.1126/science.152.3730.1737, June 1966.
+Surveyor 1 a preliminary report,
+NASA, SP-126, Wash., D.C., 1966.
+Surveyor at National Air and Space Museum
+Other Surveyor Information/Data at NSSDCA
+Surveyor 2
+Surveyor 3
+Surveyor 4
+Surveyor 5
+Surveyor 6
+Surveyor 7
+Surveyor Home Page
+Related Information/Data at NSSDCA
+Lunar Exploration Home Page
+Moon Home Page
+Moon Fact Sheet
+Other Sources of Surveyor Information/Data
+Unmanned Space Project Management - Surveyor and Lunar Orbiter
+NSSDCA Master Catalog Search
+Spacecraft
+Experiments
+Data Collections
+Publications
+Maps
+New/Updated Data
+Lunar/Planetary Events
++ Privacy Policy and Important Notices
+NASA Official: Thomas H. Morgan
+Curator: T. R. Holden
+Version 5.3.0, 16 October 2026

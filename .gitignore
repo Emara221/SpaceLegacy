@@ -1,0 +1,5 @@
+# Raw downloads, portable Node, build tools and screenshots (not needed to run the site)
+_workbench/
+node_modules/
+.DS_Store
+Thumbs.db

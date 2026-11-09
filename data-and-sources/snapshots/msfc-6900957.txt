@@ -1,0 +1,13 @@
+Source ID: msfc-6900957
+Title: 6900957: Aldrin carrying the Early Apollo Scientific Experiment Package
+Publisher: NASA Image and Video Library (Marshall Space Flight Center)
+URL: https://images.nasa.gov/details/6900957
+Fetched from: https://images-api.nasa.gov/search?nasa_id=6900957
+Retrieved: 2026-11-07 01:50 UTC (HTTP 200)
+Note: plain-text extract of the public page, kept as evidence for facts.csv. NASA web content is generally not subject to U.S. copyright; see the original page for images and context.
+------------------------------------------------------------------------------
+nasa_id: 6900957
+title: Saturn Apollo Program
+date_created: 1969-07-20T00:00:00Z
+center: MSFC
+description: The first manned lunar landing mission, Apollo 11, launched from the Kennedy Space Center (KSC) in Florida via the Marshall Space Flight Center (MSFC) developed Saturn V launch vehicle on July 16, 1969 and safely returned to Earth on July 24, 1969. Aboard the space craft were astronauts Neil A. Armstrong, commander; Michael Collins, Command Module (CM) pilot; and Edwin E. (Buzz) Aldrin Jr., Lunar Module (LM) pilot. The CM, piloted by Michael Collins, remained in a parking orbit around the Moon, while the LM, named “Eagle’’, carrying astronauts Armstrong and Aldrin, landed on the Moon in the Sea of Tranquility. During 2½ hours of surface exploration, the crew set up experiments, collected 47 pounds of lunar surface material for analysis back on Earth, planted the U.S Flag, and left a message for all mankind. In this photograph, Aldrin walks past some rocks, easily carrying scientific equipment which would have been too heavy to carry on Earth. The two packages made up the Early Apollo Scientific Experiment Package (EASEP) on Apollo 11. On the left is the Passive Seismic Experiment Package (PSEP) and on the right is the Laser Ranging Retroreflector (LRR). 

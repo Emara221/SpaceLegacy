@@ -1,0 +1,81 @@
+Source ID: nssdc-surveyor7
+Title: Surveyor 7 (1968-001A)
+Publisher: NASA Space Science Data Coordinated Archive (NSSDCA)
+URL: https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1968-001A
+Fetched from: https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1968-001A
+Retrieved: 2026-11-07 01:50 UTC (HTTP 200)
+Note: plain-text extract of the public page, kept as evidence for facts.csv. NASA web content is generally not subject to U.S. copyright; see the original page for images and context.
+------------------------------------------------------------------------------
+NASA - NSSDCA - Spacecraft - Details
+Friday, 06 November 2026
+Surveyor 7
+NSSDCA/COSPAR ID: 1968-001A
+Description
+Surveyor 7 was the fifth and final spacecraft of the Surveyor series to achieve a lunar soft landing. The primary objectives of the Surveyor program, a series of seven robotic lunar softlanding flights, were to support the coming crewed Apollo landings by: (1) developing and validating the technology for landing softly on the Moon; (2) providing data on the compatibility of the Apollo design with conditions encountered on the lunar surface; and (3) adding to the scientific knowledge of the Moon. The specific objectives for this mission were to: (1) perform a lunar soft landing (in a highland area well removed from the maria to provide a type of terrain photography and lunar sample significantly different from those of other Surveyor missions); (2) obtain postlanding TV pictures; (3) determine the relative abundances of chemical elements; (4) manipulate the lunar material; (5) obtain touchdown dynamics data; and, (6) obtain thermal and radar reflectivity data. Surveyor 7 was the only Surveyor craft to land in the lunar highland region.
+Spacecraft and Subsystems
+The basic Surveyor spacecraft structure consisted of a tripod of thin-walled aluminum tubing and interconnecting braces providing mounting surfaces and attachments for the power, communications, propulsion, flight control, and payload systems. A central mast extended about one meter above the apex of the tripod. Three hinged landing legs were attached to the lower corners of the structure. The legs held shock absorbers, crushable, honeycomb aluminum blocks, and the deployment locking mechanism and terminated in footpads with crushable bottoms. The three footpads extended out 4.3 meters from the center of the Surveyor. The spacecraft was about 3 meters tall. The legs folded to fit into a nose shroud for launch.
+A 0.855 square meter array of 792 solar cells was mounted on a positioner on top of the mast and generated up to 85 Watts of power which was stored in rechargeable silver-zinc batteries. Communications were achieved via a movable large planar array high gain antenna mounted near the top of the central mast to transmit television images, two omnidirectional conical antennas mounted on the ends of folding booms for uplink and downlink, two receivers and two transmitters. Thermal control was achieved by a combination of white paint, high IR-emittance thermal finish, polished aluminum underside. Two thermally controlled compartments, equipped with superinsulating blankets, conductive heat paths, thermal switches and small electric heaters, were mounted on the spacecraft structure. One compartment, held at 5 - 50 degrees C, housed communications and power supply electronics. The other, held between -20 and 50 degrees C, housed the command and signal processing components. The TV survey camera was mounted near the top of the tripod and strain gauges, temperature sensors, and other engineering instruments are incorporated throughout the spacecraft. One photometric targets was mounted near the end of a landing leg and one on a short boom extending from the bottom of the structure. Other payload packages, which differed from mission to mission, were mounted on various parts of the structure depending on their function.
+A Sun sensor, Canopus tracker and rate gyros on three axes provided attitude knowledge. Propulsion and attitude control were provided by cold-gas (nitrogen) attitude control jets during cruise phases, three throttlable vernier rocket engines during powered phases, including the landing, and the solid-propellant retrorocket engine during terminal descent. The retrorocket was a spherical steel case mounted in the bottom center of the spacecraft. The vernier engines used monomethyl hydrazine hydrate fuel and MON-10 (90% N2O2, 10% NO) oxidizer. Each thrust chamber could produce 130 N to 460 N of thrust on command, one engine could swivel for roll control. The fuel was stored in spherical tanks mounted to the tripod structure. For the landing sequence, an altitude marking radar initiated the firing of the main retrorocket for primary braking. After firing was complete, the retrorocket and radar were jettisoned and the doppler and altimeter radars were activated. These provided information to the autopilot which controlled the vernier propulsion system to touchdown.
+Surveyor 7 was similar in design to Surveyor 6, but the payload was the most extensive flown during the Surveyor program. It carried a television camera with polarizing filters, an alpha-scattering instrument, a surface sampler similar to that flown on Surveyor 3, bar magnets on two footpads, two horseshoe magnets on the surface scoop, and auxiliary mirrors. Of the auxiliary mirrors, three were used to observe areas below the spacecraft, one to provide stereoscopic views of the surface sampler area, and seven to show lunar material deposited on the spacecraft. It also carried over 100 items to monitor engineering aspects of spacecraft performance. Surveyor 7 had a mass of 1039 kg at launch and 306 kg at landing.
+Mission Profile
+Surveyor 7 was launched at 06:30:00.54 UT (1:30 a.m. EST) on 7 January 1968 on an Atlas-Centaur from launch complex 36A of the Eastern Test Range at Cape Kennedy. The spacecraft was put into an Earth parking orbit and then transferred to a lunar trajectory by a second burn of the Centaur upper stage. Surveyor 7 separated from the Centaur at 07:05:16 UT. A midcourse maneuver was performed at 23:30:10 UT on 7 January 1968. Touchdown occurred at 01:05:36.3 UT on 10 January 1968 (8:05:36 p.m. EST 9 January) at 40.9812 S, 11.5127 W (as determined from Lunar Reconnaissance Orbiter images) on an ejecta blanket about 29 miles north of the rim of Tycho crater in the lunar highlands.
+Science operations commenced shortly after landing. The TV camera returned 20,993 pictures on the first lunar day. The alpha-scattering instrument failed to deploy fully, but the surface sampler was used to force it to the ground. The sampler was later used to set the alpha-scattering instrument on a rock and then into a trench it had dug. Approximately 66 hours of alpha-scattering data were obtained during the first lunar day on the three sites. Operations were continued after sunset and included pictures of the Earth, stars, and the solar corona. Operation was terminated at 14:12 UT on 26 January, 80 hours after sunset. Second lunar day operations began at 19:01 UT on 12 February 1968 and included an additional 45 pictures for a total of 21,038 and 34 hours of alpha-scattering data from inside the trench. Operations were terminated on 21 February at 12:24 UT (7:24 a.m. EST). The lunar surface sampler operated flawlessly for a total of 36 hours, 21 minutes, digging trenches and moving and manipulating four rocks.
+Results were generally consistent with earlier missions except that the chemical analysis of the highland crust showed it to be poorer in iron group elements than the previous samples, all from the lunar maria. The magnet experiments showed the presence of magnetic constituents in amounts comparable to those at the Surveyor 5 and 6 sites. The lander also successfully detected laser beams transmitted from Earth. The mission objectives were fully satisfied by the spacecraft operations. The Surveyor program involved building and launching 7 Surveyor spacecraft to the Moon at a total cost of $469 million.
+Alternate Names
+Surveyor-G
+03091
+Surveyor7
+Surveyor VII
+Facts in Brief
+Launch Date: 1968-01-07
+Launch Vehicle: Atlas-Centaur
+Launch Site: Cape Canaveral, United States
+Mass: 305.7 kg
+Funding Agency
+NASA-Office of Space Science Applications (United States)
+Discipline
+Planetary Science
+Additional Information
+Launch/Orbital information for Surveyor 7
+Telecommunications information for Surveyor 7
+Experiments on Surveyor 7
+Data collections from Surveyor 7
+Questions and comments about this spacecraft can be directed to:
+Coordinated Request and User Support Office
+Personnel
+Name Role Original Affiliation E-mail
+Dr. Leonard D. Jaffe General Contact NASA Jet Propulsion Laboratory
+Selected References
+Surveyor 7, a preliminary report,
+NASA, SP-173, Wash., DC, May 1968.
+Jaffe, L. D., and R. H. Steinbacher, Surveyor 7 lunar mission,
+J. Geophys. Res. , 74, 6702-6705, doi:10.1029/JB074i027p06702, Dec. 1969.
+Phinney, R. A., et al. , Implications of the Surveyor 7 results,
+J. Geophys. Res. , 74, 6053-6080, doi:10.1029/JB074i025p06053, Nov. 1969.
+Surveyor at National Air and Space Museum
+Other Surveyor Information/Data at NSSDCA
+Surveyor 1
+Surveyor 2
+Surveyor 3
+Surveyor 4
+Surveyor 5
+Surveyor 6
+Surveyor Home Page
+Related Information/Data at NSSDCA
+Lunar Exploration Home Page
+Moon Home Page
+Moon Fact Sheet
+Other Sources of Surveyor Information/Data
+Unmanned Space Project Management - Surveyor and Lunar Orbiter
+NSSDCA Master Catalog Search
+Spacecraft
+Experiments
+Data Collections
+Publications
+Maps
+New/Updated Data
+Lunar/Planetary Events
++ Privacy Policy and Important Notices
+NASA Official: Thomas H. Morgan
+Curator: T. R. Holden
+Version 5.3.0, 16 October 2026

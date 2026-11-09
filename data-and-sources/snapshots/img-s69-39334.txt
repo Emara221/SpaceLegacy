@@ -1,0 +1,13 @@
+Source ID: img-s69-39334
+Title: S69-39334: Plaque which Apollo 11 astronauts will leave on the moon (size and mounting)
+Publisher: NASA Image and Video Library
+URL: https://images.nasa.gov/details/S69-39334
+Fetched from: https://images-api.nasa.gov/search?nasa_id=S69-39334
+Retrieved: 2026-11-07 01:50 UTC (HTTP 200)
+Note: plain-text extract of the public page, kept as evidence for facts.csv. NASA web content is generally not subject to U.S. copyright; see the original page for images and context.
+------------------------------------------------------------------------------
+nasa_id: S69-39334
+title: Plaque which Apollo 11 astronauts will leave on the moon
+date_created: 1969-07-14T00:00:00Z
+center: JSC
+description: S69-39334 (July 1969) --- This is a replica of the plaque which the Apollo 11 astronauts will leave behind on the moon in commemoration of the historic event. The plaque is made of stainless steel, measuring nine by seven and five-eighths inches, and one-sixteenth inch thick. The plaque will be attached to the ladder on the landing gear strut on the descent stage of the Apollo 11 Lunar Module (LM). Covering the plaque during the flight will be a thin sheet of stainless steel which will be removed on the lunar surface.

@@ -1,0 +1,82 @@
+Source ID: nssdc-surveyor5
+Title: Surveyor 5 (1967-084A)
+Publisher: NASA Space Science Data Coordinated Archive (NSSDCA)
+URL: https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1967-084A
+Fetched from: https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1967-084A
+Retrieved: 2026-11-07 01:50 UTC (HTTP 200)
+Note: plain-text extract of the public page, kept as evidence for facts.csv. NASA web content is generally not subject to U.S. copyright; see the original page for images and context.
+------------------------------------------------------------------------------
+NASA - NSSDCA - Spacecraft - Details
+Friday, 06 November 2026
+Surveyor 5
+NSSDCA/COSPAR ID: 1967-084A
+Description
+Surveyor 5 was the third spacecraft in the Surveyor series to achieve a successful lunar soft landing and the first mission to obtain in-situ compositional data on the Moon. The primary objectives of the Surveyor program, a series of seven robotic lunar softlanding flights, were to support the coming crewed Apollo landings by: (1) developing and validating the technology for landing softly on the Moon; (2) providing data on the compatibility of the Apollo design with conditions encountered on the lunar surface; and (3) adding to the scientific knowledge of the Moon. The specific objectives for this mission were to perform a soft landing on the Moon in Mare Tranquillitatis and obtain postlanding television pictures of the lunar surface. The secondary objectives were to conduct a vernier engine erosion experiment, determine the relative abundances of the chemical elements in the lunar soil by operation of the alpha-scattering instrument, obtain touchdown dynamics data, and obtain thermal and radar reflectivity data.
+Spacecraft and Subsystems
+The basic Surveyor spacecraft structure consisted of a tripod of thin-walled aluminum tubing and interconnecting braces providing mounting surfaces and attachments for the power, communications, propulsion, flight control, and payload systems. A central mast extended about one meter above the apex of the tripod. Three hinged landing legs were attached to the lower corners of the structure. The legs held shock absorbers, crushable, honeycomb aluminum blocks, and the deployment locking mechanism and terminated in footpads with crushable bottoms. The three footpads extended out 4.3 meters from the center of the Surveyor. The spacecraft was about 3 meters tall. The legs folded to fit into a nose shroud for launch.
+A 0.855 square meter array of 792 solar cells was mounted on a positioner on top of the mast and generated up to 85 Watts of power which was stored in rechargeable silver-zinc batteries. Communications were achieved via a movable large planar array high gain antenna mounted near the top of the central mast to transmit television images, two omnidirectional conical antennas mounted on the ends of folding booms for uplink and downlink, two receivers and two transmitters. Thermal control was achieved by a combination of white paint, high IR-emittance thermal finish, polished aluminum underside. Two thermally controlled compartments, equipped with superinsulating blankets, conductive heat paths, thermal switches and small electric heaters, were mounted on the spacecraft structure. One compartment, held at 5 - 50 degrees C, housed communications and power supply electronics. The other, held between -20 and 50 degrees C, housed the command and signal processing components. The TV survey camera was mounted near the top of the tripod and strain gauges, temperature sensors, and other engineering instruments are incorporated throughout the spacecraft. One photometric targets was mounted near the end of a landing leg and one on a short boom extending from the bottom of the structure. Other payload packages, which differed from mission to mission, were mounted on various parts of the structure depending on their function.
+A Sun sensor, Canopus tracker and rate gyros on three axes provided attitude knowledge. Propulsion and attitude control were provided by cold-gas (nitrogen) attitude control jets during cruise phases, three throttlable vernier rocket engines during powered phases, including the landing, and the solid-propellant retrorocket engine during terminal descent. The retrorocket was a spherical steel case mounted in the bottom center of the spacecraft. The vernier engines used monomethyl hydrazine hydrate fuel and MON-10 (90% N2O2, 10% NO) oxidizer. Each thrust chamber could produce 130 N to 460 N of thrust on command, one engine could swivel for roll control. The fuel was stored in spherical tanks mounted to the tripod structure. For the landing sequence, an altitude marking radar initiated the firing of the main retrorocket for primary braking. After firing was complete, the retrorocket and radar were jettisoned and the doppler and altimeter radars were activated. These provided information to the autopilot which controlled the vernier propulsion system to touchdown.
+The instrumentation for Surveyor 5 was similar to that of the previous Surveyors and included the survey television camera and numerous engineering sensors. An alpha-scattering instrument was installed in place of the surface sampler, and a small bar magnet attached to one footpad was included to detect the presence of magnetic material in the lunar soil. Convex auxilliary mirrors were attached to the frame to allow viewing of the surface below the spacecraft. Surveyor 5 had a mass of 1006 kg at launch and 303 kg at landing.
+Mission Profile
+Surveyor 5 was launched on 8 September 1967 at 7:57:01 UT (3:57:01 a.m. EDT) from Eastern Test range launch complex 36B at Cape Kennedy on an Atlas-Centaur rocket. The Centaur placed the spacecraft into an Earth parking orbit and then restarted 6.7 minutes later and injected Surveyor 5 into a lunar transfer trajectory. A midcourse trajectory correction involving a 14.29 second firing of the verier engines was performed at 1:45 UT on 9 September. Immediately following the maneuver the spacecraft began losing helium pressure. It was concluded that the helium pressure valve had not reseated tightly and the helium was leaking into the propellant tanks, causing an overpressure which opened the relief valves, discharging the helium. A new emergency landing plan was adopted. Early vernier engine firings were made while there was still helium to slow the spacecraft, reduce its mass, and leave more free volume in the propellant tanks for the helium. The burn of the main retrorocket was delayed ot an altitude of 1300 meters at a velocity of 30 m/s rather than the planned 10,700 meters at 120 to 150 m/s.
+The new descent profile worked flawlessly and Surveyor 5 touched down on the lunar surface on 11 September 1967 at 00:46:44 UT (8:46:44 p.m. EDT 10 September) at 1.4551 N, 23.1943 E (as determined from Lunar Reconnaissance Orbiter images) on a 20 degree slope of a 9 x 12 meter rimless crater in southwest Mare Tranquillitatis. Touchdown was 29 km from the original target. All experiments were performed successfully. Surveyor 5 returned 18,006 television pictures during its first lunar day. The alpha-scattering instrument was deployed and performed the first in-situ analysis of an extraterrestrial body, returning 83 hours of data on lunar soil composition during the first lunar day, A vernier engine erosion experiment was conducted on 13 September, about 53 hours after landing, consisting of a firing of the vernier engines for 0.55 seconds while the spacecraft sat on the ground to examine the effects of the engines on the surface. The spacecraft shut down from September 24 to October 15, 1967 over the first lunar night. An additional 1048 pictures and 22 hours of alpha-scattering data were received during the second lunar day. On 18 October Surveyor 5 acquired thermal data during a total eclipse of the Sun. Transmissions for the second day were received until November 1, 1967, when shutdown for the second lunar night occurred about 200 hours after sunset. Transmissions were resumed on the third and fourth lunar days, with the final transmission occurring at 04:30 UT on December 17, 1967. Pictures were transmitted during the first, second, and fourth lunar days. A total of 19,118 pictures were transmitted.
+Alpha-scattering results indicated soil composition, resembling Earth basaltic rock, of 53% to 63% oxygen, 15.5% to 21.5% silicon, 10% to 16% sulphur, iron, cobalt, and nickel; 4.5% to 8.5% aluminum, and small quantities of magnesium, carbon, and sodium. The quantity of material adhering to the magnet was consistent with a mixture of pulverized basalt and 10% to 12% magnetite with no more than 1% metallic iron. The vernier engine experiment produced minor but observable erosion of the surface. All mission objectives were accomplished. The Surveyor program involved building and launching 7 Surveyor spacecraft to the Moon at a total cost of $469 million.
+Alternate Names
+Surveyor-E
+02937
+Surveyor5
+Surveyor V
+Facts in Brief
+Launch Date: 1967-09-08
+Launch Vehicle: Atlas-Centaur
+Launch Site: Cape Canaveral, United States
+Mass: 303 kg
+Funding Agency
+NASA-Office of Space Science Applications (United States)
+Discipline
+Planetary Science
+Additional Information
+Launch/Orbital information for Surveyor 5
+Telecommunications information for Surveyor 5
+Experiments on Surveyor 5
+Data collections from Surveyor 5
+Questions and comments about this spacecraft can be directed to:
+Coordinated Request and User Support Office
+Personnel
+Name Role Original Affiliation E-mail
+Dr. Leonard D. Jaffe Project Scientist NASA Jet Propulsion Laboratory
+Mr. Benjamin Milwitzky Program Manager NASA Headquarters
+Selected References
+Surveyor V: Television Pictures,
+Science , 158, 642-652, doi:10.1126/science.158.3801.642, Nov. 1967.
+Surveyor 5 preliminary report,
+NASA, SP-163, Wash, DC, Dec. 1967.
+Jaffe, L. D., et al. , Principal science results from Surveyor 5,
+J. Geophys. Res. , 73, 7165-7167, doi:10.1029/JB073i022p07165, Nov. 1968.
+Surveyor at National Air and Space Museum
+Other Surveyor Information/Data at NSSDCA
+Surveyor 1
+Surveyor 2
+Surveyor 3
+Surveyor 4
+Surveyor 6
+Surveyor 7
+Surveyor Home Page
+Related Information/Data at NSSDCA
+Lunar Exploration Home Page
+Moon Home Page
+Moon Fact Sheet
+Other Sources of Surveyor Information/Data
+Unmanned Space Project Management - Surveyor and Lunar Orbiter
+NSSDCA Master Catalog Search
+Spacecraft
+Experiments
+Data Collections
+Publications
+Maps
+New/Updated Data
+Lunar/Planetary Events
++ Privacy Policy and Important Notices
+NASA Official: Thomas H. Morgan
+Curator: T. R. Holden
+Version 5.3.0, 16 October 2026

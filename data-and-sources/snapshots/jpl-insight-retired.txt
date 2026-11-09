@@ -1,0 +1,144 @@
+Source ID: jpl-insight-retired
+Title: NASA Retires InSight Mars Lander Mission After Years of Science (21 Dec 2022)
+Publisher: NASA Jet Propulsion Laboratory
+URL: https://www.jpl.nasa.gov/news/nasa-retires-insight-mars-lander-mission-after-years-of-science/
+Fetched from: https://www.jpl.nasa.gov/news/nasa-retires-insight-mars-lander-mission-after-years-of-science/
+Retrieved: 2026-11-07 01:50 UTC (HTTP 200)
+Note: plain-text extract of the public page, kept as evidence for facts.csv. NASA web content is generally not subject to U.S. copyright; see the original page for images and context.
+------------------------------------------------------------------------------
+NASA Retires InSight Mars Lander Mission After Years of Science | NASA Jet Propulsion Laboratory (JPL) Skip to main content
+JPL
+Careers
+Education
+Science & Technology
+About JPL
+Missions
+News
+Galleries
+Events
+Visit
+Topics
+Mars
+. 4 min read
+NASA Retires InSight Mars Lander Mission After Years of Science
+Jet Propulsion Laboratory https://www.jpl.nasa.gov/ Dec. 21, 2022
+NASA’s InSight Mars lander took this final selfie on April 24, 2022, the 1,211th Martian day, or sol, of the mission.
+Credit: NASA/JPL-Caltech
+Full Image Details
+The mission has concluded that the solar-powered lander has run out of energy after more than four years on the Red Planet.
+NASA’s InSight mission has ended after more than four years of collecting unique science on Mars.
+Mission controllers at the agency’s Jet Propulsion Laboratory in Southern California were unable to contact the lander after two consecutive attempts, leading them to conclude the spacecraft’s solar-powered batteries have run out of energy – a state engineers refer to as “dead bus.”
+NASA had previously decided to declare the mission over if the lander missed two communication attempts. The agency will continue to listen for a signal from the lander, just in case, but hearing from it at this point is considered unlikely. The last time InSight communicated with Earth was Dec. 15.
+This is one of the last images ever taken by NASA's InSight Mars lander. Captured on Dec. 11, 2022, the 1,436th Martian day, or sol, of the mission, it shows InSight's seismometer on the Red Planet's surface.
+“I watched the launch and landing of this mission, and while saying goodbye to a spacecraft is always sad, the fascinating science InSight conducted is cause for celebration,” said Thomas Zurbuchen, associate administrator of NASA’s Science Mission Directorate in Washington. “The seismic data alone from this Discovery Program mission offers tremendous insights not just into Mars but other rocky bodies, including Earth.”
+Short for Interior Exploration using Seismic Investigations, Geodesy and Heat Transport, InSight set out to study the deep interior of Mars. The lander data has yielded details about Mars’ interior layers , the surprisingly strong remnants beneath the surface of its extinct magnetic dynamo, weather on this part of Mars, and lots of quake activity .
+Its highly sensitive seismometer, along with daily monitoring performed by the French space agency Centre National d’Études Spatiales (CNES) and the Marsquake Service managed by ETH Zurich, detected 1,319 marsquakes, including quakes caused by meteoroid impacts , the largest of which unearthed boulder-size chunks of ice late last year.
+NASA's InSight lander used the Instrument Deployment Camera (IDC) on the end of its robotic arm to image this sunset on Mars on April 25, 2019.
+Such impacts help scientists determine the age of the planet’s surface, and data from the seismometer provides scientists a way to study the planet’s crust, mantle, and core.
+“With InSight, seismology was the focus of a mission beyond Earth for the first time since the Apollo missions, when astronauts brought seismometers to the Moon,” said Philippe Lognonné of Institut de Physique du Globe de Paris, principal investigator of InSight’s seismometer. “We broke new ground, and our science team can be proud of all that we’ve learned along the way.”
+The seismometer was the last science instrument that remained powered on as dust accumulating on the lander’s solar panels gradually reduced its energy, a process that began before NASA extended the mission earlier this year.
+“InSight has more than lived up to its name. As a scientist who’s spent a career studying Mars, it’s been a thrill to see what the lander has achieved, thanks to an entire team of people across the globe who helped make this mission a success,” said Laurie Leshin, director of JPL, which manages the mission. “Yes, it’s sad to say goodbye, but InSight’s legacy will live on, informing and inspiring.”
+Get the Latest JPL News
+SUBSCRIBE TO THE NEWSLETTER
+All Mars missions face challenges, and InSight was no different. The lander featured a self-hammering spike – nicknamed “the mole” – that was intended to dig 16 feet (5 meters) down, trailing a sensor-laden tether that would measure heat within the planet, enabling scientists to calculate how much energy was left over from Mars’ formation.
+Designed for the loose, sandy soil seen on other missions, the mole could not gain traction in the unexpectedly clumpy soil around InSight. The instrument, which was provided by the German Aerospace Center (DLR), eventually buried its 16-inch (40-centimeter) probe just slightly below the surface, collecting valuable data on the physical and thermal properties of the Martian soil along the way. This is useful for any future human or robotic missions that attempt to dig underground.
+The mission buried the mole to the extent possible thanks to engineers at JPL and DLR using the lander’s robotic arm in inventive ways. Primarily intended to set science instruments on the Martian surface, the arm and its small scoop also helped remove dust from InSight’s solar panels as power began to diminish. Counterintuitively, the mission determined they could sprinkle dirt from the scoop onto the panels during windy days, allowing the falling granules to gently sweep dust off the panels.
+“We’ve thought of InSight as our friend and colleague on Mars for the past four years, so it’s hard to say goodbye,” said Bruce Banerdt of JPL, the mission’s principal investigator. “But it has earned its richly deserved retirement.”
+More About the Mission
+JPL manages InSight for NASA’s Science Mission Directorate. InSight is part of NASA’s Discovery Program, managed by the agency’s Marshall Space Flight Center in Huntsville, Alabama. Lockheed Martin Space in Denver built the InSight spacecraft, including its cruise stage and lander, and supports spacecraft operations for the mission.
+Several European partners, including France’s CNES and the German Aerospace Center (DLR), are supporting the InSight mission. CNES provided the Seismic Experiment for Interior Structure (SEIS) instrument to NASA, with the principal investigator at IPGP (Institut de Physique du Globe de Paris). Significant contributions for SEIS came from IPGP; the Max Planck Institute for Solar System Research (MPS) in Germany; the Swiss Federal Institute of Technology (ETH Zurich) in Switzerland; Imperial College London and Oxford University in the United Kingdom; and JPL. DLR provided the Heat Flow and Physical Properties Package ( HP3 ) instrument, with significant contributions from the Space Research Center (CBK) of the Polish Academy of Sciences and Astronika in Poland. Spain’s Centro de Astrobiología (CAB) supplied the temperature and wind sensors.
+For more information about the mission, please go to:
+https://www.nasa.gov/insight
+Media Contacts
+Andrew Good
+Jet Propulsion Laboratory, Pasadena, Calif.
+818-393-2433
+andrew.c.good@jpl.nasa.gov
+Karen Fox / Alana Johnson
+NASA Headquarters, Washington
+240-285-5155 / 202-672-4780
+karen.c.fox@nasa.gov / alana.r.johnson@nasa.gov
+2022-204
+Related News
+Mars .
+NASA-funded Study Details One of Oldest Mars Meteorites Ever Found
+Solar System .
+NASA’s Voyager 1 Conserves Power, Resolves Brief Communications Pause
+NASA’s Perseverance Offers Clues to Protect Crews from Mars Dust
+Asteroids and Comets .
+Pedal to the Metal: NASA’s Psyche Heads Toward Asteroid Belt
+NASA’s Perseverance Sets Off-World Record for Total Distance Driven
+NASA’s Curiosity Rover Catches Stunning Martian Dawn
+NASA Discovery Reveals Complex Water Systems on Early Mars
+NASA Tests Featherweight Radar Antenna for SkyFall Mars Helicopters
+NASA’s Perseverance Rover Watches Earth Vanish Behind Martian Moon
+NASA Engineers Help Prolong Voyager 2’s Science Mission
+Who We Are
+Directors
+Internships
+The JPL Story
+JPL Achievements
+Documentary Series
+JPL Annual Report
+Executive Council
+Current
+Past
+Future
+All
+Earth
+Solar System
+Stars and Galaxies
+Eyes on the News
+Subscribe to JPL News
+Images
+Videos
+Audio
+Podcasts
+Apps
+Visions of the Future
+Slice of History
+Robotics at JPL
+Lecture Series
+Speakers Bureau
+Calendar
+Explore JPL
+Public Tours
+Virtual Tour
+Directions and Maps
+JPL Life
+Climate Change
+Exoplanets
+Robotics
+More
+Asteroid Watch
+NASA's Eyes Visualizations
+Universe - Internal Newsletter
+Social Media
+Accessibility at NASA
+Contact Us
+Get the Latest from JPL
+Follow Us
+JPL is a federally funded research and development center managed for NASA by Caltech.
+More from JPL
+Acquisition
+JPL Store
+Related NASA Sites
+Basics of Spaceflight
+NASA Kids Science - Earth
+Earth / Global Climate Change
+Exoplanet Exploration
+Mars Exploration
+Solar System Exploration
+Space Place
+NASA's Eyes Visualization Project
+Voyager Interstellar Mission
+NASA
+Caltech
+Privacy
+Image Policy
+FAQ
+Feedback
+Version: v3.2.0 - 38db01a
+Site Managers: Emilee Richardson, Alicia Cermak
+Site Editors: Steve Carney
+CL#: 21-0018

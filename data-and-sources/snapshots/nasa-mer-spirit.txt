@@ -1,0 +1,342 @@
+Source ID: nasa-mer-spirit
+Title: Spirit (MER-A) mission page
+Publisher: NASA Science
+URL: https://science.nasa.gov/mission/mer-spirit/
+Fetched from: https://science.nasa.gov/mission/mer-spirit/
+Retrieved: 2026-11-07 01:50 UTC (HTTP 200)
+Note: plain-text extract of the public page, kept as evidence for facts.csv. NASA web content is generally not subject to U.S. copyright; see the original page for images and context.
+------------------------------------------------------------------------------
+Spirit - NASA Science
+Explore
+Search
+News & Events
+Recently Published
+Video Series on NASA+
+Podcasts & Audio
+Blogs
+Newsletters
+Social Media
+Media Resources
+Multimedia
+NASA+
+Images
+NASA Live
+NASA Apps
+Podcasts
+Image of the Day
+e-Books
+3D Resources
+Interactives
+STEM Multimedia
+NASA Brand & Usage Guidelines
+Suggested Searches
+Artemis
+ISS
+Roman
+Webb
+Quesst
+Moon Base
+View All Topics A-Z
+Home
+Missions
+Humans in Space
+Earth
+The Solar System
+The Universe
+Science
+Aeronautics
+Technology
+Learning Resources
+About NASA
+Español
+Highlights
+5 min read
+NASA’s Twin ESCAPADE Spacecraft to Slingshot Past Earth on Way to Mars
+article 4 days ago
+2 min read
+NASA Announces X-70 Experimental Aircraft to Advance Flight Research
+article 2 days ago
+4 min read
+What’s Up: November 2026 Skywatching Tips from NASA
+Back
+Search All NASA Missions
+A to Z List of Missions
+Upcoming Launches and Landings
+Spaceships and Rockets
+Communicating with Missions
+James Webb Space Telescope
+Hubble Space Telescope
+International Space Station
+OSIRIS-REx
+Why Go to Space
+Astronauts
+Commercial Space
+Destinations
+Living in Space
+Explore Earth Science
+Climate Change
+Earth, Our Planet
+Earth Science in Action
+Earth Multimedia
+Earth Data
+Earth Science Researchers
+The Sun
+Mercury
+Venus
+The Moon
+Mars
+Jupiter
+Saturn
+Uranus
+Neptune
+Pluto & Dwarf Planets
+Asteroids, Comets & Meteors
+The Kuiper Belt
+The Oort Cloud
+Skywatching
+Exoplanets
+The Search for Life in the Universe
+Stars
+Galaxies
+Black Holes
+The Big Bang
+Dark Matter
+Dark Energy
+Earth Science
+Planetary Science
+Astrophysics & Space Science
+The Sun & Heliophysics
+Biological & Physical Sciences
+Lunar Science
+Citizen Science
+Astromaterials
+Aeronautics Research
+Human Space Travel Research
+Science in the Air
+NASA Aircraft
+Flight Innovation
+Supersonic Flight
+Air Traffic Solutions
+Green Aviation Tech
+Drones & You
+Technology Transfer & Spinoffs
+Space Travel Technology
+Technology Living in Space
+Manufacturing and Materials
+Robotics
+Science Instruments
+Computing
+For Kids and Students
+For Educators
+For Colleges and Universities
+For Professionals
+Science for Everyone
+Requests for Exhibits, Artifacts, or Speakers
+STEM Engagement at NASA
+NASA's Impacts
+Centers and Facilities
+Directorates
+Organizations
+People of NASA
+Careers
+Internships
+Our History
+Doing Business with NASA
+Get Involved
+Contact
+NASA en Español
+Ciencia
+Aeronáutica
+Ciencias Terrestres
+Sistema Solar
+Universo
+article
+4 days ago
+3 min read
+Hubble Learns Galactic History From Stars
+2 days ago
+NASA’s Swift Observatory Re-Entered Atmosphere
+1 min read
+NASA Astronauts to Answer Questions from Florida Students
+1 day ago
+NASA Astronaut, STEM Creator Connect with Students for STEM Day
+3 days ago
+NASA’s ISAM State of Play: The Industry Standard for Space Servicing, Assembly, and Manufacturing
+1 week ago
+Supercomputing Tech Demo Schedule
+9 hours ago
+Taking a Gander at Utah’s Goosenecks
+20 hours ago
+Cyprus: Island of Snakes, Cats, and Ophiolites
+November’s Night Sky Notes: Light-Day Away
+Slice of Martian Meteorite Teghaza 001
+NASA’s Hubble Uncovers Case of Missing Oxygen in Nearby Dwarf Galaxies
+NASA Explores Potential Commercial Servicing for Hubble Telescope
+Amendment 81: New Opportunity: Astrophysics Theory Program
+NASA Navigation Experiment Shows Promise for Planetary Landings
+NASA University Challenge Ignites Trajectory of Drone Entrepreneur
+NASA Ames Unitary Plan Wind Tunnel
+2 weeks ago
+High-speed Intelligent Robust Autonomous Terrain Exploration
+The Pacific’s Busy Storm Season
+Materials Engineered for Re-Entry Using Innovative Needling Operations
+NASA Space Grant Students Fuel Agency’s Inspiration Tour
+Send Your Name to Titan Aboard NASA’s Dragonfly Mission
+TIME Best Inventions of 2026
+3 weeks ago
+11 min read
+La NASA anuncia la cobertura de la misión lunar Artemis II
+8 months ago
+15 min read
+Agenda diaria de la misión a la Luna de Artemis II de la NASA
+6 min read
+La NASA refuerza Artemis: añade una misión y perfecciona su arquitectura general
+Mars Exploration Rovers Mars Exploration Rovers Home Overview
+Rover Basics
+-Opportunity Rover
+-Spirit Rover
+Science Objectives
+Instruments
+News and Features
+Mars Resources
+Mars Missions Mars Perseverance Rover
+Mars Curiosity Rover
+Mars Reconnaissance Orbiter
+Mars Odyssey
+More Mars Missions
+All Planets Mercury
+Spirit
+Mars Exploration Rover – Spirit
+Type
+Rover
+Launch
+June 10, 2003
+Mission End
+May 25, 2011
+Objective
+Clues of Past Water
+An illustration of NASA's Spirit rover on Mars.
+Credit: NASA/JPL-Caltech
+What was Spirit?
+NASA's Spirit rover—and its twin, Opportunity—studied the history of climate and water at sites on Mars where conditions may once have been favorable to life.
+Spirit uncovered strong evidence that Mars was once much wetter than it is now.
+Described as a "wonderful workhorse"—Spirit operated for 6 years, 2 months, and 19 days, more than 25 times its original intended lifetime.
+The rover traveled 4.8 miles (7.73 kilometers) across the Martian plains.
+On May 25, 2011, NASA ended efforts to contact the marooned rover and declared its mission complete. The rover had been silent since March 2010.
+Nation United States of America (USA)
+Objective(s) Mars Surface Exploration
+Spacecraft Mars Exploration Rover 2 (MER 2) [became MER-A]
+Spacecraft Mass 2,341 pounds (1,062 kilograms)
+Mission Design and Management NASA / JPL
+Launch Vehicle Delta 7925-9.5 (no. D298)
+Launch Date and Time June 10, 2003 / 10:58:47 PDT
+Launch Site Cape Canaveral, Florida / SLC-17A
+Scientific Instruments 1. Panoramic Mast Assembly
+a. panoramic cameras (Pancam)
+b. navigation cameras (Navcam)
+c. miniature thermal emission spectrometer (Mini-TES)
+2. Mössbauer Spectrometer (MB)
+3. Alpha Particle X-ray Spectrometer (APXS)
+4. Magnets (to collect dust particles)
+5. Microscopic Imager (MI)
+6. Rock Abrasion Tool (RAT)
+Unable to render the provided source
+A 3D model of the twin Mars Exploration Rovers, Spirit and Opportunity.
+NASA Visualization Technology Applications and Development (VTAD)
+Key Dates
+June 10, 2003: Launch
+Jan. 3, 2004: Mars landing
+May 25, 2011: NASA officially ends efforts to contact the rover
+In Depth: Spirit
+The Spirit and Opportunity rovers together represented NASA's Mars Exploration Rover Mission (MER), part of the Mars Exploration Program. Launched about a month apart in 2003, the twin rovers’ main scientific objective was to search for a range of rocks and soil types and then look for clues for past water activity on Mars.
+Each rover is about the size of a golf cart and seven times heavier (about 405 pounds or 185 kilograms) than the Sojourner rover launched on the Mars Pathfinder to Mars mission in 1996.
+Spirit and Opportunity were sent to opposite sides of Mars to locations that were suspected of having been affected by liquid water in the past. The plan was for the rovers to move from place to place, to perform geological investigations and to take photographs with mast-mounted cameras (about 5 feet or 1.5 meters off the ground) providing 360-degree stereoscopic views of the terrain.
+A suite of instruments (MB, APXS, the magnets, MI and RAT) was deployed on a robotic arm (known as the instrument deployment device or IDD). The arm would place the instruments directly on the soil or rocks and activate the instruments.
+Spirit was launched first, at 10:58:47 PDT (17:58:47 UTC) June 10, 2003, from Cape Canaveral, Florida. The spacecraft was sent to an intermediate parking orbit around Earth (about 100 × 2,960 miles or 163 × 4,762 kilometers) at a 28.5-degree inclination.
+Later, the PAM-D upper stage fired to send the spacecraft into a heliocentric orbit on a trajectory to intercept Mars. A course correction followed 10 days later. After three more corrections, the spacecraft’s cruise stage carrying the Spirit rover approached Mars for landing Jan. 3, 2004.
+About 15 minutes before entering the Martian atmosphere, the lander, still inside its protective aeroshell, separated from the cruise stage. At an altitude of about 4 to 5 miles (6 to 7.5 kilometers), a parachute deployed followed 30 seconds later by the release of the aeroshell’s bottom heat shield. Within another 10 seconds, the rover unreeled down a tether while still descending at a rate of 230 feet per second (70 meters per second).
+Four massive airbags, the same type used on Mars Pathfinder, inflated followed by the firing of the retrorockets at the base of the parachute. The rockets fired until the lander was about 28 feet (8.5 meters) off the ground. The retrorockets were needed because the atmosphere on Mars is less than 1% the density of Earth’s and parachutes alone cannot reduce velocity.
+The entire rover package hit the Martian surface at 20:35 PST Jan. 3, 2004, at a velocity of about 46 feet per second (14 meters per second), bouncing 28 times before rolling to a stop about 820 to 980 feet (250 to 300 meters) from the point of first impact. Landing coordinates were 14.5692 degrees south latitude and 175.4729 degrees east longitude.
+The landing was about 8 miles (13.4 kilometers) from the planned target and inside the Gusev crater. The site became known as Columbia Memorial Station to honor the seven astronauts killed when the space shuttle Columbia broke apart Feb. 1, 2003, as it returned to Earth.
+Initially, Spirit transmitted data to Earth via Mars Global Surveyor. About an hour-and-a-half after landing and after the airbags deflated, the rover deployed its petal solar panels and began relaying information via 2001 Mars Odyssey. Spirit immediately started transmitting spectacular images back to Earth.
+The rover ran into a major problem Jan. 21, 2004, when NASA’s Deep Space Network lost contact. Due to a problem in Spirit’s flash memory subsystem, the rover entered a fault mode. Fortunately, controllers were able to reformat the flash memory and send up a software patch (to preclude memory overload). Normal operations resumed Feb. 5.
+The next day, Spirit used its rock abrasion tool (RAT) to grind down the surface of a rock called Adirondack, a feat performed for the very first time on Mars. Investigating the exposed interior of the rock gave scientists important insights into the composition of Martian soil.
+The mission was originally planned to last 90 Martian days, until about April 4, 2004. Yet, mission planners were able to repeatedly formulate extended missions well beyond the rover’s original lifetime.
+Some of the subsequent highlights included a visit to Bonneville Crater, about 400 yards (370 meters) from its original landing point. The rover then went to the base of Columbia Hills where it spent an extended period of time.
+By 2005, Spirit began slowly making its way to the apex of Husband Hill, over terrain that was rocky and sandy. It stopped at many locations to investigate, often using the RAT.
+In March 2005, a peculiar and strange event — the passing of dust devils that swept dust from the top of the solar panels — increased power coming to Spirit from the usual 60% to 93%, significantly extending the lifetime of the mission.
+On Sept. 29, 2005, the rover finally reached the summit of Husband Hill, a small flat plain from which Spirit was able to take 360-degree panoramas in true color of the Gusev Crater.
+Early the following year, the rover was directed to the north face of McCool Hill, where it was assumed that Spirit would receive sufficient sunlight to maintain operations through the impending Martian winter.
+The trip to McCool Hill was eventually canceled, partly because a front wheel stopped working. This malfunction proved to be beneficial to scientists since the inactive wheel scraped off the upper layer of Martian soil as the rover moved, exposing bright silica-rich dust that indicated contact between soil and water.
+In early 2007, controllers uploaded new software to both Spirit and Opportunity. These new programs allowed the rovers to autonomously decide on a number of different actions, such as whether to transmit a particular image back to Earth or whether to extend the remote arm.
+Through much of the Earth summer of 2007, both Spirit and Opportunity faced massive dust storms that eroded their ability to operate effectively, mainly due to lack of power generated from the solar panels.
+At the end of 2008, a winter storm further reduced the output of Spirit’s solar panel to about 89 watt-hours per Martian day. A normal amount would be about 700 watt-hours per day. At such low levels, the rover had to use its own batteries, and if they ran dry, it would basically end the mission.
+Through 2009, a series of fortuitous events — such as wind that blew dust off the solar panels —the rover's power slowly increased. By April 2009, the rover was back to about 372 watt-hours per day, sufficient for normal science activities to resume.
+Unfortunately, on May 1, 2009, while driving south beside the western edge of a low plateau called Home Plate, Spirit became stuck in soft soil, its wheels unable to generate traction against the ground. On Nov. 28, another of Spirit’s six wheels, the right rear one, stopped working.
+By late January 2010, after many attempts to move Spirit had failed, mission planners reformulated the Spirit mission as a stationary science platform.
+One of its goals would now be to study the tiny wobbles in Mars’ rotation to determine the nature of the planet’s core — whether it is liquid or solid. To do that, however, the rover had to be tilted slightly to the north to expose its solar panels to the Sun, since the winter sun would be in the northern sky. In the end, the desired tilt was not achieved.
+After March 22, 2010, mission controllers at NASA's Jet Propulsion Laboratory (JPL) were not able to regain contact with Spirit.
+Despite more than 1,300 commands sent to Spirit, NASA officially concluded its recovery efforts May 25, 2011. The most probable cause of the loss of contact was the excessive cold that made its survival heaters ineffective.
+By the time it stopped, Spirit had traveled about 4.8 miles (7.73 kilometers) across the Martian plains. It had operated for six years, two months and 19 days, more than 25 times its original intended lifetime.
+Major Accomplishments
+2007: Unearthed a patch of nearly pure silica, the main ingredient of window glass, while dragging its right front wheel. The silica patch, dubbed "Gertrude Weise," provided strong evidence that ancient Mars was much wetter than it is now because it was likely produced in an environment of hot springs or steam vents.
+2006: Found evidence of an ancient explosion at a bright, low plateau called Home Plate. Spirit imaged coarse, bulbous grains overlaying finer material, which fits with the pattern of accumulation of material falling to the ground after a volcanic or impact explosion. These rocks, some of which had never been seen before on Mars, revealed the crater's violent history.
+2006: Churned up bright Martian soil at a place named Tyrone that contained much sulfur and a trace of water. This material could be a volcanic deposit formed around ancient gas vents or could have been left behind by water that dissolved these minerals underground and evaporated when they came to the surface.
+2005: Captured several movies of dust devils in motion, providing the best look of the wind effects on the Martian surface as they were happening.
+2004: Discovered a surprising variety of bedrock in Columbia Hills, showing a complex geological history for the region. Some of the rocks showed evidence of alteration by water.
+Additional Resources
+NASA: Spirit
+NASA Mars Program: Spirit
+National Space Science Data Center Master Catalog: Spirit
+Mars Exploration Program
+Key Source
+Siddiqi, Asif A. Beyond Earth: A Chronicle of Deep Space Exploration, 1958-2016 . NASA History Program Office, 2018.
+Spirit Stories
+Explore All Spirit Stories
+Blog
+5 Min Read
+Article
+NASA-funded Study Details One of Oldest Mars Meteorites Ever Found
+6 Min Read
+NASA’s Perseverance Offers Clues to Protect Crews From Mars Dust
+Pedal to the Metal: NASA’s Psyche Heads Toward Asteroid Belt
+4 Min Read
+NASA to Help Unlock Mysteries of Mars’ Moons in Upcoming Mission
+Keep Exploring
+Discover More Topics From NASA
+Webb is the premier observatory of the next decade, serving thousands of astronomers worldwide. It studies every phase in the…
+Perseverance Rover
+This rover and its aerial sidekick were assigned to study the geology of Mars and seek signs of ancient microbial…
+Parker Solar Probe
+On a mission to “touch the Sun,” NASA's Parker Solar Probe became the first spacecraft to fly through the corona…
+Juno
+NASA’s Juno spacecraft entered orbit around Jupiter in 2016, the first explorer to peer below the planet's dense clouds to…
+National Aeronautics and Space Administration
+NASA explores the unknown in air and space, innovates for the benefit of humanity, and inspires the world through discovery.
+About NASA's Mission
+Join Us
+Follow NASA
+More NASA Social Accounts
+NASA Newsletters
+Sitemap
+For Media
+Privacy Policy
+FOIA
+No FEAR Act
+Office of the IG
+Budget & Annual Reports
+Agency Financial Reports
+Contact NASA
+Accessibility
+Page Last Updated:
+Dec 19, 2024
+Page Editor:
+Stephen Carney
+Responsible NASA Official for Science:
+Dana Bolles
+Did you find what you were looking for? (Required)
+Yes
+Partly
+What were you looking for? (Required)
+What were you hoping to accomplish by visiting our website? (Required)
+Submit

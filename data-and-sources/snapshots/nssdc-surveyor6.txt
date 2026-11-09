@@ -1,0 +1,79 @@
+Source ID: nssdc-surveyor6
+Title: Surveyor 6 (1967-112A)
+Publisher: NASA Space Science Data Coordinated Archive (NSSDCA)
+URL: https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1967-112A
+Fetched from: https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1967-112A
+Retrieved: 2026-11-07 01:50 UTC (HTTP 200)
+Note: plain-text extract of the public page, kept as evidence for facts.csv. NASA web content is generally not subject to U.S. copyright; see the original page for images and context.
+------------------------------------------------------------------------------
+NASA - NSSDCA - Spacecraft - Details
+Friday, 06 November 2026
+Surveyor 6
+NSSDCA/COSPAR ID: 1967-112A
+Description
+Surveyor 6 was the fourth of the Surveyor series to successfully achieve a soft landing on the Moon. The primary objectives of the Surveyor program, a series of seven robotic lunar softlanding flights, were to support the coming crewed Apollo landings by: (1) developing and validating the technology for landing softly on the Moon; (2) providing data on the compatibility of the Apollo design with conditions encountered on the lunar surface; and (3) adding to the scientific knowledge of the Moon. The specific primary objectives for this mission were to perform a soft landing on the Moon in the Sinus Medii region and obtain postlanding television pictures of the lunar surface. The secondary objectives were to determine the relative abundance of the chemical elements in the lunar soil by operation of the alpha-scattering instrument, obtain touchdown dynamics data, obtain thermal and radar reflectivity data, and conduct a vernier-engine erosion experiment.
+Spacecraft and Subsystems
+The basic Surveyor spacecraft structure consisted of a tripod of thin-walled aluminum tubing and interconnecting braces providing mounting surfaces and attachments for the power, communications, propulsion, flight control, and payload systems. A central mast extended about one meter above the apex of the tripod. Three hinged landing legs were attached to the lower corners of the structure. The legs held shock absorbers, crushable, honeycomb aluminum blocks, and the deployment locking mechanism and terminated in footpads with crushable bottoms. The three footpads extended out 4.3 meters from the center of the Surveyor. The spacecraft was about 3 meters tall. The legs folded to fit into a nose shroud for launch.
+A 0.855 square meter array of 792 solar cells was mounted on a positioner on top of the mast and generated up to 85 Watts of power which was stored in rechargeable silver-zinc batteries. Communications were achieved via a movable large planar array high gain antenna mounted near the top of the central mast to transmit television images, two omnidirectional conical antennas mounted on the ends of folding booms for uplink and downlink, two receivers and two transmitters. Thermal control was achieved by a combination of white paint, high IR-emittance thermal finish, polished aluminum underside. Two thermally controlled compartments, equipped with superinsulating blankets, conductive heat paths, thermal switches and small electric heaters, were mounted on the spacecraft structure. One compartment, held at 5 - 50 degrees C, housed communications and power supply electronics. The other, held between -20 and 50 degrees C, housed the command and signal processing components. The TV survey camera was mounted near the top of the tripod and strain gauges, temperature sensors, and other engineering instruments are incorporated throughout the spacecraft. One photometric targets was mounted near the end of a landing leg and one on a short boom extending from the bottom of the structure. Other payload packages, which differed from mission to mission, were mounted on various parts of the structure depending on their function.
+A Sun sensor, Canopus tracker and rate gyros on three axes provided attitude knowledge. Propulsion and attitude control were provided by cold-gas (nitrogen) attitude control jets during cruise phases, three throttlable vernier rocket engines during powered phases, including the landing, and the solid-propellant retrorocket engine during terminal descent. The retrorocket was a spherical steel case mounted in the bottom center of the spacecraft. The vernier engines used monomethyl hydrazine hydrate fuel and MON-10 (90% N2O2, 10% NO) oxidizer. Each thrust chamber could produce 130 N to 460 N of thrust on command, one engine could swivel for roll control. The fuel was stored in spherical tanks mounted to the tripod structure. For the landing sequence, an altitude marking radar initiated the firing of the main retrorocket for primary braking. After firing was complete, the retrorocket and radar were jettisoned and the doppler and altimeter radars were activated. These provided information to the autopilot which controlled the vernier propulsion system to touchdown.
+With a payload virtually identical to that of Surveyor 5, this spacecraft carried a television survey camera, a small bar magnet attached to one footpad to detect magnetic material, an alpha-scattering instrument to study surface composition, and convex auxilliary mirrors mounted on the frame to view the surface under the spacecraft, as well as the necessary engineering equipment. The main differences were that Surveyor 6 had polarizing filters on the TV camera, a different type of glare hood, and had 3 auxilliary mirrors instead of 2. Surveyor 6 had a mass of 1006 kg at launch and 299.6 kg on landing.
+Mission Profile
+Surveyor 6 launched on 7 November 1967 at 7:39:00 UT (2:39 a.m. EST) from launch complex 36B of the Eastern Test range at Cape Kennedy. The Atlas-Centaur booster put the spacecraft into an initial Earth parking orbit from which it was injected into a lunar-transfer trajectory at 8:03:30 UT. A midcourse correction manuever was performed at 2:20:00 UT on 8 November 1967. Surveyor 6 touched down on the lunar surface on 10 November 1967 at 01:01:06 UT (8:01:06 EST 9 November) in Sinus Medii, a flat, heavily cratered mare region, at 0.4742 N, 358.5725 E (final location as determined from Luner Reconnaissance Orbiter images), near the center of the Moon's visible hemisphere.
+On 17 November at 10:32 UT the vernier engines were fired for 2.5 seconds, causing Surveyor to lift off the lunar surface 3 to 4 meters and land about 2.4 meters west of its original position. This lunar "hop" represented the first powered takeoff from the lunar surface and furnished new information on the effects of firing rocket engines on the Moon, allowed viewing of the original landing site, and provided a baseline for stereoscopic viewing and photogrammetric mapping of the surrounding terrain. The mission transmitted images until a few hours after sunset on 24 November, returning a total of 29,952 images. The alpha-scattering experiment acquired 30 hours of data on the surface material.
+The spacecraft was placed into hibernation for the lunar night on 26 November. Contact with the spacecraft was resumed on 14 December for a short period, but no useful data were returned and the last transmission was received at 19:14 UT on 14 December 1967. The results of the experiments showed that the surface had a basaltic composition, similar to that found at the Surveyor 5 landing site. Engineering and soil mechanics data indicated the bearing strength of the surface was more than adequate to support human landings. This spacecraft accomplished all planned objectives. The successful completion of this mission satisfied the Surveyor program's obligation to the Apollo project. The Surveyor program involved building and launching 7 Surveyor spacecraft to the Moon at a total cost of $469 million.
+Alternate Names
+Surveyor-F
+03031
+Surveyor6
+Surveyor VI
+Facts in Brief
+Launch Date: 1967-11-07
+Launch Vehicle: Atlas-Centaur
+Launch Site: Cape Canaveral, United States
+Mass: 299.6 kg
+Funding Agency
+NASA-Office of Space Science Applications (United States)
+Discipline
+Planetary Science
+Additional Information
+Launch/Orbital information for Surveyor 6
+Telecommunications information for Surveyor 6
+Experiments on Surveyor 6
+Data collections from Surveyor 6
+Questions and comments about this spacecraft can be directed to:
+Coordinated Request and User Support Office
+Personnel
+Name Role Original Affiliation E-mail
+Dr. Leonard D. Jaffe Project Scientist NASA Jet Propulsion Laboratory
+Selected References
+Surveyor 6 mission report, parts 1, 2 and 3,
+JPL, Calif. Inst. Technol., TR 32-1262, Pts. 1, 2, and 3, Pasadena, CA, June 1968.
+Surveyor 6, a preliminary report,
+NASA, SP-166, Wash, DC, Mar. 1968.
+Surveyor at National Air and Space Museum
+Other Surveyor Information/Data at NSSDCA
+Surveyor 1
+Surveyor 2
+Surveyor 3
+Surveyor 4
+Surveyor 5
+Surveyor 7
+Surveyor Home Page
+Related Information/Data at NSSDCA
+Lunar Exploration Home Page
+Moon Home Page
+Moon Fact Sheet
+Other Sources of Surveyor Information/Data
+Unmanned Space Project Management - Surveyor and Lunar Orbiter
+NSSDCA Master Catalog Search
+Spacecraft
+Experiments
+Data Collections
+Publications
+Maps
+New/Updated Data
+Lunar/Planetary Events
++ Privacy Policy and Important Notices
+NASA Official: Thomas H. Morgan
+Curator: T. R. Holden
+Version 5.3.0, 16 October 2026

@@ -1,0 +1,373 @@
+Source ID: nasa-mer-opportunity
+Title: Opportunity (MER-B) mission page
+Publisher: NASA Science
+URL: https://science.nasa.gov/mission/mer-opportunity/
+Fetched from: https://science.nasa.gov/mission/mer-opportunity/
+Retrieved: 2026-11-07 01:50 UTC (HTTP 200)
+Note: plain-text extract of the public page, kept as evidence for facts.csv. NASA web content is generally not subject to U.S. copyright; see the original page for images and context.
+------------------------------------------------------------------------------
+Opportunity - NASA Science
+Explore
+Search
+News & Events
+Recently Published
+Video Series on NASA+
+Podcasts & Audio
+Blogs
+Newsletters
+Social Media
+Media Resources
+Multimedia
+NASA+
+Images
+NASA Live
+NASA Apps
+Podcasts
+Image of the Day
+e-Books
+3D Resources
+Interactives
+STEM Multimedia
+NASA Brand & Usage Guidelines
+Suggested Searches
+Artemis
+ISS
+Roman
+Webb
+Quesst
+Moon Base
+View All Topics A-Z
+Home
+Missions
+Humans in Space
+Earth
+The Solar System
+The Universe
+Science
+Aeronautics
+Technology
+Learning Resources
+About NASA
+Español
+Highlights
+5 min read
+NASA’s Twin ESCAPADE Spacecraft to Slingshot Past Earth on Way to Mars
+article 4 days ago
+2 min read
+NASA Announces X-70 Experimental Aircraft to Advance Flight Research
+article 2 days ago
+4 min read
+What’s Up: November 2026 Skywatching Tips from NASA
+Back
+Search All NASA Missions
+A to Z List of Missions
+Upcoming Launches and Landings
+Spaceships and Rockets
+Communicating with Missions
+James Webb Space Telescope
+Hubble Space Telescope
+International Space Station
+OSIRIS-REx
+Why Go to Space
+Astronauts
+Commercial Space
+Destinations
+Living in Space
+Explore Earth Science
+Climate Change
+Earth, Our Planet
+Earth Science in Action
+Earth Multimedia
+Earth Data
+Earth Science Researchers
+The Sun
+Mercury
+Venus
+The Moon
+Mars
+Jupiter
+Saturn
+Uranus
+Neptune
+Pluto & Dwarf Planets
+Asteroids, Comets & Meteors
+The Kuiper Belt
+The Oort Cloud
+Skywatching
+Exoplanets
+The Search for Life in the Universe
+Stars
+Galaxies
+Black Holes
+The Big Bang
+Dark Matter
+Dark Energy
+Earth Science
+Planetary Science
+Astrophysics & Space Science
+The Sun & Heliophysics
+Biological & Physical Sciences
+Lunar Science
+Citizen Science
+Astromaterials
+Aeronautics Research
+Human Space Travel Research
+Science in the Air
+NASA Aircraft
+Flight Innovation
+Supersonic Flight
+Air Traffic Solutions
+Green Aviation Tech
+Drones & You
+Technology Transfer & Spinoffs
+Space Travel Technology
+Technology Living in Space
+Manufacturing and Materials
+Robotics
+Science Instruments
+Computing
+For Kids and Students
+For Educators
+For Colleges and Universities
+For Professionals
+Science for Everyone
+Requests for Exhibits, Artifacts, or Speakers
+STEM Engagement at NASA
+NASA's Impacts
+Centers and Facilities
+Directorates
+Organizations
+People of NASA
+Careers
+Internships
+Our History
+Doing Business with NASA
+Get Involved
+Contact
+NASA en Español
+Ciencia
+Aeronáutica
+Ciencias Terrestres
+Sistema Solar
+Universo
+article
+4 days ago
+3 min read
+Hubble Learns Galactic History From Stars
+2 days ago
+NASA’s Swift Observatory Re-Entered Atmosphere
+1 min read
+NASA Astronauts to Answer Questions from Florida Students
+1 day ago
+NASA Astronaut, STEM Creator Connect with Students for STEM Day
+3 days ago
+NASA’s ISAM State of Play: The Industry Standard for Space Servicing, Assembly, and Manufacturing
+1 week ago
+Supercomputing Tech Demo Schedule
+10 hours ago
+Taking a Gander at Utah’s Goosenecks
+21 hours ago
+Cyprus: Island of Snakes, Cats, and Ophiolites
+November’s Night Sky Notes: Light-Day Away
+Slice of Martian Meteorite Teghaza 001
+NASA’s Hubble Uncovers Case of Missing Oxygen in Nearby Dwarf Galaxies
+NASA Explores Potential Commercial Servicing for Hubble Telescope
+Amendment 81: New Opportunity: Astrophysics Theory Program
+NASA Navigation Experiment Shows Promise for Planetary Landings
+NASA University Challenge Ignites Trajectory of Drone Entrepreneur
+NASA Ames Unitary Plan Wind Tunnel
+2 weeks ago
+High-speed Intelligent Robust Autonomous Terrain Exploration
+The Pacific’s Busy Storm Season
+Materials Engineered for Re-Entry Using Innovative Needling Operations
+NASA Space Grant Students Fuel Agency’s Inspiration Tour
+Send Your Name to Titan Aboard NASA’s Dragonfly Mission
+TIME Best Inventions of 2026
+3 weeks ago
+11 min read
+La NASA anuncia la cobertura de la misión lunar Artemis II
+8 months ago
+15 min read
+Agenda diaria de la misión a la Luna de Artemis II de la NASA
+6 min read
+La NASA refuerza Artemis: añade una misión y perfecciona su arquitectura general
+Mars Exploration Rovers Mars Exploration Rovers Home Overview
+Rover Basics
+-Opportunity Rover
+-Spirit Rover
+Science Objectives
+Instruments
+News and Features
+Mars Resources
+Mars Missions Mars Perseverance Rover
+Mars Curiosity Rover
+Mars Reconnaissance Orbiter
+Mars Odyssey
+More Mars Missions
+All Planets Mercury
+Opportunity
+Mars Exploration Rover Opportunity (MER-B)
+Type
+Rover
+Launch
+July 7, 2003
+Science Target
+Martian Surface
+Status
+Successful
+What was Opportunity?
+NASA's Opportunity rover was o ne of the most successful and enduring interplanetary missions. Opportunity landed on Mars in early 2004 soon after its twin rover Spirit. Opportunity operated for almost 15 years, setting several records and making a number of key discoveries.
+Opportunity and its twin Spirit were tasked with studying sites on Mars where conditions may once have been favorable for life.
+Opportunity found evidence that Mars may once have been able to sustain microbial life.
+Opportunity exceeded its life expectancy by 60 times and had traveled more than 28 miles (45 kilometers) by the time it reached its appropriate final resting spot on Mars – Perseverance Valley.
+Opportunity stopped communicating with Earth after a severe Mars-wide dust storm blanketed its location in June 2018.
+During its lengthy travels, Opportunity rolled past numerous milestones, breaking off-world distance records set by NASA's Apollo 17 lunar rover, and by the robotic Soviet lunar rover Lunokhod 2, and was the first to surpass a marathon distance, having trundled for 26.219 miles (42.195 kilometers). When it fell silent in 2018, Opportunity had run up 28.06 miles (45.16 kilometers) on its unearthly odometer, an extra-terrestrial record that stood until NASA's Perseverance Mars rover surpassed it on Oct. 11, 2026.
+Featured Story
+NASA’s Perseverance Sets Off-World Record for Total Distance Driven
+NASA’s Perseverance Mars rover has driven farther than any vehicle ever has on the surface of another world. On Oct.…
+Read the Story
+Unable to render the provided source
+Experience Opportunity's full mission with this 3D data visualization powered by real spacecraft data.
+NASA/JPL-Caltech/VTAD
+Nation United States of America (USA)
+Objective(s) Mars Surface Exploration
+Spacecraft Mars Exploration Rover 1 (MER 1) [became MER-B]
+Spacecraft Mass 2,341 pounds (1,062 kilograms)
+Mission Design and Management NASA / JPL
+Launch Vehicle Delta 7925H (no. D299)
+Launch Date and Time July 7, 2003 / 20:18:15 PDT
+Launch Site Cape Canaveral, Fla. / SLC-17B
+Scientific Instruments 1. Panoramic Mast Assembly
+a. panoramic cameras (Pancam)
+b. navigation cameras (Navcam)
+c. miniature thermal emission spectrometer (Mini-TES)
+2. Mössbauer Spectrometer (MB)
+3. Alpha Particle X-ray Spectrometer (APXS)
+4. Magnets (to collect dust particles)
+5. Microscopic Imager (MI)
+6. Rock Abrasion Tool (RAT)
+A 3D model of the twin Mars Exploration Rovers, Spirit and Opportunity.
+NASA Visualization Technology Applications and Development (VTAD)
+Firsts
+First human enterprise to exceed marathon distance of travel on another world
+Steepest slope driven by any rover on Mars
+Key Dates
+July 7, 2003: Launch
+Jan. 24, 2004: Mars landing
+June 10, 2018: Last communication with Opportunity
+Feb. 13, 2019: NASA declares End of Mission
+In Depth: Opportunity
+Opportunity launched at 20:18:15 July 7, 2003 PDT, from Cape Canaveral, Florida, and traveled for six months, landing on Mars on Jan. 24, 2004 PST, just 20 days after its twin rover, Spirit, landed on the other side of the Red Planet.
+Together, Spirit and Opportunity represented the Mars Exploration Rover Mission (MER)—itself part of NASA’s Mars Exploration Program.
+The twin missions’ main scientific objective was to search for a range of rocks and soil types and then look for clues for past water activity on Mars. Each rover, about the size of a golf cart and seven times heavier ( 408 pounds or 185 kilograms) than the Sojourner rover on Mars, was targeted to opposite sides of the planet in locales that were suspected of having been affected by liquid water in the past.
+The plan was for the rovers to move from place to place and to perform on-site geological investigations and take photographs with mast-mounted cameras (about five feet or 1.5 meters off the ground) providing 360-degree stereoscopic views of the terrain.
+A suite of instruments (MB, APXS, the magnets, MI, and RAT) were deployed on a robotic arm (known as the Instrument Deployment Device, IDD). The arm would place the instruments directly against soil or rock and activate the instruments.
+After a final course correction on Jan. 16, 2004, the spacecraft carrying Opportunity dived into the Martian atmosphere and landed on Jan. 25, 2004.
+The descent to the surface was uneventful with no anomalies. The lander, enclosed in the airbags, touched down at 21:05 PST (04:54 UTC) and then bounced at least 26 times before coming to rest in Meridiani Planum at 1.9483 degrees south latitude and 354.47417 degrees east longitude, about 9 miles (14.9 kilometers) from the intended target.
+This area now became known as the Challenger Memorial Station, in tribute to the Space Shuttle crew lost in 1986. Opportunity landed in a relatively flat plain but within an impact crater known as Eagle.
+After extensive studies within Eagle, on March 22, 2004, Opportunity climbed up the edge of the crater and rolled out and headed for a new phase of its mission in Endurance Crater, about 820 yards (750 meters) away.
+After exiting Eagle, the rover took some spectacular shots of the abandoned area where the lander, backshell, and parachute were still visible. Near its discarded heat shield, Opportunity discovered an unusual basketball-sized rock in January 2005 (named the “Heat Shield Rock”) that turned out to be an iron-nickel meteorite.
+This self-portrait of NASA's Mars Exploration Rover Opportunity comes courtesy of the Sun and the rover's front hazard-avoidance camera. The dramatic snapshot of Opportunity's shadow was taken as the rover moved into Endurance crater. The image was taken on sol 180 (July 26, 2004), a date that marked double the rover's primary 90-sol mission.
+NASA/JPL-Caltech
+Later that year, the rover got stuck after driving into an area where several of its wheels were buried in sand. Controllers at NASA's Jet Propulsion Laboratory in Pasadena, California, (JPL), were able to maneuver the vehicle a few inches at a time and to free Opportunity in June 2005 after six weeks.
+Through the remainder of 2005 and into 2006, the rover headed slowly south toward Victoria crater, first arriving at Erebus, a highly eroded impact crater about 980 feet (300 meters) in diameter.
+In March 2006, Opportunity began the last mile (2 kilometers) of its journey to Victoria, a crater that stretches a half-mile (800 meters) in diameter —wider and deeper than any yet examined by either rover. After a 21-month trip, Opportunity finally arrived at Victoria in September 2006 and sent back striking pictures of its rim.
+The following year, 2007, was an important test for Opportunity when severe dust storms plagued Mars. By July 18, the rover’s solar panels were reporting power at only 128 watt hours, the lowest for either rover at that point. All science activities were indefinitely suspended for Opportunity which faced much more severe conditions than Spirit.
+After about six weeks the dust storms abated and Opportunity was back in action. On Sept. 11, 2007, the rover entered Victoria Crater, staying inside for almost a year and sending back a wealth of information on its soil.
+Opportunity captured this vista of Victoria crater from Cape Verde, one of the promontories that are part of the scalloped rim of the crater. Opportunity drove onto Cape Verde shortly after arriving at the rim of Victoria in September 2006.
+NASA/JPL-Caltech/Cornell
+Opportunity’s next target was the enormous Endeavour Crater, about 13 miles (22 kilometers) in diameter.
+On the way there, the rover found the so-called Marquette Island rock, “different in composition and character from any known rock on Mars or meteorite from Mars,” according to Steve Squyres, the principal investigator for the rovers. The rock appeared to have originated deep in the Martian crust and someplace far away from the landing site, unlike almost all the rocks previously studied by Opportunity.
+By March 24, 2010, Opportunity had about 12 miles (20 kilometers) on its odometer, more than double the distance recorded by Spirit, and far more than was originally considered a nominal mission—1,968 feet ( 600 meters) .
+Two months later, on May 20—with Spirit already inactive—Opportunity broke the record set by the Viking 1 Lander for the longest continuous operation on the surface of Mars: 6 years and 116 days.
+By June 1, 2001, Opportunity — still heading towards Endeavour crater—had logged about 18 miles (30 kilometers).
+Finally, after a journey of nearly three years and about 13 miles (21 kilometers), Opportunity arrived at Endeavour crater on Aug. 9, 2011.
+In September 2011, NASA announced that an aluminum cuff that served as a cable shield on each of the RATs on the rovers was made from aluminum recovered from the World Trade Center towers, destroyed during the terrorist attacks on Sept. 11, 2001. Honeybee Robotics, which helped build the tool, had its offices in New York that day not far from the attacks. As a memorial to the victims, JPL and Honeybee worked together to include the aluminum on the Mars rovers.
+Through late 2012 and into 2013, Opportunity worked around a geographic feature named Matijevic Hill, which overlooks the Endeavour crater, analyzing rocks and soil.
+On May 16, 2013, NASA announced that Opportunity had passed the previous record for the farthest distance traveled by any NASA vehicle on another celestial body: 22.21 miles (35.744 kilometers)—a record set by the Apollo 17 Lunar Roving Vehicle in December 1972.
+By August 2013, Opportunity was at Solander Point, an area of contact between a rock layer that was formed in acidic wet conditions long before and an older one from a more “neutral” environment.
+On Jan. 3, 2014, Opportunity passed 10 years on the surface of Mars, now with relatively clean surfaces on its solar panels that allowed for increased power to the rover. A “selfie” from March 2014 showed a rover swept clean by wind earlier in the month. This raised hopes for continuing the mission.
+This self-portrait of Opportunity shows how the wind had cleaned much of the dust off the rover's solar panels. It combines multiple frames taken by Opportunity's panoramic camera (Pancam) through three different color filters from March 22 to March 24, 2014.
+NASA/JPL-Caltech/Cornell Univ./Arizona State Univ.
+As it continued to explore the Martian surface, on July 28, 2014, NASA announced that Opportunity had passed the distance record set on another celestial body, set by Lunokhod 2, when the American rover’s odometer showed 25.01 miles (40.25 kilometers), exceeding the Soviet vehicle’s record of 24 miles (39 kilometers). However, Russian analysis of images from NASA's Lunar Reconnaissance Orbiter (LRO) suggests that Lunokhod 2 may actually have traveled as much as 26 miles (42 kilometers).
+The rover was generally in good health, but because of the large number of computer resets in the preceding month, which interfered with its science goals, mission planners implemented a complete reformat of its flash memory on Sept. 4, 2014. The same day, NASA announced a ninth extension of Opportunity's mission—adding another two years with a mission to nearby Marathon Valley.
+At the beginning of September, Opportunity had covered about 25 miles (40.69 kilometers). At launch, like its sister rover, Spirit, Opportunity was designed to have a lifetime of 90 sols (Martian days)—about three Earth months.
+In December 2014, NASA announced that the rover had been plagued with problems with saving telemetry information into its “non-volatile” (or flash) memory, a problem traced to one of its seven memory banks (Bank 7). By May 2015, NASA controllers configured the memory so the rover was operating only in RAM-only mode.
+On March 25, 2015, NASA announced that having traveled 26.219 miles ( 42.195 kilometers ), Opportunity had become “the first human enterprise to exceed marathon distance of travel on another world.”
+In June 2015, Mars passed almost directly behind the Sun (from Earth’s perspective) and therefore communications with the rover were curtailed.
+In its seventh Martian winter (Earth winter 2015–2016), Opportunity was kept at “energy-minimum” levels due to the relative lack of solar energy. Still, Opportunity kept busy, using its rock abrasion tool (RAT) to remove surface dust from a target called “Private John Potts,” the name a reference to a member of the Lewis and Clark Expedition.
+During this period, Opportunity continued to explore the western rim of the 13-mile (22-kilometer) wide Endeavour crater, particularly the south side of Marathon Valley, which slices through Endeavour crater’s rim from west to east.
+From its perch high on a ridge, NASA's Opportunity rover recorded this image of a Martian dust devil twisting through the valley below. The view looks back at the rover's tracks leading up the southern edge of Marathon Valley in Endeavour crater. Opportunity took the image on March 31, 2016, during the 4,332nd Martian day, or sol, of the rover's work on Mars.
+On March 10, 2016, while making its closest approach to a target near the crest of Knudsen crater, it drove at a tilt of 32 degrees, breaking the record for the steepest slope driven by any rover on Mars—a record previously set by Opportunity during a climb in January 2004.
+In October 2016, Opportunity began its two-year extended mission that included investigations in the Bitterroot Valley portion of the western rim of the Endeavour crater. The plan was for the rover to travel into a gully that slices Endeavor and is about two football fields in length. Opportunity Principal Investigator Steve Squyres noted that scientists were “confident [that] this is a fluid-carved gully, and that water was involved.”
+On Feb. 7, 2017, Opportunity passed the 27-mile (44-kilometer) mark on its odometer, as it made slow progress towards its next major scientific objective, a gully named Perseverance Valley. It reached the valley by the first week of May.
+After snapping several panoramas of high-value targets in the gully, on June 4, the rover's left front wheel stalled, leaving the wheel “toed out” by 33 degrees. Fortunately, after several attempts, the wheel appeared to be steering straight again, although controllers could identify any conclusive cause for the problem.
+For about three weeks during June and July, there was reduced communication with the rover due to a solar conjunction (when the Sun comes between Earth and Mars). In mid-July, Opportunity finally entered Perseverance Valley and began driving down into the gully during which time, rover energy levels dropped due to reduced Sun exposure.
+Opportunity went quiet during a historic Mars-wide dust storm in 2018 that reduced the energy available to the rover's solar panels. The last signal from the spacecraft was heard on June 10, 2018.
+Designed to last just 90 Martian days and to travel 1,100 yards (1,000 meters), Opportunity vastly surpassed all expectations in its endurance, scientific value and longevity. In addition to exceeding its life expectancy by 60 times, the rover had traveled over 28 miles (45 kilometers) by the time it reached its most appropriate final resting spot on Mars -- Perseverance Valley.
+When NASA declared the mission complete on Feb. 13, 2019, total rover odometry was 28.06 miles (45.16 kilometers).
+This panoramic image, dubbed Rub al Khali, was acquired by NASA's Opportunity rover on the plains of Meridiani from May 6 to May 14, 2005. Opportunity was about 1.2 miles (2 kilometers) south of Endurance crater at a place known informally as Purgatory Dune.
+NASA/JPL/Cornell
+Additional Resources
+NASA: Opportunity
+NASA Mars Program: Opportunity
+National Space Science Data Center Master Catalog: Opportunity
+Mars Exploration Program
+Key Source
+Siddiqi, Asif A. Beyond Earth: A Chronicle of Deep Space Exploration, 1958-2016 . NASA History Program Office, 2018.
+More Opportunity and Mars Resources
+Twelve orbits a day provide NASA Mars Global Surveyor MOC wide angle cameras a global napshot of weather patterns across the planet. Here, bluish-white water ice clouds hang above the Tharsis volcanoes.
+Mars Page - Learn all about the Red Planet
+Mars Trek - Use this online application that allows you to view imagery and perform analysis on data from Mars.
+Eyes on the Solar System - Experience our solar system, the universe and the spacecraft exploring them, with immersive apps for Mac, PC and mobile devices.
+Opportunity Stories
+Explore All Opportunity Stories
+Article
+5 Min Read
+Establishing Crew Exposure Limits of Martian Dust
+37 Min Read
+Catching Up With Perseverance on Mars
+6 Min Read
+Advances in NASA Imaging Changed How World Sees Mars
+1 Min Read
+Sunset on Mars
+Image Article
+Perseverance Rover Witnesses One Martian Dust Devil Eating Another
+Keep Exploring
+Discover More Topics From NASA
+Webb is the premier observatory of the next decade, serving thousands of astronomers worldwide. It studies every phase in the…
+Perseverance Rover
+This rover and its aerial sidekick were assigned to study the geology of Mars and seek signs of ancient microbial…
+Parker Solar Probe
+On a mission to “touch the Sun,” NASA's Parker Solar Probe became the first spacecraft to fly through the corona…
+Juno
+NASA’s Juno spacecraft entered orbit around Jupiter in 2016, the first explorer to peer below the planet's dense clouds to…
+National Aeronautics and Space Administration
+NASA explores the unknown in air and space, innovates for the benefit of humanity, and inspires the world through discovery.
+About NASA's Mission
+Join Us
+Follow NASA
+More NASA Social Accounts
+NASA Newsletters
+Sitemap
+For Media
+Privacy Policy
+FOIA
+No FEAR Act
+Office of the IG
+Budget & Annual Reports
+Agency Financial Reports
+Contact NASA
+Accessibility
+Page Last Updated:
+Oct 12, 2026
+Page Editor:
+Stephen Carney
+Responsible NASA Official for Science:
+Dana Bolles
+Did you find what you were looking for? (Required)
+Yes
+Partly
+What were you looking for? (Required)
+What were you hoping to accomplish by visiting our website? (Required)
+Submit

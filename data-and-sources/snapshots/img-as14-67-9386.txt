@@ -1,0 +1,13 @@
+Source ID: img-as14-67-9386
+Title: AS14-67-9386: Laser Ranging Retro Reflector deployed by Apollo 14
+Publisher: NASA Image and Video Library
+URL: https://images.nasa.gov/details/as14-67-09386
+Fetched from: https://images-api.nasa.gov/search?nasa_id=as14-67-09386
+Retrieved: 2026-11-07 01:50 UTC (HTTP 200)
+Note: plain-text extract of the public page, kept as evidence for facts.csv. NASA web content is generally not subject to U.S. copyright; see the original page for images and context.
+------------------------------------------------------------------------------
+nasa_id: as14-67-09386
+title: View of the Laser Ranging Retro Reflector deployed by Apollo 14 astronauts
+date_created: 1971-02-05T00:00:00Z
+center: JSC
+description: AS14-67-9386 (5 Feb. 1971) --- A close-up view of the laser ranging retro reflector (LR3) which the Apollo 14 astronauts deployed on the moon during their lunar surface extravehicular activity (EVA). While astronauts Alan B. Shepard Jr., commander, and Edgar D. Mitchell, lunar module pilot, descended in the Lunar Module (LM) to explore the moon, astronaut Stuart A. Roosa, command module pilot, remained with the Command and Service Modules (CSM) in lunar orbit.

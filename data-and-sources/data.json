@@ -1,0 +1,2615 @@
+{
+ "generated": "2026-11-07",
+ "sources": [
+  {
+   "source_id": "challenge-brief",
+   "title": "Abandoned but not Forgotten: Storytelling about NASA's Discarded Equipment on the Moon and Mars (challenge brief)",
+   "publisher": "NASA Space Apps Challenge 2026",
+   "url": "https://www.spaceappschallenge.org/2026/challenges/nasas-discarded-equipment-storytelling/",
+   "fetch_url": "manual",
+   "authority": "NASA Space Apps Challenge official brief",
+   "used_on_website": "yes"
+  },
+  {
+   "source_id": "nssdc-a11-lm",
+   "title": "Apollo 11 Lunar Module / EASEP",
+   "publisher": "NASA Space Science Data Coordinated Archive (NSSDCA)",
+   "url": "https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1969-059C",
+   "fetch_url": "",
+   "authority": "NASA archive record (NSSDCA, Goddard Space Flight Center)",
+   "used_on_website": "yes"
+  },
+  {
+   "source_id": "nssdc-a11-lrrr",
+   "title": "Apollo 11 Laser Ranging Retroreflector (experiment 1969-059C-04)",
+   "publisher": "NASA NSSDCA",
+   "url": "https://nssdc.gsfc.nasa.gov/nmc/experiment/display.action?id=1969-059C-04",
+   "fetch_url": "",
+   "authority": "NASA archive record (NSSDCA, Goddard Space Flight Center)",
+   "used_on_website": "yes"
+  },
+  {
+   "source_id": "nasa-llr-keeps-giving",
+   "title": "The Apollo Experiment That Keeps on Giving",
+   "publisher": "NASA (2019)",
+   "url": "https://www.nasa.gov/missions/apollo/apollo-11/the-apollo-experiment-that-keeps-on-giving/",
+   "fetch_url": "",
+   "authority": "NASA official web page",
+   "used_on_website": "yes"
+  },
+  {
+   "source_id": "nasa-retroreflectors-apollo-mars",
+   "title": "Retroreflectors: From Apollo to Mars",
+   "publisher": "NASA",
+   "url": "https://www.nasa.gov/image-article/retroreflectors-from-apollo-mars/",
+   "fetch_url": "",
+   "authority": "NASA official web page",
+   "used_on_website": "yes"
+  },
+  {
+   "source_id": "nasa-tranquility-base",
+   "title": "At Tranquility Base",
+   "publisher": "NASA",
+   "url": "https://www.nasa.gov/image-article/tranquility-base/",
+   "fetch_url": "",
+   "authority": "NASA official web page",
+   "used_on_website": "yes"
+  },
+  {
+   "source_id": "nssdc-moon-facts",
+   "title": "Moon Fact Sheet (perigee, apogee, semimajor axis)",
+   "publisher": "NASA NSSDCA",
+   "url": "https://nssdc.gsfc.nasa.gov/planetary/factsheet/moonfact.html",
+   "fetch_url": "",
+   "authority": "NASA archive record (NSSDCA, Goddard Space Flight Center)",
+   "used_on_website": "yes"
+  },
+  {
+   "source_id": "nist-c",
+   "title": "Speed of light in vacuum (exact value, 299,792,458 m/s)",
+   "publisher": "NIST CODATA",
+   "url": "https://physics.nist.gov/cgi-bin/cuu/Value?c",
+   "fetch_url": "",
+   "authority": "U.S. National Institute of Standards and Technology (CODATA value)",
+   "used_on_website": "yes"
+  },
+  {
+   "source_id": "nasa-mer-spirit",
+   "title": "Spirit (MER-A) mission page",
+   "publisher": "NASA Science",
+   "url": "https://science.nasa.gov/mission/mer-spirit/",
+   "fetch_url": "",
+   "authority": "NASA official web page",
+   "used_on_website": "yes"
+  },
+  {
+   "source_id": "nasa-mer-twins",
+   "title": "Mars Exploration Rovers: Spirit and Opportunity",
+   "publisher": "NASA Science",
+   "url": "https://science.nasa.gov/mission/mars-exploration-rovers-spirit-and-opportunity/",
+   "fetch_url": "",
+   "authority": "NASA official web page",
+   "used_on_website": "yes"
+  },
+  {
+   "source_id": "pj-pia09491",
+   "title": "PIA09491: Silica-Rich Soil Found by Spirit",
+   "publisher": "NASA/JPL Photojournal",
+   "url": "https://photojournal.jpl.nasa.gov/catalog/PIA09491",
+   "fetch_url": "",
+   "authority": "NASA image record (official caption)",
+   "used_on_website": "yes"
+  },
+  {
+   "source_id": "pj-pia12203",
+   "title": "PIA12203: Calypso Panorama of Spirit's View from Troy",
+   "publisher": "NASA Image and Video Library",
+   "url": "https://images.nasa.gov/details/PIA12203",
+   "fetch_url": "https://images-api.nasa.gov/search?nasa_id=PIA12203",
+   "authority": "NASA image record (official caption)",
+   "used_on_website": "yes"
+  },
+  {
+   "source_id": "nasa-insight",
+   "title": "InSight mission page",
+   "publisher": "NASA Science",
+   "url": "https://science.nasa.gov/mission/insight/",
+   "fetch_url": "",
+   "authority": "NASA official web page",
+   "used_on_website": "yes"
+  },
+  {
+   "source_id": "nasa-insight-instruments",
+   "title": "InSight science instruments",
+   "publisher": "NASA Science",
+   "url": "https://science.nasa.gov/mission/insight/science-instruments/",
+   "fetch_url": "",
+   "authority": "NASA official web page",
+   "used_on_website": "yes"
+  },
+  {
+   "source_id": "nasa-insight-science",
+   "title": "InSight science (Instrument Deployment Camera selfies)",
+   "publisher": "NASA Science",
+   "url": "https://science.nasa.gov/mission/insight/science/",
+   "fetch_url": "",
+   "authority": "NASA official web page",
+   "used_on_website": "yes"
+  },
+  {
+   "source_id": "jpl-insight-retired",
+   "title": "NASA Retires InSight Mars Lander Mission After Years of Science (21 Dec 2022)",
+   "publisher": "NASA Jet Propulsion Laboratory",
+   "url": "https://www.jpl.nasa.gov/news/nasa-retires-insight-mars-lander-mission-after-years-of-science/",
+   "fetch_url": "",
+   "authority": "NASA Jet Propulsion Laboratory news release",
+   "used_on_website": "yes"
+  },
+  {
+   "source_id": "jpl-insight-interior",
+   "title": "NASA's InSight Reveals the Deep Interior of Mars",
+   "publisher": "NASA Jet Propulsion Laboratory",
+   "url": "https://www.jpl.nasa.gov/news/nasas-insight-reveals-the-deep-interior-of-mars/",
+   "fetch_url": "",
+   "authority": "NASA Jet Propulsion Laboratory news release",
+   "used_on_website": "yes"
+  },
+  {
+   "source_id": "jpl-insight-first-instrument",
+   "title": "NASA's InSight Places First Instrument on Mars (19 Dec 2018)",
+   "publisher": "NASA Jet Propulsion Laboratory",
+   "url": "https://www.jpl.nasa.gov/news/nasas-insight-places-first-instrument-on-mars/",
+   "fetch_url": "",
+   "authority": "NASA Jet Propulsion Laboratory news release",
+   "used_on_website": "yes"
+  },
+  {
+   "source_id": "img-as11-40-5927",
+   "title": "AS11-40-5927: View of Apollo 11 Lunar Module as it rested on lunar surface",
+   "publisher": "NASA Image and Video Library",
+   "url": "https://images.nasa.gov/details/as11-40-5927",
+   "fetch_url": "https://images-api.nasa.gov/search?nasa_id=as11-40-5927",
+   "authority": "NASA image record (official caption)",
+   "used_on_website": "yes"
+  },
+  {
+   "source_id": "img-as11-40-5899",
+   "title": "AS11-40-5899: View of plaque Apollo 11 astronauts left on moon",
+   "publisher": "NASA Image and Video Library",
+   "url": "https://images.nasa.gov/details/as11-40-5899",
+   "fetch_url": "https://images-api.nasa.gov/search?nasa_id=as11-40-5899",
+   "authority": "NASA image record (official caption)",
+   "used_on_website": "yes"
+  },
+  {
+   "source_id": "img-s69-39334",
+   "title": "S69-39334: Plaque which Apollo 11 astronauts will leave on the moon (size and mounting)",
+   "publisher": "NASA Image and Video Library",
+   "url": "https://images.nasa.gov/details/S69-39334",
+   "fetch_url": "https://images-api.nasa.gov/search?nasa_id=S69-39334",
+   "authority": "NASA image record (official caption)",
+   "used_on_website": "yes"
+  },
+  {
+   "source_id": "img-as11-40-5948",
+   "title": "AS11-40-5948: Aldrin after deployment of EASEP on surface of moon",
+   "publisher": "NASA Image and Video Library",
+   "url": "https://images.nasa.gov/details/as11-40-5948",
+   "fetch_url": "https://images-api.nasa.gov/search?nasa_id=as11-40-5948",
+   "authority": "NASA image record (official caption)",
+   "used_on_website": "yes"
+  },
+  {
+   "source_id": "img-as11-40-5951",
+   "title": "AS11-40-5951: Aldrin deploys the Passive Seismic Experiment Package",
+   "publisher": "NASA Image and Video Library",
+   "url": "https://images.nasa.gov/details/as11-40-5951",
+   "fetch_url": "https://images-api.nasa.gov/search?nasa_id=as11-40-5951",
+   "authority": "NASA image record (official caption)",
+   "used_on_website": "yes"
+  },
+  {
+   "source_id": "msfc-6900957",
+   "title": "6900957: Aldrin carrying the Early Apollo Scientific Experiment Package",
+   "publisher": "NASA Image and Video Library (Marshall Space Flight Center)",
+   "url": "https://images.nasa.gov/details/6900957",
+   "fetch_url": "https://images-api.nasa.gov/search?nasa_id=6900957",
+   "authority": "NASA image record (official caption)",
+   "used_on_website": "yes"
+  },
+  {
+   "source_id": "img-as14-67-9386",
+   "title": "AS14-67-9386: Laser Ranging Retro Reflector deployed by Apollo 14",
+   "publisher": "NASA Image and Video Library",
+   "url": "https://images.nasa.gov/details/as14-67-09386",
+   "fetch_url": "https://images-api.nasa.gov/search?nasa_id=as14-67-09386",
+   "authority": "NASA image record (official caption)",
+   "used_on_website": "yes"
+  },
+  {
+   "source_id": "img-pia04413",
+   "title": "PIA04413: Artist Concept of Rover on Mars",
+   "publisher": "NASA Image and Video Library",
+   "url": "https://images.nasa.gov/details/PIA04413",
+   "fetch_url": "https://images-api.nasa.gov/search?nasa_id=PIA04413",
+   "authority": "NASA image record (official caption)",
+   "used_on_website": "yes"
+  },
+  {
+   "source_id": "img-pia25287",
+   "title": "PIA25287: InSight's Final Selfie",
+   "publisher": "NASA Image and Video Library",
+   "url": "https://images.nasa.gov/details/PIA25287",
+   "fetch_url": "https://images-api.nasa.gov/search?nasa_id=PIA25287",
+   "authority": "NASA image record (official caption)",
+   "used_on_website": "yes"
+  },
+  {
+   "source_id": "img-pia23177",
+   "title": "PIA23177: InSight's Seismometer on the Martian Surface",
+   "publisher": "NASA Image and Video Library",
+   "url": "https://images.nasa.gov/details/PIA23177",
+   "fetch_url": "https://images-api.nasa.gov/search?nasa_id=PIA23177",
+   "authority": "NASA image record (official caption)",
+   "used_on_website": "yes"
+  },
+  {
+   "source_id": "img-pia22871",
+   "title": "PIA22871: Full View of InSight's Deck and Two Science Instruments",
+   "publisher": "NASA Image and Video Library",
+   "url": "https://images.nasa.gov/details/PIA22871",
+   "fetch_url": "https://images-api.nasa.gov/search?nasa_id=PIA22871",
+   "authority": "NASA image record (official caption)",
+   "used_on_website": "yes"
+  },
+  {
+   "source_id": "nasa3d-lm",
+   "title": "Apollo Lunar Module (3D model, GLB)",
+   "publisher": "NASA 3D Resources",
+   "url": "https://github.com/nasa/NASA-3D-Resources/tree/master/3D%20Models/Apollo%20Lunar%20Module",
+   "fetch_url": "",
+   "authority": "NASA 3D Resources (official NASA asset library)",
+   "used_on_website": "yes"
+  },
+  {
+   "source_id": "nasa3d-mer-b",
+   "title": "Mars Exploration Rover – Opportunity (MER-B) (3D model, GLB)",
+   "publisher": "NASA 3D Resources",
+   "url": "https://science.nasa.gov/3d-resources/mars-exploration-rover-opportunity-mer-b/",
+   "fetch_url": "",
+   "authority": "NASA 3D Resources (official NASA asset library)",
+   "used_on_website": "yes"
+  },
+  {
+   "source_id": "nasa3d-insight",
+   "title": "InSight Cruise Lander, arm deployed (3D model, GLB)",
+   "publisher": "NASA 3D Resources",
+   "url": "https://science.nasa.gov/3d-resources/insight-cruise-lander/",
+   "fetch_url": "",
+   "authority": "NASA 3D Resources (official NASA asset library)",
+   "used_on_website": "yes"
+  },
+  {
+   "source_id": "nasa3d-mars-texture",
+   "title": "Mars (global texture map)",
+   "publisher": "NASA 3D Resources (NASA/JPL-Caltech; Viking images processed at USGS)",
+   "url": "https://science.nasa.gov/3d-resources/mars/",
+   "fetch_url": "",
+   "authority": "NASA 3D Resources (official NASA asset library)",
+   "used_on_website": "yes"
+  },
+  {
+   "source_id": "svs-cgi-moon-kit",
+   "title": "CGI Moon Kit (lroc_color_2k.jpg)",
+   "publisher": "NASA's Scientific Visualization Studio",
+   "url": "https://svs.gsfc.nasa.gov/4720/",
+   "fetch_url": "",
+   "authority": "NASA Scientific Visualization Studio",
+   "used_on_website": "yes"
+  },
+  {
+   "source_id": "nasa-media-guidelines",
+   "title": "NASA Images and Media Usage Guidelines",
+   "publisher": "NASA",
+   "url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+   "fetch_url": "",
+   "authority": "NASA policy page",
+   "used_on_website": "yes"
+  },
+  {
+   "source_id": "nssdc-a12-lm",
+   "title": "Apollo 12 Lunar Module / ALSEP (1969-099C)",
+   "publisher": "NASA Space Science Data Coordinated Archive (NSSDCA)",
+   "url": "https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1969-099C",
+   "fetch_url": "",
+   "authority": "NASA archive record (NSSDCA, Goddard Space Flight Center)",
+   "used_on_website": "no"
+  },
+  {
+   "source_id": "nssdc-a14-lm",
+   "title": "Apollo 14 Lunar Module / ALSEP (1971-008C)",
+   "publisher": "NASA Space Science Data Coordinated Archive (NSSDCA)",
+   "url": "https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1971-008C",
+   "fetch_url": "",
+   "authority": "NASA archive record (NSSDCA, Goddard Space Flight Center)",
+   "used_on_website": "no"
+  },
+  {
+   "source_id": "nssdc-a15-lm",
+   "title": "Apollo 15 Lunar Module / ALSEP (1971-063C)",
+   "publisher": "NASA Space Science Data Coordinated Archive (NSSDCA)",
+   "url": "https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1971-063C",
+   "fetch_url": "",
+   "authority": "NASA archive record (NSSDCA, Goddard Space Flight Center)",
+   "used_on_website": "no"
+  },
+  {
+   "source_id": "nssdc-a16-lm",
+   "title": "Apollo 16 Lunar Module / ALSEP (1972-031C)",
+   "publisher": "NASA Space Science Data Coordinated Archive (NSSDCA)",
+   "url": "https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1972-031C",
+   "fetch_url": "",
+   "authority": "NASA archive record (NSSDCA, Goddard Space Flight Center)",
+   "used_on_website": "no"
+  },
+  {
+   "source_id": "nssdc-a17-lm",
+   "title": "Apollo 17 Lunar Module / ALSEP (1972-096C)",
+   "publisher": "NASA Space Science Data Coordinated Archive (NSSDCA)",
+   "url": "https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1972-096C",
+   "fetch_url": "",
+   "authority": "NASA archive record (NSSDCA, Goddard Space Flight Center)",
+   "used_on_website": "no"
+  },
+  {
+   "source_id": "nssdc-surveyor1",
+   "title": "Surveyor 1 (1966-045A)",
+   "publisher": "NASA Space Science Data Coordinated Archive (NSSDCA)",
+   "url": "https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1966-045A",
+   "fetch_url": "",
+   "authority": "NASA archive record (NSSDCA, Goddard Space Flight Center)",
+   "used_on_website": "no"
+  },
+  {
+   "source_id": "nssdc-surveyor3",
+   "title": "Surveyor 3 (1967-035A)",
+   "publisher": "NASA Space Science Data Coordinated Archive (NSSDCA)",
+   "url": "https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1967-035A",
+   "fetch_url": "",
+   "authority": "NASA archive record (NSSDCA, Goddard Space Flight Center)",
+   "used_on_website": "no"
+  },
+  {
+   "source_id": "nssdc-surveyor5",
+   "title": "Surveyor 5 (1967-084A)",
+   "publisher": "NASA Space Science Data Coordinated Archive (NSSDCA)",
+   "url": "https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1967-084A",
+   "fetch_url": "",
+   "authority": "NASA archive record (NSSDCA, Goddard Space Flight Center)",
+   "used_on_website": "no"
+  },
+  {
+   "source_id": "nssdc-surveyor6",
+   "title": "Surveyor 6 (1967-112A)",
+   "publisher": "NASA Space Science Data Coordinated Archive (NSSDCA)",
+   "url": "https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1967-112A",
+   "fetch_url": "",
+   "authority": "NASA archive record (NSSDCA, Goddard Space Flight Center)",
+   "used_on_website": "no"
+  },
+  {
+   "source_id": "nssdc-surveyor7",
+   "title": "Surveyor 7 (1968-001A)",
+   "publisher": "NASA Space Science Data Coordinated Archive (NSSDCA)",
+   "url": "https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1968-001A",
+   "fetch_url": "",
+   "authority": "NASA archive record (NSSDCA, Goddard Space Flight Center)",
+   "used_on_website": "no"
+  },
+  {
+   "source_id": "nssdc-viking1-lander",
+   "title": "Viking 1 Lander (1975-075C)",
+   "publisher": "NASA Space Science Data Coordinated Archive (NSSDCA)",
+   "url": "https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1975-075C",
+   "fetch_url": "",
+   "authority": "NASA archive record (NSSDCA, Goddard Space Flight Center)",
+   "used_on_website": "no"
+  },
+  {
+   "source_id": "nssdc-viking2-lander",
+   "title": "Viking 2 Lander (1975-083C)",
+   "publisher": "NASA Space Science Data Coordinated Archive (NSSDCA)",
+   "url": "https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1975-083C",
+   "fetch_url": "",
+   "authority": "NASA archive record (NSSDCA, Goddard Space Flight Center)",
+   "used_on_website": "no"
+  },
+  {
+   "source_id": "nssdc-mars-pathfinder",
+   "title": "Mars Pathfinder (1996-068A)",
+   "publisher": "NASA Space Science Data Coordinated Archive (NSSDCA)",
+   "url": "https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1996-068A",
+   "fetch_url": "",
+   "authority": "NASA archive record (NSSDCA, Goddard Space Flight Center)",
+   "used_on_website": "no"
+  },
+  {
+   "source_id": "nssdc-spirit",
+   "title": "Spirit, Mars Exploration Rover A (2003-027A)",
+   "publisher": "NASA Space Science Data Coordinated Archive (NSSDCA)",
+   "url": "https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=2003-027A",
+   "fetch_url": "",
+   "authority": "NASA archive record (NSSDCA, Goddard Space Flight Center)",
+   "used_on_website": "no"
+  },
+  {
+   "source_id": "nssdc-opportunity",
+   "title": "Opportunity, Mars Exploration Rover B (2003-032A)",
+   "publisher": "NASA Space Science Data Coordinated Archive (NSSDCA)",
+   "url": "https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=2003-032A",
+   "fetch_url": "",
+   "authority": "NASA archive record (NSSDCA, Goddard Space Flight Center)",
+   "used_on_website": "no"
+  },
+  {
+   "source_id": "nssdc-phoenix",
+   "title": "Phoenix Mars Lander (2007-034A)",
+   "publisher": "NASA Space Science Data Coordinated Archive (NSSDCA)",
+   "url": "https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=2007-034A",
+   "fetch_url": "",
+   "authority": "NASA archive record (NSSDCA, Goddard Space Flight Center)",
+   "used_on_website": "no"
+  },
+  {
+   "source_id": "nssdc-curiosity",
+   "title": "Mars Science Laboratory / Curiosity (2011-070A)",
+   "publisher": "NASA Space Science Data Coordinated Archive (NSSDCA)",
+   "url": "https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=2011-070A",
+   "fetch_url": "",
+   "authority": "NASA archive record (NSSDCA, Goddard Space Flight Center)",
+   "used_on_website": "no"
+  },
+  {
+   "source_id": "nssdc-insight",
+   "title": "InSight Mars Lander (2018-042A)",
+   "publisher": "NASA Space Science Data Coordinated Archive (NSSDCA)",
+   "url": "https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=2018-042A",
+   "fetch_url": "",
+   "authority": "NASA archive record (NSSDCA, Goddard Space Flight Center)",
+   "used_on_website": "no"
+  },
+  {
+   "source_id": "nssdc-perseverance",
+   "title": "Mars 2020 / Perseverance (2020-052A)",
+   "publisher": "NASA Space Science Data Coordinated Archive (NSSDCA)",
+   "url": "https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=2020-052A",
+   "fetch_url": "",
+   "authority": "NASA archive record (NSSDCA, Goddard Space Flight Center)",
+   "used_on_website": "no"
+  },
+  {
+   "source_id": "nasa-viking-1",
+   "title": "Viking 1 mission page",
+   "publisher": "NASA Science",
+   "url": "https://science.nasa.gov/mission/viking-1/",
+   "fetch_url": "",
+   "authority": "NASA official mission page",
+   "used_on_website": "no"
+  },
+  {
+   "source_id": "nasa-viking-2",
+   "title": "Viking 2 mission page",
+   "publisher": "NASA Science",
+   "url": "https://science.nasa.gov/mission/viking-2/",
+   "fetch_url": "",
+   "authority": "NASA official mission page",
+   "used_on_website": "no"
+  },
+  {
+   "source_id": "nasa-mars-pathfinder",
+   "title": "Mars Pathfinder mission page",
+   "publisher": "NASA Science",
+   "url": "https://science.nasa.gov/mission/mars-pathfinder/",
+   "fetch_url": "",
+   "authority": "NASA official mission page",
+   "used_on_website": "no"
+  },
+  {
+   "source_id": "nasa-mer-opportunity",
+   "title": "Opportunity (MER-B) mission page",
+   "publisher": "NASA Science",
+   "url": "https://science.nasa.gov/mission/mer-opportunity/",
+   "fetch_url": "",
+   "authority": "NASA official mission page",
+   "used_on_website": "no"
+  },
+  {
+   "source_id": "nasa-phoenix",
+   "title": "Phoenix mission page",
+   "publisher": "NASA Science",
+   "url": "https://science.nasa.gov/mission/phoenix/",
+   "fetch_url": "",
+   "authority": "NASA official mission page",
+   "used_on_website": "no"
+  },
+  {
+   "source_id": "nasa-msl-curiosity",
+   "title": "Curiosity (MSL) mission page",
+   "publisher": "NASA Science",
+   "url": "https://science.nasa.gov/mission/msl-curiosity/",
+   "fetch_url": "",
+   "authority": "NASA official mission page",
+   "used_on_website": "no"
+  },
+  {
+   "source_id": "nasa-mars-2020",
+   "title": "Mars 2020 Perseverance mission page",
+   "publisher": "NASA Science",
+   "url": "https://science.nasa.gov/mission/mars-2020-perseverance/",
+   "fetch_url": "",
+   "authority": "NASA official mission page",
+   "used_on_website": "no"
+  },
+  {
+   "source_id": "nasa-ingenuity",
+   "title": "Ingenuity Mars Helicopter mission page",
+   "publisher": "NASA Science",
+   "url": "https://science.nasa.gov/mission/mars-2020-perseverance/ingenuity-mars-helicopter/",
+   "fetch_url": "",
+   "authority": "NASA official mission page",
+   "used_on_website": "no"
+  },
+  {
+   "source_id": "nasa3d-github",
+   "title": "NASA-3D-Resources repository README (usage statement)",
+   "publisher": "NASA (GitHub)",
+   "url": "https://github.com/nasa/NASA-3D-Resources",
+   "fetch_url": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/README.md",
+   "authority": "NASA 3D Resources (official NASA asset library)",
+   "used_on_website": "yes"
+  }
+ ],
+ "facts": [
+  {
+   "fact_id": "A11-01",
+   "artifact": "apollo11-descent-stage",
+   "topic": "landing",
+   "claim": "Eagle landed on the Moon on 20 July 1969",
+   "value": "1969-07-20 20:17:40 UT",
+   "source_id": "nssdc-a11-lm",
+   "evidence": "The LM landed at 20:17:40 UT (4:17:40 p.m. EDT) on 20 July 1969",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "A11-02",
+   "artifact": "apollo11-descent-stage",
+   "topic": "location",
+   "claim": "Landing coordinates (from LRO images)",
+   "value": "0.67416 N, 23.47314 E",
+   "source_id": "nssdc-a11-lm",
+   "evidence": "0.67416 degrees N latitude, 23.47314 degrees E longitude (as determined from Lunar Reconnaissance Orbiter images",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "A11-03",
+   "artifact": "apollo11-descent-stage",
+   "topic": "first",
+   "claim": "First crewed vehicle to land on the Moon",
+   "value": "",
+   "source_id": "nssdc-a11-lm",
+   "evidence": "was the first crewed vehicle to land on the Moon",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "A11-04",
+   "artifact": "apollo11-descent-stage",
+   "topic": "crew",
+   "claim": "Crew on the surface: Neil A. Armstrong and Edwin E. \"Buzz\" Aldrin Jr.",
+   "value": "",
+   "source_id": "nssdc-a11-lm",
+   "evidence": "It carried two astronauts, Commander Neil A. Armstrong and LM pilot Edwin E.",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "A11-05",
+   "artifact": "apollo11-descent-stage",
+   "topic": "descent",
+   "claim": "Descent engine burn to the surface",
+   "value": "756.3 s, starting 20:05 UT",
+   "source_id": "nssdc-a11-lm",
+   "evidence": "At 20:05 the LM descent engine fired for 756.3 seconds",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "A11-06",
+   "artifact": "apollo11-descent-stage",
+   "topic": "surface",
+   "claim": "Armstrong stepped onto the surface",
+   "value": "1969-07-21 02:56:15 UT",
+   "source_id": "nssdc-a11-lm",
+   "evidence": "Armstrong stepped onto the lunar surface at 02:56:15 UT on 21 July",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "A11-07",
+   "artifact": "apollo11-descent-stage",
+   "topic": "surface",
+   "claim": "Aldrin followed 19 minutes later",
+   "value": "",
+   "source_id": "nssdc-a11-lm",
+   "evidence": "Aldrin followed 19 minutes later",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "A11-08",
+   "artifact": "apollo11-descent-stage",
+   "topic": "plaque",
+   "claim": "Crew unveiled the plaque on a strut behind the ladder and read it aloud",
+   "value": "",
+   "source_id": "nssdc-a11-lm",
+   "evidence": "unveiled the plaque mounted on a strut behind the ladder and read the inscription aloud",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "A11-09",
+   "artifact": "apollo11-descent-stage",
+   "topic": "plaque",
+   "claim": "Plaque inscription as transcribed by NSSDCA (the engraving itself, visible in AS11-40-5899, reads \"upon the Moon\"; the website quotes the engraving)",
+   "value": "Here men from the planet Earth first set foot on the Moon July 1969, A.D. We came in peace for all mankind.",
+   "source_id": "nssdc-a11-lm",
+   "evidence": "Here men from the planet Earth first set foot on the Moon July 1969, A.D. We came in peace for all mankind.",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "A11-10",
+   "artifact": "apollo11-descent-stage",
+   "topic": "plaque",
+   "claim": "Plaque fixed to the ladder on the landing-gear strut, covered by steel sheet in flight",
+   "value": "",
+   "source_id": "img-as11-40-5899",
+   "evidence": "The plaque was attached to the ladder on the landing gear strut on the descent stage",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "A11-11",
+   "artifact": "apollo11-descent-stage",
+   "topic": "plaque",
+   "claim": "Plaque size (stainless steel)",
+   "value": "9 x 7 5/8 in, 1/16 in thick (about 23 x 19 cm)",
+   "source_id": "img-s69-39334",
+   "evidence": "measuring nine by seven and five-eighths inches, and one-sixteenth inch thick",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "A11-12",
+   "artifact": "apollo11-descent-stage",
+   "topic": "departure",
+   "claim": "Ascent stage lifted off after 21 h 36 min on the surface",
+   "value": "1969-07-21 17:54:01 UT",
+   "source_id": "nssdc-a11-lm",
+   "evidence": "The LM lifted off from the Moon at 17:54:01 UT on 21 July after 21 hours, 36 minutes on the lunar surface.",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "A11-13",
+   "artifact": "apollo11-descent-stage",
+   "topic": "status",
+   "claim": "Fate of the ascent stage unknown; assumed to have crashed within 1 to 4 months",
+   "value": "",
+   "source_id": "nssdc-a11-lm",
+   "evidence": "The fate of the LM is not known, but it is assumed that it crashed into the lunar surface sometime within the following 1 to 4 months.",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "A11-14",
+   "artifact": "apollo11-descent-stage",
+   "topic": "status",
+   "claim": "The descent stage served as launch platform and was left on the Moon",
+   "value": "",
+   "source_id": "nssdc-a11-lm",
+   "evidence": "The descent stage served as a platform for launching the ascent stage and was left behind on the Moon.",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "A11-15",
+   "artifact": "apollo11-descent-stage",
+   "topic": "design",
+   "claim": "Descent stage shape and size",
+   "value": "octagonal prism 4.2 m across, 1.7 m thick",
+   "source_id": "nssdc-a11-lm",
+   "evidence": "octagonal prism 4.2 meters across and 1.7 m thick",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "A11-16",
+   "artifact": "apollo11-descent-stage",
+   "topic": "design",
+   "claim": "Legs held the stage bottom 1.5 m above the surface",
+   "value": "1.5 m",
+   "source_id": "nssdc-a11-lm",
+   "evidence": "held the bottom of the stage 1.5 m above the surface",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "A11-17",
+   "artifact": "apollo11-descent-stage",
+   "topic": "design",
+   "claim": "Distance between opposite footpads",
+   "value": "9.4 m",
+   "source_id": "nssdc-a11-lm",
+   "evidence": "The distance between the ends of the footpads on opposite landing legs was 9.4 m.",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "A11-18",
+   "artifact": "apollo11-descent-stage",
+   "topic": "design",
+   "claim": "One leg had an egress platform (porch) and ladder",
+   "value": "",
+   "source_id": "nssdc-a11-lm",
+   "evidence": "One of the legs had a small astronaut egress platform and ladder.",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "A11-19",
+   "artifact": "apollo11-descent-stage",
+   "topic": "design",
+   "claim": "Descent engine skirt about 1 m long",
+   "value": "1 m",
+   "source_id": "nssdc-a11-lm",
+   "evidence": "A one meter long conical descent engine skirt protruded from the bottom of the stage.",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "A11-20",
+   "artifact": "apollo11-descent-stage",
+   "topic": "design",
+   "claim": "Tanks carried in the descent stage",
+   "value": "Aerozine 50, nitrogen tetroxide, water, oxygen, helium",
+   "source_id": "nssdc-a11-lm",
+   "evidence": "two tanks of aerozine 50 fuel, two tanks of nitrogen tetroxide oxidizer, water, oxygen and helium tanks",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "A11-21",
+   "artifact": "apollo11-descent-stage",
+   "topic": "design",
+   "claim": "Descent engine maximum thrust (deep-throttling)",
+   "value": "about 45,000 N",
+   "source_id": "nssdc-a11-lm",
+   "evidence": "deep-throttling ablative rocket with a maximum thrust of about 45,000 N",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "A11-22",
+   "artifact": "apollo11-descent-stage",
+   "topic": "design",
+   "claim": "Descent stage dry mass and initial propellant",
+   "value": "2,034 kg dry; 8,248 kg propellant",
+   "source_id": "nssdc-a11-lm",
+   "evidence": "The descent stage dry mass (including stowed surface equipment) was 2034 kg and 8248 kg of propellant were onboard initially.",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "A11-23",
+   "artifact": "apollo11-descent-stage",
+   "topic": "legacy",
+   "claim": "On Apollo 15, 16 and 17 the descent stage also carried the lunar rover",
+   "value": "",
+   "source_id": "nssdc-a11-lm",
+   "evidence": "in the case of Apollo 15, 16, and 17, the lunar rover",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "A11-24",
+   "artifact": "apollo11-descent-stage",
+   "topic": "equipment bay",
+   "claim": "The experiments package was stowed in the descent stage scientific equipment bay",
+   "value": "",
+   "source_id": "img-as11-40-5927",
+   "evidence": "scientific equipment bay",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "A11-25",
+   "artifact": "apollo11-descent-stage",
+   "topic": "science",
+   "claim": "Lunar samples collected",
+   "value": "21.55 kg (about 47 lb)",
+   "source_id": "nssdc-a11-lm",
+   "evidence": "collected 21.55 kg of lunar rock and soil",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "A11-26",
+   "artifact": "apollo11-descent-stage",
+   "topic": "science",
+   "claim": "Samples (MSFC caption figure)",
+   "value": "47 pounds",
+   "source_id": "msfc-6900957",
+   "evidence": "collected 47 pounds of lunar surface material",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "LR-01",
+   "artifact": "apollo11-retroreflector",
+   "topic": "location",
+   "claim": "Experiments package (EASEP) site about 17 m south of the LM",
+   "value": "0.6735 N, 23.4730 E",
+   "source_id": "nssdc-a11-lm",
+   "evidence": "The EASEP was deployed approximately 17 m south of the LM, at 0.6735 N latitude, 23.4730 E longitude",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "LR-02",
+   "artifact": "apollo11-retroreflector",
+   "topic": "location",
+   "claim": "Reflector deployed about 5 m north-northwest of the EASEP; needs no power",
+   "value": "",
+   "source_id": "nssdc-a11-lm",
+   "evidence": "It was deployed about 5 meters NNW of the EASEP.",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "LR-03",
+   "artifact": "apollo11-retroreflector",
+   "topic": "design",
+   "claim": "Reflector required no power",
+   "value": "",
+   "source_id": "nssdc-a11-lm",
+   "evidence": "required no power",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "LR-04",
+   "artifact": "apollo11-retroreflector",
+   "topic": "design",
+   "claim": "Built of fused-silica cubes on a folding support aimed at Earth",
+   "value": "",
+   "source_id": "nssdc-a11-lrrr",
+   "evidence": "folding support structure for aiming and aligning the array toward earth. The array was built of cubes of fused silica.",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "LR-05",
+   "artifact": "apollo11-retroreflector",
+   "topic": "people",
+   "claim": "Principal investigator",
+   "value": "Carroll O. Alley, University of Maryland",
+   "source_id": "nssdc-a11-lrrr",
+   "evidence": "Carroll O. Alley",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "LR-06",
+   "artifact": "apollo11-retroreflector",
+   "topic": "design",
+   "claim": "Apollo 11 and 14 arrays: 100 corner cubes each; Apollo 15: 300",
+   "value": "100 / 100 / 300",
+   "source_id": "nasa-llr-keeps-giving",
+   "evidence": "The Apollo 11 and 14 arrays have 100 quartz glass prisms (called corner cubes) each, while the array of Apollo 15 has 300.",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "LR-07",
+   "artifact": "apollo11-retroreflector",
+   "topic": "design",
+   "claim": "The arrays require no power",
+   "value": "",
+   "source_id": "nasa-llr-keeps-giving",
+   "evidence": "The arrays themselves require no power.",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "LR-08",
+   "artifact": "apollo11-retroreflector",
+   "topic": "status",
+   "claim": "Observatories using the arrays (as of NASA 2019 article)",
+   "value": "New Mexico, France, Italy, Germany",
+   "source_id": "nasa-llr-keeps-giving",
+   "evidence": "Four telescopes at observatories in New Mexico, France, Italy and Germany fire lasers at them",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "LR-09",
+   "artifact": "apollo11-retroreflector",
+   "topic": "science",
+   "claim": "Distance precision",
+   "value": "a few millimeters",
+   "source_id": "nasa-llr-keeps-giving",
+   "evidence": "within a fraction of an inch (a few millimeters)",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "LR-10",
+   "artifact": "apollo11-retroreflector",
+   "topic": "science",
+   "claim": "Average Earth-Moon distance (NASA article)",
+   "value": "385,000 km",
+   "source_id": "nasa-llr-keeps-giving",
+   "evidence": "average distance of 239,000 miles (385,000 kilometers)",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "LR-11",
+   "artifact": "apollo11-retroreflector",
+   "topic": "science",
+   "claim": "Moon recedes from Earth",
+   "value": "3.8 cm per year",
+   "source_id": "nasa-llr-keeps-giving",
+   "evidence": "increases by 1.5 inches (3.8 centimeters) a year",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "LR-12",
+   "artifact": "apollo11-retroreflector",
+   "topic": "science",
+   "claim": "Tidal cause of the recession",
+   "value": "3 mm per month",
+   "source_id": "nasa-llr-keeps-giving",
+   "evidence": "causes the Moon to spiral away from Earth by 0.1 inches (3 millimeters) each month",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "LR-13",
+   "artifact": "apollo11-retroreflector",
+   "topic": "science",
+   "claim": "Moon flexes up and down each month",
+   "value": "up to 15 cm",
+   "source_id": "nasa-llr-keeps-giving",
+   "evidence": "vary as much as six inches (15 centimeters) up and down each month",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "LR-14",
+   "artifact": "apollo11-retroreflector",
+   "topic": "science",
+   "claim": "Lunar laser ranging shows the Moon has a fluid core",
+   "value": "",
+   "source_id": "nasa-llr-keeps-giving",
+   "evidence": "shows that the Moon has a fluid core",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "LR-15",
+   "artifact": "apollo11-retroreflector",
+   "topic": "science",
+   "claim": "Test of Einstein: no composition-dependent difference in gravity",
+   "value": "",
+   "source_id": "nasa-llr-keeps-giving",
+   "evidence": "finds no difference in how gravity attracts the Moon and Earth due to their makeup",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "LR-16",
+   "artifact": "apollo11-retroreflector",
+   "topic": "science",
+   "claim": "Lunar orbit and orientation needed by orbiters and landers",
+   "value": "",
+   "source_id": "nasa-llr-keeps-giving",
+   "evidence": "The lunar orbit and the orientation of the rotating Moon are needed by spacecraft that orbit and land on the Moon.",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "LR-17",
+   "artifact": "apollo11-retroreflector",
+   "topic": "legacy",
+   "claim": "NASA approved a new generation of lunar reflectors",
+   "value": "",
+   "source_id": "nasa-llr-keeps-giving",
+   "evidence": "NASA has approved a new generation of reflectors",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "LR-18",
+   "artifact": "apollo11-retroreflector",
+   "topic": "status",
+   "claim": "Research with Apollo-era reflectors continues",
+   "value": "",
+   "source_id": "nasa-retroreflectors-apollo-mars",
+   "evidence": "Research with these Apollo-era lunar retroreflectors continues to this day.",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "LR-19",
+   "artifact": "apollo11-retroreflector",
+   "topic": "legacy",
+   "claim": "Perseverance and InSight carry laser retroreflectors",
+   "value": "",
+   "source_id": "nasa-retroreflectors-apollo-mars",
+   "evidence": "Laser Retroreflector for InSight",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "LR-20",
+   "artifact": "apollo11-retroreflector",
+   "topic": "history",
+   "claim": "Aldrin carried the seismometer (left hand) and reflector (right hand)",
+   "value": "",
+   "source_id": "nasa-tranquility-base",
+   "evidence": "Passive Seismic Experiments Package (in his left hand) and the Laser Ranging Retroreflector (in his right)",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "LR-21",
+   "artifact": "apollo11-retroreflector",
+   "topic": "history",
+   "claim": "Seismometer stopped accepting commands on 27 Aug 1969",
+   "value": "1969-08-27",
+   "source_id": "nssdc-a11-lm",
+   "evidence": "on 27 August 1969, near noon of this second lunar day, the EASEP no longer accepted commands from Earth stations",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "LR-22",
+   "artifact": "apollo11-retroreflector",
+   "topic": "photo",
+   "claim": "Photo AS11-40-5948 shows seismometer in front, reflector beyond",
+   "value": "",
+   "source_id": "img-as11-40-5948",
+   "evidence": "In the foreground is the Passive Seismic Experiment Package (PSEP); beyond it is the Laser Ranging Retro-Reflector (LR-3)",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "LLR-01",
+   "artifact": "laser-activity",
+   "topic": "constant",
+   "claim": "Speed of light in vacuum (exact)",
+   "value": "299,792,458 m/s",
+   "source_id": "nist-c",
+   "evidence": "299 792 458 m s -1",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "LLR-02",
+   "artifact": "laser-activity",
+   "topic": "constant",
+   "claim": "Moon orbit semimajor axis",
+   "value": "0.3844 x 10^6 km = 384,400 km",
+   "source_id": "nssdc-moon-facts",
+   "evidence": "Semimajor axis (10 6 km) 0.3844",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "LLR-03",
+   "artifact": "laser-activity",
+   "topic": "constant",
+   "claim": "Mean perigee",
+   "value": "363,300 km",
+   "source_id": "nssdc-moon-facts",
+   "evidence": "Perigee (10 6 km)* 0.3633",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "LLR-04",
+   "artifact": "laser-activity",
+   "topic": "constant",
+   "claim": "Mean apogee",
+   "value": "405,500 km",
+   "source_id": "nssdc-moon-facts",
+   "evidence": "Apogee (10 6 km)* 0.4055",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "SP-01",
+   "artifact": "spirit-rover",
+   "topic": "launch",
+   "claim": "Launch",
+   "value": "2003-06-10 10:58:47 PDT, Cape Canaveral",
+   "source_id": "nasa-mer-spirit",
+   "evidence": "Launch Date and Time June 10, 2003 / 10:58:47 PDT",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "SP-02",
+   "artifact": "spirit-rover",
+   "topic": "landing",
+   "claim": "Landing time",
+   "value": "2004-01-03 20:35 PST (2004-01-04 UTC)",
+   "source_id": "nasa-mer-spirit",
+   "evidence": "hit the Martian surface at 20:35 PST Jan. 3, 2004",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "SP-03",
+   "artifact": "spirit-rover",
+   "topic": "landing",
+   "claim": "Bounced 28 times on airbags",
+   "value": "28",
+   "source_id": "nasa-mer-spirit",
+   "evidence": "bouncing 28 times",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "SP-04",
+   "artifact": "spirit-rover",
+   "topic": "location",
+   "claim": "Landing coordinates",
+   "value": "14.5692 S, 175.4729 E",
+   "source_id": "nasa-mer-spirit",
+   "evidence": "Landing coordinates were 14.5692 degrees south latitude and 175.4729 degrees east longitude.",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "SP-05",
+   "artifact": "spirit-rover",
+   "topic": "location",
+   "claim": "Landing site named Columbia Memorial Station",
+   "value": "",
+   "source_id": "nasa-mer-spirit",
+   "evidence": "The site became known as Columbia Memorial Station",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "SP-06",
+   "artifact": "spirit-rover",
+   "topic": "mission",
+   "claim": "Planned mission length",
+   "value": "90 Martian days",
+   "source_id": "nasa-mer-spirit",
+   "evidence": "originally planned to last 90 Martian days",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "SP-07",
+   "artifact": "spirit-rover",
+   "topic": "mission",
+   "claim": "Actual operating life",
+   "value": "6 y 2 m 19 d (>25x planned)",
+   "source_id": "nasa-mer-spirit",
+   "evidence": "It had operated for six years, two months and 19 days, more than 25 times its original intended lifetime.",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "SP-08",
+   "artifact": "spirit-rover",
+   "topic": "mission",
+   "claim": "Distance driven",
+   "value": "7.73 km (4.8 mi)",
+   "source_id": "nasa-mer-spirit",
+   "evidence": "4.8 miles (7.73 kilometers)",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "SP-09",
+   "artifact": "spirit-rover",
+   "topic": "design",
+   "claim": "Rover mass",
+   "value": "about 185 kg",
+   "source_id": "nasa-mer-spirit",
+   "evidence": "about 405 pounds or 185 kilograms",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "SP-10",
+   "artifact": "spirit-rover",
+   "topic": "design",
+   "claim": "Rover size",
+   "value": "about the size of a golf cart",
+   "source_id": "nasa-mer-spirit",
+   "evidence": "about the size of a golf cart",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "SP-11",
+   "artifact": "spirit-rover",
+   "topic": "design",
+   "claim": "Arm instruments: Mössbauer, APXS, magnets, Microscopic Imager, RAT",
+   "value": "",
+   "source_id": "nasa-mer-spirit",
+   "evidence": "A suite of instruments (MB, APXS, the magnets, MI and RAT) was deployed on a robotic arm (known as the instrument deployment device or IDD).",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "SP-12",
+   "artifact": "spirit-rover",
+   "topic": "design",
+   "claim": "Panoramic cameras (Pancam)",
+   "value": "",
+   "source_id": "nasa-mer-spirit",
+   "evidence": "panoramic cameras (Pancam)",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "SP-13",
+   "artifact": "spirit-rover",
+   "topic": "design",
+   "claim": "Mini-TES infrared spectrometer",
+   "value": "",
+   "source_id": "nasa-mer-spirit",
+   "evidence": "miniature thermal emission spectrometer (Mini-TES)",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "SP-14",
+   "artifact": "spirit-rover",
+   "topic": "design",
+   "claim": "Deck carries the Pancam mast and high-gain, low-gain and UHF antennas",
+   "value": "",
+   "source_id": "nssdc-spirit",
+   "evidence": "on which is mounted the Pancam mast assembly, high gain, low gain, and UHF antennas",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "SP-15",
+   "artifact": "spirit-rover",
+   "topic": "mission",
+   "claim": "First rock grinding on Mars (Adirondack)",
+   "value": "",
+   "source_id": "nasa-mer-spirit",
+   "evidence": "a feat performed for the very first time on Mars",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "SP-16",
+   "artifact": "spirit-rover",
+   "topic": "mission",
+   "claim": "Reached the summit of Husband Hill",
+   "value": "2005-09-29",
+   "source_id": "nasa-mer-spirit",
+   "evidence": "On Sept. 29, 2005, the rover finally reached the summit of Husband Hill",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "SP-17",
+   "artifact": "spirit-rover",
+   "topic": "power",
+   "claim": "Dust devils cleaned the panels in March 2005",
+   "value": "60% to 93% power",
+   "source_id": "nasa-mer-spirit",
+   "evidence": "from the usual 60% to 93%",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "SP-18",
+   "artifact": "spirit-rover",
+   "topic": "power",
+   "claim": "Late-2008 output vs normal",
+   "value": "89 vs about 700 Wh per day",
+   "source_id": "nasa-mer-spirit",
+   "evidence": "about 89 watt-hours per Martian day. A normal amount would be about 700 watt-hours per day.",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "SP-19",
+   "artifact": "spirit-rover",
+   "topic": "comms",
+   "claim": "Relayed data via Mars Global Surveyor and 2001 Mars Odyssey",
+   "value": "",
+   "source_id": "nasa-mer-spirit",
+   "evidence": "transmitted data to Earth via Mars Global Surveyor",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "SP-20",
+   "artifact": "spirit-rover",
+   "topic": "wheel",
+   "claim": "A front wheel stopped working (2006)",
+   "value": "",
+   "source_id": "nasa-mer-spirit",
+   "evidence": "partly because a front wheel stopped working",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "SP-21",
+   "artifact": "spirit-rover",
+   "topic": "science",
+   "claim": "Ancient explosion found at Home Plate (2006)",
+   "value": "",
+   "source_id": "nasa-mer-spirit",
+   "evidence": "Found evidence of an ancient explosion at a bright, low plateau called Home Plate.",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "SP-22",
+   "artifact": "spirit-rover",
+   "topic": "science",
+   "claim": "Nearly pure silica found by dragging the right front wheel (2007)",
+   "value": "",
+   "source_id": "nasa-mer-spirit",
+   "evidence": "Unearthed a patch of nearly pure silica, the main ingredient of window glass, while dragging its right front wheel.",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "SP-23",
+   "artifact": "spirit-rover",
+   "topic": "science",
+   "claim": "Silica likely from hot springs or steam vents",
+   "value": "",
+   "source_id": "nasa-mer-spirit",
+   "evidence": "likely produced in an environment of hot springs or steam vents",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "SP-24",
+   "artifact": "spirit-rover",
+   "topic": "science",
+   "claim": "Gertrude Weise soil is about 90% silica",
+   "value": "~90%",
+   "source_id": "pj-pia09491",
+   "evidence": "is about 90 percent silica",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "SP-25",
+   "artifact": "spirit-rover",
+   "topic": "science",
+   "claim": "Silica patch exposed on sol 1,150",
+   "value": "2007-03-29",
+   "source_id": "pj-pia09491",
+   "evidence": "1,150th Martian day",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "SP-26",
+   "artifact": "spirit-rover",
+   "topic": "science",
+   "claim": "Disturbed-soil track width",
+   "value": "about 20 cm",
+   "source_id": "pj-pia09491",
+   "evidence": "The track of disturbed soil is roughly 20 centimeters (8 inches) wide.",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "SP-27",
+   "artifact": "spirit-rover",
+   "topic": "end",
+   "claim": "Became stuck in soft soil beside Home Plate",
+   "value": "2009-05-01",
+   "source_id": "nasa-mer-spirit",
+   "evidence": "on May 1, 2009, while driving south beside the western edge of a low plateau called Home Plate, Spirit became stuck in soft soil",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "SP-28",
+   "artifact": "spirit-rover",
+   "topic": "end",
+   "claim": "Right rear wheel also stopped (28 Nov 2009)",
+   "value": "",
+   "source_id": "nasa-mer-spirit",
+   "evidence": "the right rear one, stopped working",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "SP-29",
+   "artifact": "spirit-rover",
+   "topic": "end",
+   "claim": "Reformulated as a stationary science platform (Jan 2010)",
+   "value": "",
+   "source_id": "nasa-mer-spirit",
+   "evidence": "reformulated the Spirit mission as a stationary science platform",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "SP-30",
+   "artifact": "spirit-rover",
+   "topic": "end",
+   "claim": "No contact after 22 March 2010",
+   "value": "2010-03-22",
+   "source_id": "nasa-mer-spirit",
+   "evidence": "were not able to regain contact with Spirit",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "SP-31",
+   "artifact": "spirit-rover",
+   "topic": "end",
+   "claim": "NASA ended recovery efforts",
+   "value": "2011-05-25",
+   "source_id": "nasa-mer-spirit",
+   "evidence": "On May 25, 2011, NASA ended efforts to contact the marooned rover and declared its mission complete.",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "SP-32",
+   "artifact": "spirit-rover",
+   "topic": "end",
+   "claim": "Most probable cause: cold made survival heaters ineffective",
+   "value": "",
+   "source_id": "nasa-mer-spirit",
+   "evidence": "excessive cold that made its survival heaters ineffective",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "SP-33",
+   "artifact": "spirit-rover",
+   "topic": "twins",
+   "claim": "Spirit and Opportunity were identical twins",
+   "value": "",
+   "source_id": "nasa-mer-twins",
+   "evidence": "identical twin robots",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "SP-34",
+   "artifact": "spirit-rover",
+   "topic": "location",
+   "claim": "Gusev Crater: a possible former lake",
+   "value": "",
+   "source_id": "nasa-mer-twins",
+   "evidence": "Spirit landed at Gusev Crater, a possible former lake in a giant impact crater.",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "SP-35",
+   "artifact": "spirit-rover",
+   "topic": "location",
+   "claim": "East hills (Columbia Hills) about 3 km from the lander",
+   "value": "3 km",
+   "source_id": "nasa-mer-twins",
+   "evidence": "the east hills, about 3 kilometers (2 miles) away from the lander",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "SP-36",
+   "artifact": "spirit-rover",
+   "topic": "science",
+   "claim": "Twins confirmed long-standing water on ancient Mars",
+   "value": "",
+   "source_id": "nasa-mer-twins",
+   "evidence": "confirmed that water was long standing on the surface of Mars in ancient times",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "SP-37",
+   "artifact": "spirit-rover",
+   "topic": "legacy",
+   "claim": "Perseverance passed Opportunity's distance record",
+   "value": "2026-10-11",
+   "source_id": "nasa-mer-twins",
+   "evidence": "That record held until Oct. 11, 2026",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "SP-38",
+   "artifact": "spirit-rover",
+   "topic": "end",
+   "claim": "Troy: where Spirit became embedded in spring 2009",
+   "value": "",
+   "source_id": "pj-pia12203",
+   "evidence": "where Spirit became embedded in soft soil during the spring of 2009",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "IN-01",
+   "artifact": "insight-lander",
+   "topic": "launch",
+   "claim": "Launch",
+   "value": "2018-05-05, Vandenberg AFB, Atlas V-401",
+   "source_id": "nasa-insight",
+   "evidence": "Launched: May 5, 2018",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "IN-02",
+   "artifact": "insight-lander",
+   "topic": "landing",
+   "claim": "Landing",
+   "value": "2018-11-26 11:52:59 a.m. PT (19:52:59 UT)",
+   "source_id": "nasa-insight",
+   "evidence": "Landed: Nov. 26, 2018, at 11:52:59 a.m. PT",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "IN-03",
+   "artifact": "insight-lander",
+   "topic": "landing",
+   "claim": "Landing in UT, western Elysium Planitia",
+   "value": "19:52:59 UT",
+   "source_id": "nssdc-insight",
+   "evidence": "landed in the western Elysium Planitia region on 26 November 2018 at 19:52:59 UT",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "IN-04",
+   "artifact": "insight-lander",
+   "topic": "location",
+   "claim": "Landing site centre (NASA, rounded)",
+   "value": "4.5 N, 135.9 E",
+   "source_id": "nasa-insight",
+   "evidence": "centered at about 4.5 degrees north latitude and 135.9 degrees east longitude",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "IN-05",
+   "artifact": "insight-lander",
+   "topic": "location",
+   "claim": "Site chosen for safety, not surface features",
+   "value": "",
+   "source_id": "nasa-insight",
+   "evidence": "selected not for its surface features, but for safety considerations",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "IN-06",
+   "artifact": "insight-lander",
+   "topic": "design",
+   "claim": "Robotic arm length",
+   "value": "1.8 m",
+   "source_id": "nasa-insight",
+   "evidence": "robotic arm was over 5 feet 9 inches (1.8 meters) long",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "IN-07",
+   "artifact": "insight-lander",
+   "topic": "design",
+   "claim": "Built on the Mars Phoenix lander design",
+   "value": "",
+   "source_id": "nasa-insight",
+   "evidence": "The lander was built on the proven design of NASA",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "IN-08",
+   "artifact": "insight-lander",
+   "topic": "design",
+   "claim": "Landed mass; span with solar panels about 6 m",
+   "value": "360 kg",
+   "source_id": "nssdc-insight",
+   "evidence": "total landed mass is 360 kg",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "IN-09",
+   "artifact": "insight-lander",
+   "topic": "design",
+   "claim": "Instrument Deployment Camera on the arm elbow",
+   "value": "",
+   "source_id": "nasa-insight-science",
+   "evidence": "Instrument Deployment Camera, located on the elbow of its robotic arm",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "IN-10",
+   "artifact": "insight-lander",
+   "topic": "science",
+   "claim": "First seismometer robotically placed on another planet",
+   "value": "2018-12-19",
+   "source_id": "jpl-insight-first-instrument",
+   "evidence": "This was the first time a spacecraft robotically placed a seismometer onto the surface of another planet.",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "IN-11",
+   "artifact": "insight-lander",
+   "topic": "science",
+   "claim": "Seismometer placed on Mars",
+   "value": "2018-12-19",
+   "source_id": "jpl-insight-first-instrument",
+   "evidence": "placed its seismometer on Mars on Dec. 19, 2018",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "IN-12",
+   "artifact": "insight-lander",
+   "topic": "science",
+   "claim": "Wind/pressure/temperature/magnetic sensors fine-tuned the seismometer",
+   "value": "",
+   "source_id": "nasa-insight-instruments",
+   "evidence": "A suite of wind, pressure, temperature, and magnetic field sensors helped fine-tune the seismometer",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "IN-13",
+   "artifact": "insight-lander",
+   "topic": "science",
+   "claim": "RISE tracked the lander to measure Mars' polar wobble (core)",
+   "value": "",
+   "source_id": "nasa-insight-instruments",
+   "evidence": "precisely tracked the location of the lander to determine just how much Mars",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "IN-14",
+   "artifact": "insight-lander",
+   "topic": "science",
+   "claim": "HP3 could not reach the desired depth",
+   "value": "",
+   "source_id": "nasa-insight-instruments",
+   "evidence": "encountered different soil properties than expected and was unable to reach the desired depth",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "IN-15",
+   "artifact": "insight-lander",
+   "topic": "science",
+   "claim": "Wind rumble recorded on 1 Dec 2018",
+   "value": "5-7 m/s",
+   "source_id": "nasa-insight",
+   "evidence": "10 to 15 mph (5 to 7 meters a second) on Dec. 1, 2018",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "IN-16",
+   "artifact": "insight-lander",
+   "topic": "science",
+   "claim": "Marsquakes detected over the mission",
+   "value": "1,319",
+   "source_id": "jpl-insight-retired",
+   "evidence": "detected 1,319 marsquakes",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "IN-17",
+   "artifact": "insight-lander",
+   "topic": "science",
+   "claim": "Marsquake monitoring by CNES and the Marsquake Service (ETH Zurich)",
+   "value": "",
+   "source_id": "jpl-insight-retired",
+   "evidence": "Marsquake Service managed by ETH Zurich",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "IN-18",
+   "artifact": "insight-lander",
+   "topic": "science",
+   "claim": "Mole designed to dig 5 m",
+   "value": "5 m",
+   "source_id": "jpl-insight-retired",
+   "evidence": "intended to dig 16 feet (5 meters) down",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "IN-19",
+   "artifact": "insight-lander",
+   "topic": "science",
+   "claim": "Mole could not gain traction in clumpy soil",
+   "value": "",
+   "source_id": "jpl-insight-retired",
+   "evidence": "could not gain traction in the unexpectedly clumpy soil",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "IN-20",
+   "artifact": "insight-lander",
+   "topic": "science",
+   "claim": "Mole buried its 40 cm probe just below the surface",
+   "value": "40 cm",
+   "source_id": "jpl-insight-retired",
+   "evidence": "buried its 16-inch (40-centimeter) probe just slightly below the surface",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "IN-21",
+   "artifact": "insight-lander",
+   "topic": "science",
+   "claim": "HP3 provided by the German Aerospace Center (DLR)",
+   "value": "",
+   "source_id": "jpl-insight-retired",
+   "evidence": "German Aerospace Center (DLR)",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "IN-22",
+   "artifact": "insight-lander",
+   "topic": "power",
+   "claim": "Scoop sprinkled dirt on panels on windy days to clean them",
+   "value": "",
+   "source_id": "jpl-insight-retired",
+   "evidence": "sprinkle dirt from the scoop onto the panels during windy days",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "IN-23",
+   "artifact": "insight-lander",
+   "topic": "power",
+   "claim": "Seismometer was the last instrument powered on",
+   "value": "",
+   "source_id": "jpl-insight-retired",
+   "evidence": "The seismometer was the last science instrument that remained powered on",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "IN-24",
+   "artifact": "insight-lander",
+   "topic": "legacy",
+   "claim": "First seismology-focused mission beyond Earth since Apollo",
+   "value": "",
+   "source_id": "jpl-insight-retired",
+   "evidence": "seismology was the focus of a mission beyond Earth for the first time since the Apollo missions",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "IN-25",
+   "artifact": "insight-lander",
+   "topic": "science",
+   "claim": "Mars core radius",
+   "value": "1,830 km",
+   "source_id": "jpl-insight-interior",
+   "evidence": "radius of 1,137 miles (1,830 kilometers)",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "IN-26",
+   "artifact": "insight-lander",
+   "topic": "science",
+   "claim": "Crust thickness",
+   "value": "20 or 37 km",
+   "source_id": "jpl-insight-interior",
+   "evidence": "It goes as deep as 12 miles (20 kilometers) if there are two sub-layers, or 23 miles (37 kilometers) if there are three.",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "IN-27",
+   "artifact": "insight-lander",
+   "topic": "science",
+   "claim": "Mantle depth",
+   "value": "1,560 km",
+   "source_id": "jpl-insight-interior",
+   "evidence": "extends 969 miles (1,560 kilometers) below the surface",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "IN-28",
+   "artifact": "insight-lander",
+   "topic": "science",
+   "claim": "Marsquakes recorded by the 2021 papers",
+   "value": "733",
+   "source_id": "jpl-insight-interior",
+   "evidence": "has recorded 733 distinct marsquakes",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "IN-29",
+   "artifact": "insight-lander",
+   "topic": "end",
+   "claim": "Final selfie",
+   "value": "2022-04-24 (sol 1,211)",
+   "source_id": "img-pia25287",
+   "evidence": "final selfie on April 24, 2022, the 1,211th Martian day",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "IN-30",
+   "artifact": "insight-lander",
+   "topic": "end",
+   "claim": "Mission declared over after two missed contacts",
+   "value": "2022-12-21",
+   "source_id": "jpl-insight-retired",
+   "evidence": "declare the mission over if the lander missed two communication attempts",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "IN-31",
+   "artifact": "insight-lander",
+   "topic": "end",
+   "claim": "Last contact",
+   "value": "2022-12-15",
+   "source_id": "jpl-insight-retired",
+   "evidence": "The last time InSight communicated with Earth was Dec. 15.",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "IN-32",
+   "artifact": "insight-lander",
+   "topic": "end",
+   "claim": "End of mission listed by NASA",
+   "value": "2022-12-15",
+   "source_id": "nasa-insight",
+   "evidence": "End of Mission: Dec. 15, 2022",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "IN-33",
+   "artifact": "insight-lander",
+   "topic": "photo",
+   "claim": "Wind and thermal shield in place by sol 110",
+   "value": "April 2019",
+   "source_id": "img-pia23177",
+   "evidence": "110th Martian day",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "IN-34",
+   "artifact": "insight-lander",
+   "topic": "photo",
+   "claim": "Deck view on sol 8: copper cover over SEIS",
+   "value": "2018-12-04",
+   "source_id": "img-pia22871",
+   "evidence": "copper-colored hexagonal cover protects the Seismic Experiment for Interior Structure",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "IN-35",
+   "artifact": "insight-lander",
+   "topic": "mission",
+   "claim": "MarCO CubeSats launched with InSight",
+   "value": "",
+   "source_id": "nasa-insight",
+   "evidence": "Mars Cube One, or MarCO",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "IN-36",
+   "artifact": "insight-lander",
+   "topic": "location",
+   "claim": "About 600 km from Curiosity's landing site",
+   "value": "600 km",
+   "source_id": "nasa-insight",
+   "evidence": "373 miles (600 kilometers) from Curiosity",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "TA-01",
+   "artifact": "terms-and-assets",
+   "topic": "terms",
+   "claim": "NASA content generally not subject to U.S. copyright",
+   "value": "",
+   "source_id": "nasa-media-guidelines",
+   "evidence": "generally are not subject to copyright in the United States",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "TA-02",
+   "artifact": "terms-and-assets",
+   "topic": "terms",
+   "claim": "Factual use without implied endorsement needs no permission",
+   "value": "",
+   "source_id": "nasa-media-guidelines",
+   "evidence": "NASA content used in a factual manner that does not imply endorsement may be used without needing explicit permission.",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "TA-03",
+   "artifact": "terms-and-assets",
+   "topic": "terms",
+   "claim": "Do not attribute AI-processed information directly to NASA",
+   "value": "",
+   "source_id": "nasa-media-guidelines",
+   "evidence": "attribution of the information directly to NASA is not permitted",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "TA-04",
+   "artifact": "terms-and-assets",
+   "topic": "terms",
+   "claim": "NASA 3D Resources: free and without copyright",
+   "value": "",
+   "source_id": "nasa3d-github",
+   "evidence": "These assets are free and without copyright.",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "TA-05",
+   "artifact": "terms-and-assets",
+   "topic": "terms",
+   "claim": "NASA SVS credit requirement",
+   "value": "",
+   "source_id": "svs-cgi-moon-kit",
+   "evidence": "Please give credit for this item to",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "TA-06",
+   "artifact": "terms-and-assets",
+   "topic": "assets",
+   "claim": "Mars texture made from Viking images processed at USGS",
+   "value": "",
+   "source_id": "nasa3d-mars-texture",
+   "evidence": "From Viking images processed at the USGS.",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "TA-07",
+   "artifact": "terms-and-assets",
+   "topic": "assets",
+   "claim": "NASA offers a 3D model of the twin rovers",
+   "value": "",
+   "source_id": "nasa-mer-twins",
+   "evidence": "A 3D model of the twin Mars Exploration Rovers, Spirit and Opportunity.",
+   "used_on_website": "yes"
+  },
+  {
+   "fact_id": "TA-08",
+   "artifact": "terms-and-assets",
+   "topic": "brief",
+   "claim": "Challenge goal",
+   "value": "",
+   "source_id": "challenge-brief",
+   "evidence": "Your challenge is to tell the story of some or all of this equipment that introduces school-age space enthusiasts to the hardware and the science it made possible.",
+   "used_on_website": "yes"
+  }
+ ],
+ "catalog_moon": [
+  {
+   "mission": "Surveyor 1",
+   "hardware_left": "Robotic lander",
+   "landing_utc": "1966-06-02 06:17:36",
+   "region": "Oceanus Procellarum (north of Flamsteed)",
+   "lat": -2.4745,
+   "lon_east": 316.6602,
+   "coordinate_note": "LRO images",
+   "end_or_status": "Mission terminated 13 Jul 1966 (battery voltage drop)",
+   "source_id": "nssdc-surveyor1",
+   "evidence": "The landing site was at 2.4745 S, 316.6602 E (as determined from Lunar Reconnaissance Orbiter images)",
+   "status_source_id": "nssdc-surveyor1",
+   "status_evidence": "mission was terminated due to a dramatic drop in battery voltage just after sunset"
+  },
+  {
+   "mission": "Surveyor 3",
+   "hardware_left": "Robotic lander (parts returned by Apollo 12)",
+   "landing_utc": "1967-04-20 00:04:53",
+   "region": "Oceanus Procellarum",
+   "lat": -3.0162,
+   "lon_east": 336.582,
+   "coordinate_note": "LRO images",
+   "end_or_status": "Last data 4 May 1967",
+   "source_id": "nssdc-surveyor3",
+   "evidence": "at 3.0162 S, 336.582 E (as determined from Lunar Reconnaissance Orbiter images)",
+   "status_source_id": "nssdc-surveyor3",
+   "status_evidence": "The last data were returned on 04 May 1967 at 00:04 UT"
+  },
+  {
+   "mission": "Surveyor 5",
+   "hardware_left": "Robotic lander",
+   "landing_utc": "1967-09-11 00:46:44",
+   "region": "SW Mare Tranquillitatis",
+   "lat": 1.4551,
+   "lon_east": 23.1943,
+   "coordinate_note": "LRO images",
+   "end_or_status": "Final transmission 17 Dec 1967",
+   "source_id": "nssdc-surveyor5",
+   "evidence": "at 1.4551 N, 23.1943 E (as determined from Lunar Reconnaissance Orbiter images)",
+   "status_source_id": "nssdc-surveyor5",
+   "status_evidence": "the final transmission occurring at 04:30 UT on December 17, 1967"
+  },
+  {
+   "mission": "Surveyor 6",
+   "hardware_left": "Robotic lander",
+   "landing_utc": "1967-11-10 01:01:06",
+   "region": "Sinus Medii",
+   "lat": 0.4742,
+   "lon_east": 358.5725,
+   "coordinate_note": "LRO images",
+   "end_or_status": "Last transmission 14 Dec 1967",
+   "source_id": "nssdc-surveyor6",
+   "evidence": "at 0.4742 N, 358.5725 E",
+   "status_source_id": "nssdc-surveyor6",
+   "status_evidence": "the last transmission was received at 19:14 UT on 14 December 1967"
+  },
+  {
+   "mission": "Surveyor 7",
+   "hardware_left": "Robotic lander",
+   "landing_utc": "1968-01-10 01:05:36",
+   "region": "Tycho ejecta blanket",
+   "lat": -40.9812,
+   "lon_east": 348.4873,
+   "coordinate_note": "LRO images; source gives 11.5127 W",
+   "end_or_status": "Operated into a second lunar day (Feb 1968)",
+   "source_id": "nssdc-surveyor7",
+   "evidence": "at 40.9812 S, 11.5127 W (as determined from Lunar Reconnaissance Orbiter images)",
+   "status_source_id": "nssdc-surveyor7",
+   "status_evidence": "Second lunar day operations began at 19:01 UT on 12 February 1968"
+  },
+  {
+   "mission": "Apollo 11 (Eagle)",
+   "hardware_left": "Descent stage, laser retroreflector, seismometer, flag, plaque",
+   "landing_utc": "1969-07-20 20:17:40",
+   "region": "Mare Tranquillitatis",
+   "lat": 0.67416,
+   "lon_east": 23.47314,
+   "coordinate_note": "LRO images, DE421 mean Earth/polar axis",
+   "end_or_status": "Reflector still used; seismometer stopped 27 Aug 1969",
+   "source_id": "nssdc-a11-lm",
+   "evidence": "0.67416 degrees N latitude, 23.47314 degrees E longitude",
+   "status_source_id": "nasa-retroreflectors-apollo-mars",
+   "status_evidence": "Research with these Apollo-era lunar retroreflectors continues to this day."
+  },
+  {
+   "mission": "Apollo 12 (Intrepid)",
+   "hardware_left": "Descent stage, ALSEP",
+   "landing_utc": "1969-11-19 06:54:35",
+   "region": "Oceanus Procellarum, ~180 m from Surveyor 3",
+   "lat": -3.0128,
+   "lon_east": 336.5781,
+   "coordinate_note": "LRO images; source gives 23.4219 W",
+   "end_or_status": "Descent stage left on the Moon",
+   "source_id": "nssdc-a12-lm",
+   "evidence": "at 3.0128 S latitude, 23.4219 W longitude (as determined from Lunar Reconnaissance Orbiter images",
+   "status_source_id": "nssdc-a12-lm",
+   "status_evidence": "within about 180 meters of the Surveyor 3 spacecraft"
+  },
+  {
+   "mission": "Apollo 14 (Antares)",
+   "hardware_left": "Descent stage, ALSEP, laser retroreflector",
+   "landing_utc": "1971-02-05 09:18:11",
+   "region": "Fra Mauro highlands",
+   "lat": -3.64589,
+   "lon_east": 342.52806,
+   "coordinate_note": "LRO images; source gives 17.47194 W",
+   "end_or_status": "Descent stage left on the Moon",
+   "source_id": "nssdc-a14-lm",
+   "evidence": "at 3.64589 S latitude, 17.47194 W longitude",
+   "status_source_id": "nasa-llr-keeps-giving",
+   "status_evidence": "The Apollo 11 and 14 arrays have 100 quartz glass prisms"
+  },
+  {
+   "mission": "Apollo 15 (Falcon)",
+   "hardware_left": "Descent stage, Lunar Roving Vehicle, ALSEP, laser retroreflector",
+   "landing_utc": "1971-07-30 22:16:29",
+   "region": "Hadley-Apennine (Mare Imbrium)",
+   "lat": 26.13239,
+   "lon_east": 3.6333,
+   "coordinate_note": "LRO images",
+   "end_or_status": "LRV used within 5 km of the LM",
+   "source_id": "nssdc-a15-lm",
+   "evidence": "at 26.13239 N latitude, 3.63330 E longitude",
+   "status_source_id": "nssdc-a15-lm",
+   "status_evidence": "The LM also carried a Lunar Roving Vehicle (LRV)"
+  },
+  {
+   "mission": "Apollo 16 (Orion)",
+   "hardware_left": "Descent stage, Lunar Roving Vehicle, ALSEP",
+   "landing_utc": "1972-04-21 02:23:35",
+   "region": "Descartes highlands",
+   "lat": -8.973,
+   "lon_east": 15.5002,
+   "coordinate_note": "IAU mean Earth polar axis",
+   "end_or_status": "Heat-flow experiment cable broken during setup",
+   "source_id": "nssdc-a16-lm",
+   "evidence": "at 8.9730 S latitude, 15.5002 E longitude",
+   "status_source_id": "nssdc-a16-lm",
+   "status_evidence": "Young tripped on the cable to the heat flow experiment and broke it"
+  },
+  {
+   "mission": "Apollo 17 (Challenger)",
+   "hardware_left": "Descent stage, Lunar Roving Vehicle, ALSEP, plaque",
+   "landing_utc": "1972-12-11 19:54:57",
+   "region": "Taurus-Littrow (SE Mare Serenitatis)",
+   "lat": 20.1911,
+   "lon_east": 30.7723,
+   "coordinate_note": "LRO images",
+   "end_or_status": "Last Apollo landing; plaque read on TV",
+   "source_id": "nssdc-a17-lm",
+   "evidence": "at 20.1911 N latitude, 30.7723 E longitude",
+   "status_source_id": "nssdc-a17-lm",
+   "status_evidence": "Here man completed his first exploration of the Moon, December 1972 A.D."
+  }
+ ],
+ "catalog_mars": [
+  {
+   "mission": "Viking 1 Lander",
+   "type": "Lander",
+   "landing": "1976-07-20 11:53:06 UT",
+   "region": "Western Chryse Planitia",
+   "lat": 22.27,
+   "lon_east": 312.05,
+   "coordinate_note": "planetocentric",
+   "status": "ended",
+   "end_or_latest": "1982-11-11 (NASA page) / 1982-11-13 (NSSDCA)",
+   "source_id": "nssdc-viking1-lander",
+   "evidence": "at 22.27 deg N latitude and 312.05 deg E longitude (planetocentric) at 11:53:06 UT",
+   "status_source_id": "nasa-viking-1",
+   "status_evidence": "The lander operated until Nov. 11, 1982, when a faulty command sent from Earth resulted in an interruption of communications.",
+   "note": "NSSDCA says \"operated until 13 November 1982 when contact was lost\"; NASA mission page says 11 Nov 1982."
+  },
+  {
+   "mission": "Viking 2 Lander",
+   "type": "Lander",
+   "landing": "1976-09-03",
+   "region": "Utopia Planitia",
+   "lat": 47.6673,
+   "lon_east": 134.2809,
+   "coordinate_note": "as given by NSSDCA",
+   "status": "ended",
+   "end_or_latest": "1980-04-11 (NSSDCA) / 1980-04-12 (NASA page)",
+   "source_id": "nssdc-viking2-lander",
+   "evidence": "at 47.6673 deg N latitude and 134.2809 deg E longitude",
+   "status_source_id": "nssdc-viking2-lander",
+   "status_evidence": "was turned off on April 11, 1980 when its batteries failed",
+   "note": "NASA mission page lists April 12, 1980 as end of lander mission."
+  },
+  {
+   "mission": "Mars Pathfinder + Sojourner",
+   "type": "Lander + first Mars rover (10.6 kg)",
+   "landing": "1997-07-04",
+   "region": "Ares Vallis",
+   "lat": 19.33,
+   "lon_east": 326.45,
+   "coordinate_note": "source gives 33.55 W",
+   "status": "ended",
+   "end_or_latest": "1997-09-27 communications lost",
+   "source_id": "nssdc-mars-pathfinder",
+   "evidence": "The landing site in the Ares Vallis region of Mars is at 19.33 N, 33.55 W.",
+   "status_source_id": "nssdc-mars-pathfinder",
+   "status_evidence": "until 27 September 1997 when communications were lost for unknown reasons",
+   "note": ""
+  },
+  {
+   "mission": "Spirit (MER-A)",
+   "type": "Rover",
+   "landing": "2004-01-04 04:35 UTC (Jan 3 PST)",
+   "region": "Gusev Crater",
+   "lat": -14.5692,
+   "lon_east": 175.4729,
+   "coordinate_note": "landing site",
+   "status": "ended",
+   "end_or_latest": "2010-03-22 last contact; 2011-05-25 mission ended",
+   "source_id": "nasa-mer-spirit",
+   "evidence": "Landing coordinates were 14.5692 degrees south latitude and 175.4729 degrees east longitude.",
+   "status_source_id": "nasa-mer-spirit",
+   "status_evidence": "On May 25, 2011, NASA ended efforts to contact the marooned rover and declared its mission complete.",
+   "note": ""
+  },
+  {
+   "mission": "Opportunity (MER-B)",
+   "type": "Rover",
+   "landing": "2004-01-25 04:54:22 UT (Jan 24 PST)",
+   "region": "Meridiani Planum",
+   "lat": -1.946,
+   "lon_east": 354.473,
+   "coordinate_note": "IAU 2000 body-centered",
+   "status": "ended",
+   "end_or_latest": "2018-06-10 last contact; 2019-02-13 mission ended; 45.16 km driven",
+   "source_id": "nssdc-opportunity",
+   "evidence": "came to rest in a 20 m diameter crater at 1.946",
+   "status_source_id": "nasa-mer-opportunity",
+   "status_evidence": "13, 2019: NASA declares End of Mission",
+   "note": ""
+  },
+  {
+   "mission": "Phoenix",
+   "type": "Lander",
+   "landing": "2008-05-25 23:38:38 UT",
+   "region": "Vastitas Borealis (north polar plains)",
+   "lat": 68.15,
+   "lon_east": 234.1,
+   "coordinate_note": "nominal; source gives 125.9 W",
+   "status": "ended",
+   "end_or_latest": "2008-11-02 last signal",
+   "source_id": "nssdc-phoenix",
+   "evidence": "nominally at 68.15 N, 125.9 W",
+   "status_source_id": "nssdc-phoenix",
+   "status_evidence": "its last signal was received on 02 November 2008",
+   "note": "NSSDCA gives touchdown at 23:53:44 UT; NASA page gives 23:38:38 UT. Verified water ice and found perchlorate."
+  },
+  {
+   "mission": "Curiosity (MSL)",
+   "type": "Rover",
+   "landing": "2012-08-06 05:32 UTC",
+   "region": "Gale Crater",
+   "lat": "",
+   "lon_east": "",
+   "coordinate_note": "named site only",
+   "status": "active",
+   "end_or_latest": "Active mission (Nov 2026)",
+   "source_id": "nssdc-curiosity",
+   "evidence": "Touchdown occured at 05:32 UTC (1:32 EDT) on 6 August.",
+   "status_source_id": "nasa-msl-curiosity",
+   "status_evidence": "Active Mission",
+   "note": ""
+  },
+  {
+   "mission": "InSight",
+   "type": "Lander",
+   "landing": "2018-11-26 19:52:59 UT",
+   "region": "Western Elysium Planitia",
+   "lat": 4.5,
+   "lon_east": 135.9,
+   "coordinate_note": "NASA rounded landing-site centre",
+   "status": "ended",
+   "end_or_latest": "2022-12-15 last contact; 2022-12-21 declared over",
+   "source_id": "nasa-insight",
+   "evidence": "centered at about 4.5 degrees north latitude and 135.9 degrees east longitude",
+   "status_source_id": "jpl-insight-retired",
+   "status_evidence": "The last time InSight communicated with Earth was Dec. 15.",
+   "note": ""
+  },
+  {
+   "mission": "Perseverance (Mars 2020)",
+   "type": "Rover",
+   "landing": "2021-02-18 20:55 UT",
+   "region": "Jezero Crater",
+   "lat": "",
+   "lon_east": "",
+   "coordinate_note": "named site only",
+   "status": "active",
+   "end_or_latest": "Active mission (Nov 2026)",
+   "source_id": "nssdc-perseverance",
+   "evidence": "landing took place on 18 February 2021 at 20:55 UT",
+   "status_source_id": "nasa-mars-2020",
+   "status_evidence": "Active Mission",
+   "note": ""
+  },
+  {
+   "mission": "Ingenuity",
+   "type": "Helicopter (technology demo)",
+   "landing": "Deployed 2021; first flight 2021-04-19",
+   "region": "Jezero Crater",
+   "lat": "",
+   "lon_east": "",
+   "coordinate_note": "named site only",
+   "status": "ended",
+   "end_or_latest": "Last flight 2024-01-18; 72 flights",
+   "source_id": "nasa-ingenuity",
+   "evidence": "completed the first powered, controlled flight on the Red Planet",
+   "status_source_id": "nasa-ingenuity",
+   "status_evidence": "completed 72 flights across nearly three years",
+   "note": ""
+  }
+ ],
+ "laser_derived": [
+  {
+   "quantity": "round-trip time at closest (mean perigee)",
+   "formula": "t = 2d / c",
+   "input": "d = 363300 km",
+   "result": "2.4237 s",
+   "inputs_from": "LLR-01; LLR-02/03/04"
+  },
+  {
+   "quantity": "round-trip time at average (semimajor axis)",
+   "formula": "t = 2d / c",
+   "input": "d = 384400 km",
+   "result": "2.5644 s",
+   "inputs_from": "LLR-01; LLR-02/03/04"
+  },
+  {
+   "quantity": "round-trip time at farthest (mean apogee)",
+   "formula": "t = 2d / c",
+   "input": "d = 405500 km",
+   "result": "2.7052 s",
+   "inputs_from": "LLR-01; LLR-02/03/04"
+  },
+  {
+   "quantity": "round-trip change from 3.8 cm/yr recession",
+   "formula": "dt = 2 * 0.038 m / c",
+   "input": "0.038 m",
+   "result": "0.254 ns per year",
+   "inputs_from": "LLR-01; LR-11"
+  },
+  {
+   "quantity": "worksheet: distance for 2.60 s",
+   "formula": "d = c * t / 2",
+   "input": "t = 2.60 s",
+   "result": "389,730 km",
+   "inputs_from": "LLR-01"
+  }
+ ],
+ "media": [
+  {
+   "file": "assets/img/a11-eagle-on-moon-800.webp / -1600.webp",
+   "kind": "photo",
+   "credit": "NASA (AS11-40-5927)",
+   "caption": "Eagle at Tranquility Base. Aldrin prepares to unload the experiments package from the descent stage's equipment bay. Photo by Neil Armstrong.",
+   "source_id": "img-as11-40-5927"
+  },
+  {
+   "file": "assets/img/a11-plaque-800.webp / -1600.webp",
+   "kind": "photo",
+   "credit": "NASA (AS11-40-5899)",
+   "caption": "The plaque on the ladder leg of Eagle's descent stage.",
+   "source_id": "img-as11-40-5899"
+  },
+  {
+   "file": "assets/img/a11-easep-deployed-800.webp / -1600.webp",
+   "kind": "photo",
+   "credit": "NASA (AS11-40-5948)",
+   "caption": "Just after setup: the seismometer in front, the laser reflector beyond it, the flag in the middle and Eagle at far right. Photo by Neil Armstrong.",
+   "source_id": "img-as11-40-5948"
+  },
+  {
+   "file": "assets/img/a11-aldrin-carries-easep-800.webp / -1600.webp",
+   "kind": "photo",
+   "credit": "NASA",
+   "caption": "Aldrin carries the seismometer (left hand) and the laser reflector (right hand) to their setup site.",
+   "source_id": "msfc-6900957"
+  },
+  {
+   "file": "assets/img/a14-lrrr-closeup-800.webp / -1600.webp",
+   "kind": "photo",
+   "credit": "NASA (AS14-67-9386)",
+   "caption": "Close-up of the sister array left by Apollo 14 in February 1971. Like Apollo 11's, it holds 100 corner cubes.",
+   "source_id": "img-as14-67-9386"
+  },
+  {
+   "file": "assets/img/mer-artist-concept-800.webp / -1600.webp",
+   "kind": "photo",
+   "credit": "NASA/JPL/Cornell University (PIA04413), artist's concept",
+   "caption": "Artist's concept of a Mars Exploration Rover. Spirit and Opportunity were identical twins.",
+   "source_id": "img-pia04413"
+  },
+  {
+   "file": "assets/img/spirit-silica-soil-800.webp / -1600.webp",
+   "kind": "photo",
+   "credit": "NASA/JPL/Cornell (PIA09491)",
+   "caption": "The bright soil Spirit's dragging wheel uncovered in 2007, nicknamed Gertrude Weise. It is about 90% silica. The track is about 20 cm wide.",
+   "source_id": "pj-pia09491"
+  },
+  {
+   "file": "assets/img/spirit-troy-panorama-800.webp / -1600.webp",
+   "kind": "photo",
+   "credit": "NASA/JPL-Caltech/Cornell University (PIA12203)",
+   "caption": "Spirit's view from Troy, where it became embedded in soft soil in spring 2009.",
+   "source_id": "pj-pia12203"
+  },
+  {
+   "file": "assets/img/insight-final-selfie-800.webp / -1600.webp",
+   "kind": "photo",
+   "credit": "NASA/JPL-Caltech (PIA25287)",
+   "caption": "InSight's final selfie, 24 April 2022 (sol 1,211). Compare the dust with its first selfie in 2018.",
+   "source_id": "img-pia25287"
+  },
+  {
+   "file": "assets/img/insight-seis-shield-800.webp / -1600.webp",
+   "kind": "photo",
+   "credit": "NASA/JPL-Caltech (PIA23177)",
+   "caption": "The wind and thermal shield covering InSight's seismometer on Mars, sol 110 (April 2019).",
+   "source_id": "img-pia23177"
+  },
+  {
+   "file": "assets/img/insight-deck-800.webp / -1600.webp",
+   "kind": "photo",
+   "credit": "NASA/JPL-Caltech (PIA22871)",
+   "caption": "InSight's deck on sol 8 (December 2018): the seismometer (copper cover), its gray shield and the black heat probe, before the arm moved them to the ground.",
+   "source_id": "img-pia22871"
+  },
+  {
+   "file": "assets/models/apollo-lm-descent-stage.glb",
+   "kind": "3D model (GLB)",
+   "credit": "NASA 3D Resources",
+   "caption": "Descent stage only. We made this version by deleting the ascent stage from NASA's model; nothing was added or reshaped.",
+   "source_id": "nasa3d-lm"
+  },
+  {
+   "file": "assets/models/apollo-lm-full.glb",
+   "kind": "3D model (GLB)",
+   "credit": "NASA 3D Resources",
+   "caption": "NASA's complete Apollo Lunar Module model, both stages.",
+   "source_id": "nasa3d-lm"
+  },
+  {
+   "file": "assets/models/mer-rover.glb",
+   "kind": "3D model (GLB)",
+   "credit": "NASA 3D Resources",
+   "caption": "NASA's simplified model of Opportunity (MER-B). Spirit and Opportunity were identical twins.",
+   "source_id": "nasa3d-mer-b"
+  },
+  {
+   "file": "assets/models/insight-lander.glb",
+   "kind": "3D model (GLB)",
+   "credit": "NASA 3D Resources",
+   "caption": "NASA's InSight lander model (arm deployed). It shows SEIS and the heat probe on the deck, where they traveled to Mars.",
+   "source_id": "nasa3d-insight"
+  },
+  {
+   "file": "assets/maps/moon-lroc-color.webp",
+   "kind": "map",
+   "credit": "NASA's Scientific Visualization Studio (CGI Moon Kit, LROC WAC color mosaic)",
+   "caption": "Equirectangular projection centered on 0° longitude. Marker positions come from published coordinates.",
+   "source_id": "svs-cgi-moon-kit"
+  },
+  {
+   "file": "assets/maps/mars-viking-0-360.webp",
+   "kind": "map",
+   "credit": "NASA/JPL-Caltech; Viking images processed at the USGS (NASA 3D Resources Mars texture)",
+   "caption": "Equirectangular projection, re-centered on 180° E for this site (0° E at the left edge). Marker positions come from published coordinates.",
+   "source_id": "nasa3d-mars-texture"
+  }
+ ],
+ "exhibits": [
+  {
+   "id": "apollo11-descent-stage",
+   "name": "Eagle's Descent Stage",
+   "status": {
+    "type": "silent",
+    "label": "Left in place since 21 July 1969 · nothing on it operates",
+    "detail": "Only the descent stage remains at Tranquility Base. The ascent stage carried the crew back to lunar orbit and was later released. NASA's catalog says its fate is unknown and assumes it crashed into the Moon within a few months.",
+    "verified": "2026-11-07",
+    "sourceIds": [
+     "nssdc-a11-lm"
+    ]
+   },
+   "location": {
+    "site": "Tranquility Base, Mare Tranquillitatis (Sea of Tranquility)",
+    "lat": 0.67416,
+    "lon": 23.47314,
+    "approximate": false,
+    "convention": "Measured from Lunar Reconnaissance Orbiter images (mean Earth/polar axis frame)",
+    "sourceId": "nssdc-a11-lm"
+   },
+   "timeline": [
+    {
+     "date": "20 Jul 1969, 20:05 UT",
+     "text": "The descent engine begins a 756-second burn toward the surface.",
+     "sourceId": "nssdc-a11-lm"
+    },
+    {
+     "date": "20 Jul 1969, 20:17 UT",
+     "text": "Eagle lands in the Sea of Tranquility.",
+     "sourceId": "nssdc-a11-lm"
+    },
+    {
+     "date": "21 Jul 1969, 02:56 UT",
+     "text": "Armstrong steps off the ladder onto the Moon.",
+     "sourceId": "nssdc-a11-lm"
+    },
+    {
+     "date": "21 Jul 1969, 17:54 UT",
+     "text": "The ascent stage lifts off. The descent stage stays behind as its launch pad.",
+     "sourceId": "nssdc-a11-lm"
+    },
+    {
+     "date": "2009–today",
+     "text": "The site's position is measured from Lunar Reconnaissance Orbiter images.",
+     "sourceId": "nssdc-a11-lm"
+    }
+   ]
+  },
+  {
+   "id": "apollo11-retroreflector",
+   "name": "Laser Ranging Retroreflector",
+   "status": {
+    "type": "active",
+    "label": "Still used by observatories today · needs no power",
+    "detail": "The array has no electronics. Telescopes on Earth fire laser pulses at the Apollo arrays and time the echoes. NASA's 2019 article names four observatories, in New Mexico, France, Italy and Germany.",
+    "verified": "2026-11-07",
+    "sourceIds": [
+     "nasa-llr-keeps-giving",
+     "nasa-retroreflectors-apollo-mars"
+    ]
+   },
+   "location": {
+    "site": "Tranquility Base, about 5 m north-northwest of the Apollo 11 seismometer",
+    "lat": 0.6735,
+    "lon": 23.473,
+    "approximate": true,
+    "convention": "Coordinates are for the experiments package site (about 17 m south of the lunar module); the reflector stood about 5 m away from it",
+    "sourceId": "nssdc-a11-lm"
+   },
+   "timeline": [
+    {
+     "date": "21 Jul 1969",
+     "text": "Aldrin carries the reflector and the seismometer out from Eagle and sets them up.",
+     "sourceId": "nasa-tranquility-base"
+    },
+    {
+     "date": "27 Aug 1969",
+     "text": "The solar-powered seismometer stops accepting commands. The reflector, needing no power, carries on.",
+     "sourceId": "nssdc-a11-lm"
+    },
+    {
+     "date": "1971",
+     "text": "Apollo 14 and Apollo 15 crews leave more reflector arrays.",
+     "sourceId": "nasa-llr-keeps-giving"
+    },
+    {
+     "date": "2019",
+     "text": "NASA reports the arrays are still returning data, 50 years on.",
+     "sourceId": "nasa-llr-keeps-giving"
+    },
+    {
+     "date": "Today",
+     "text": "Lunar laser ranging research with Apollo-era reflectors continues.",
+     "sourceId": "nasa-retroreflectors-apollo-mars"
+    }
+   ]
+  },
+  {
+   "id": "spirit-rover",
+   "name": "Spirit Rover",
+   "status": {
+    "type": "silent",
+    "label": "Silent since 22 March 2010 · mission ended 25 May 2011",
+    "detail": "Spirit got stuck in soft soil at a spot called Troy on 1 May 2009 and became a stationary science platform. After 22 March 2010 the team could not regain contact. NASA ended recovery attempts on 25 May 2011; the most likely cause was cold that made its survival heaters ineffective.",
+    "verified": "2026-11-07",
+    "sourceIds": [
+     "nasa-mer-spirit"
+    ]
+   },
+   "location": {
+    "site": "Gusev Crater. Landing site: Columbia Memorial Station. Final spot: Troy, beside Home Plate in the Columbia Hills",
+    "lat": -14.5692,
+    "lon": 175.4729,
+    "approximate": true,
+    "convention": "Marker shows the published landing coordinates (planetocentric, east-positive). Spirit's final spot, Troy, is in the Columbia Hills, which lie about 3 km from the landing site.",
+    "sourceId": "nasa-mer-spirit"
+   },
+   "timeline": [
+    {
+     "date": "3 Jan 2004",
+     "text": "Spirit's airbag-wrapped lander bounces 28 times, then rolls to a stop inside Gusev Crater.",
+     "sourceId": "nasa-mer-spirit"
+    },
+    {
+     "date": "Early 2004",
+     "text": "First time any spacecraft grinds into a rock on Mars (a rock called Adirondack).",
+     "sourceId": "nasa-mer-spirit"
+    },
+    {
+     "date": "29 Sep 2005",
+     "text": "Reaches the summit of Husband Hill and takes 360° panoramas.",
+     "sourceId": "nasa-mer-spirit"
+    },
+    {
+     "date": "2006",
+     "text": "A front wheel stops turning; Spirit finds signs of an ancient explosion at Home Plate.",
+     "sourceId": "nasa-mer-spirit"
+    },
+    {
+     "date": "2007",
+     "text": "The dragging wheel uncovers soil that is about 90% silica.",
+     "sourceId": "pj-pia09491"
+    },
+    {
+     "date": "1 May 2009",
+     "text": "Gets stuck in soft soil at Troy.",
+     "sourceId": "nasa-mer-spirit"
+    },
+    {
+     "date": "22 Mar 2010",
+     "text": "Last contact with Earth.",
+     "sourceId": "nasa-mer-spirit"
+    },
+    {
+     "date": "25 May 2011",
+     "text": "NASA ends recovery attempts and declares the mission complete.",
+     "sourceId": "nasa-mer-spirit"
+    }
+   ]
+  },
+  {
+   "id": "insight-lander",
+   "name": "InSight Lander",
+   "status": {
+    "type": "silent",
+    "label": "Silent since 15 December 2022 · mission declared over",
+    "detail": "Dust slowly covered InSight's solar panels and reduced its power. NASA declared the mission over on 21 December 2022 after two missed communication attempts; the last contact was on 15 December. NASA said it would keep listening, just in case.",
+    "verified": "2026-11-07",
+    "sourceIds": [
+     "jpl-insight-retired"
+    ]
+   },
+   "location": {
+    "site": "Western Elysium Planitia, near Mars' equator",
+    "lat": 4.5,
+    "lon": 135.9,
+    "approximate": true,
+    "convention": "NASA gives the landing site as centered at about 4.5° N, 135.9° E (planetocentric, east-positive). The marker is placed there.",
+    "sourceId": "nasa-insight"
+   },
+   "timeline": [
+    {
+     "date": "5 May 2018",
+     "text": "Launches from California on an Atlas V rocket.",
+     "sourceId": "nasa-insight"
+    },
+    {
+     "date": "26 Nov 2018",
+     "text": "Lands on the flat plain of Elysium Planitia.",
+     "sourceId": "nasa-insight"
+    },
+    {
+     "date": "19 Dec 2018",
+     "text": "The arm sets the seismometer on the ground, a first on another planet.",
+     "sourceId": "jpl-insight-first-instrument"
+    },
+    {
+     "date": "By Apr 2019",
+     "text": "The domed wind and thermal shield covers the seismometer.",
+     "sourceId": "img-pia23177"
+    },
+    {
+     "date": "2019–2021",
+     "text": "The heat probe's \"mole\" tries to dig, but stops just below the surface.",
+     "sourceId": "jpl-insight-retired"
+    },
+    {
+     "date": "2021",
+     "text": "Marsquake data reveal the crust, mantle and molten core.",
+     "sourceId": "jpl-insight-interior"
+    },
+    {
+     "date": "24 Apr 2022",
+     "text": "Takes its final, very dusty selfie.",
+     "sourceId": "img-pia25287"
+    },
+    {
+     "date": "15 Dec 2022",
+     "text": "Last contact. NASA declares the mission over on 21 December.",
+     "sourceId": "jpl-insight-retired"
+    }
+   ]
+  }
+ ]
+}

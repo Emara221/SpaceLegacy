@@ -1,0 +1,64 @@
+﻿Used on website,Link,Description
+>>> YES <<<,https://www.spaceappschallenge.org/2026/challenges/nasas-discarded-equipment-storytelling/,Abandoned but not Forgotten: Storytelling about NASA's Discarded Equipment on the Moon and Mars (challenge brief) (NASA Space Apps Challenge 2026). Supports: terms and assets
+>>> YES <<<,https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1969-059C,"Apollo 11 Lunar Module / EASEP (NASA Space Science Data Coordinated Archive (NSSDCA)). Supports: Apollo 11 (Eagle), apollo11 descent stage, apollo11 retroreflector"
+>>> YES <<<,https://nssdc.gsfc.nasa.gov/nmc/experiment/display.action?id=1969-059C-04,Apollo 11 Laser Ranging Retroreflector (experiment 1969-059C-04) (NASA NSSDCA). Supports: apollo11 retroreflector
+>>> YES <<<,https://www.nasa.gov/missions/apollo/apollo-11/the-apollo-experiment-that-keeps-on-giving/,"The Apollo Experiment That Keeps on Giving (NASA (2019)). Supports: Apollo 14 (Antares), apollo11 retroreflector"
+>>> YES <<<,https://www.nasa.gov/image-article/retroreflectors-from-apollo-mars/,"Retroreflectors: From Apollo to Mars (NASA). Supports: Apollo 11 (Eagle), apollo11 retroreflector"
+>>> YES <<<,https://www.nasa.gov/image-article/tranquility-base/,At Tranquility Base (NASA). Supports: apollo11 retroreflector
+>>> YES <<<,https://nssdc.gsfc.nasa.gov/planetary/factsheet/moonfact.html,"Moon Fact Sheet (perigee, apogee, semimajor axis) (NASA NSSDCA). Supports: laser activity"
+>>> YES <<<,https://physics.nist.gov/cgi-bin/cuu/Value?c,"Speed of light in vacuum (exact value, 299,792,458 m/s) (NIST CODATA). Supports: laser activity"
+>>> YES <<<,https://science.nasa.gov/mission/mer-spirit/,"Spirit (MER-A) mission page (NASA Science). Supports: Spirit (MER A), spirit rover"
+>>> YES <<<,https://science.nasa.gov/mission/mars-exploration-rovers-spirit-and-opportunity/,"Mars Exploration Rovers: Spirit and Opportunity (NASA Science). Supports: spirit rover, terms and assets"
+>>> YES <<<,https://photojournal.jpl.nasa.gov/catalog/PIA09491,PIA09491: Silica-Rich Soil Found by Spirit (NASA/JPL Photojournal). Supports: spirit rover
+>>> YES <<<,https://images.nasa.gov/details/PIA12203,PIA12203: Calypso Panorama of Spirit's View from Troy (NASA Image and Video Library). Supports: spirit rover
+>>> YES <<<,https://science.nasa.gov/mission/insight/,"InSight mission page (NASA Science). Supports: InSight, insight lander"
+>>> YES <<<,https://science.nasa.gov/mission/insight/science-instruments/,InSight science instruments (NASA Science). Supports: insight lander
+>>> YES <<<,https://science.nasa.gov/mission/insight/science/,InSight science (Instrument Deployment Camera selfies) (NASA Science). Supports: insight lander
+>>> YES <<<,https://www.jpl.nasa.gov/news/nasa-retires-insight-mars-lander-mission-after-years-of-science/,"NASA Retires InSight Mars Lander Mission After Years of Science (21 Dec 2022) (NASA Jet Propulsion Laboratory). Supports: InSight, insight lander"
+>>> YES <<<,https://www.jpl.nasa.gov/news/nasas-insight-reveals-the-deep-interior-of-mars/,NASA's InSight Reveals the Deep Interior of Mars (NASA Jet Propulsion Laboratory). Supports: insight lander
+>>> YES <<<,https://www.jpl.nasa.gov/news/nasas-insight-places-first-instrument-on-mars/,NASA's InSight Places First Instrument on Mars (19 Dec 2018) (NASA Jet Propulsion Laboratory). Supports: insight lander
+>>> YES <<<,https://images.nasa.gov/details/as11-40-5927,AS11-40-5927: View of Apollo 11 Lunar Module as it rested on lunar surface (NASA Image and Video Library). Supports: apollo11 descent stage
+>>> YES <<<,https://images.nasa.gov/details/as11-40-5899,AS11-40-5899: View of plaque Apollo 11 astronauts left on moon (NASA Image and Video Library). Supports: apollo11 descent stage
+>>> YES <<<,https://images.nasa.gov/details/S69-39334,S69-39334: Plaque which Apollo 11 astronauts will leave on the moon (size and mounting) (NASA Image and Video Library). Supports: apollo11 descent stage
+>>> YES <<<,https://images.nasa.gov/details/as11-40-5948,AS11-40-5948: Aldrin after deployment of EASEP on surface of moon (NASA Image and Video Library). Supports: apollo11 retroreflector
+>>> YES <<<,https://images.nasa.gov/details/as11-40-5951,AS11-40-5951: Aldrin deploys the Passive Seismic Experiment Package (NASA Image and Video Library). Supports: credits / usage terms
+>>> YES <<<,https://images.nasa.gov/details/6900957,6900957: Aldrin carrying the Early Apollo Scientific Experiment Package (NASA Image and Video Library (Marshall Space Flight Center)). Supports: apollo11 descent stage
+>>> YES <<<,https://images.nasa.gov/details/as14-67-09386,AS14-67-9386: Laser Ranging Retro Reflector deployed by Apollo 14 (NASA Image and Video Library). Supports: credits / usage terms
+>>> YES <<<,https://images.nasa.gov/details/PIA04413,PIA04413: Artist Concept of Rover on Mars (NASA Image and Video Library). Supports: credits / usage terms
+>>> YES <<<,https://images.nasa.gov/details/PIA25287,PIA25287: InSight's Final Selfie (NASA Image and Video Library). Supports: insight lander
+>>> YES <<<,https://images.nasa.gov/details/PIA23177,PIA23177: InSight's Seismometer on the Martian Surface (NASA Image and Video Library). Supports: insight lander
+>>> YES <<<,https://images.nasa.gov/details/PIA22871,PIA22871: Full View of InSight's Deck and Two Science Instruments (NASA Image and Video Library). Supports: insight lander
+>>> YES <<<,https://github.com/nasa/NASA-3D-Resources/tree/master/3D%20Models/Apollo%20Lunar%20Module,"Apollo Lunar Module (3D model, GLB) (NASA 3D Resources). Supports: credits / usage terms"
+>>> YES <<<,https://science.nasa.gov/3d-resources/mars-exploration-rover-opportunity-mer-b/,"Mars Exploration Rover – Opportunity (MER-B) (3D model, GLB) (NASA 3D Resources). Supports: credits / usage terms"
+>>> YES <<<,https://science.nasa.gov/3d-resources/insight-cruise-lander/,"InSight Cruise Lander, arm deployed (3D model, GLB) (NASA 3D Resources). Supports: credits / usage terms"
+>>> YES <<<,https://science.nasa.gov/3d-resources/mars/,Mars (global texture map) (NASA 3D Resources (NASA/JPL-Caltech; Viking images processed at USGS)). Supports: terms and assets
+>>> YES <<<,https://svs.gsfc.nasa.gov/4720/,CGI Moon Kit (lroc_color_2k.jpg) (NASA's Scientific Visualization Studio). Supports: terms and assets
+>>> YES <<<,https://www.nasa.gov/nasa-brand-center/images-and-media/,NASA Images and Media Usage Guidelines (NASA). Supports: terms and assets
+>>> YES <<<,https://github.com/nasa/NASA-3D-Resources,NASA-3D-Resources repository README (usage statement) (NASA (GitHub)). Supports: terms and assets
+no (extra),https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1969-099C,Apollo 12 Lunar Module / ALSEP (1969-099C) (NASA Space Science Data Coordinated Archive (NSSDCA)). Supports: Apollo 12 (Intrepid)
+no (extra),https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1971-008C,Apollo 14 Lunar Module / ALSEP (1971-008C) (NASA Space Science Data Coordinated Archive (NSSDCA)). Supports: Apollo 14 (Antares)
+no (extra),https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1971-063C,Apollo 15 Lunar Module / ALSEP (1971-063C) (NASA Space Science Data Coordinated Archive (NSSDCA)). Supports: Apollo 15 (Falcon)
+no (extra),https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1972-031C,Apollo 16 Lunar Module / ALSEP (1972-031C) (NASA Space Science Data Coordinated Archive (NSSDCA)). Supports: Apollo 16 (Orion)
+no (extra),https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1972-096C,Apollo 17 Lunar Module / ALSEP (1972-096C) (NASA Space Science Data Coordinated Archive (NSSDCA)). Supports: Apollo 17 (Challenger)
+no (extra),https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1966-045A,Surveyor 1 (1966-045A) (NASA Space Science Data Coordinated Archive (NSSDCA)). Supports: Surveyor 1
+no (extra),https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1967-035A,Surveyor 3 (1967-035A) (NASA Space Science Data Coordinated Archive (NSSDCA)). Supports: Surveyor 3
+no (extra),https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1967-084A,Surveyor 5 (1967-084A) (NASA Space Science Data Coordinated Archive (NSSDCA)). Supports: Surveyor 5
+no (extra),https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1967-112A,Surveyor 6 (1967-112A) (NASA Space Science Data Coordinated Archive (NSSDCA)). Supports: Surveyor 6
+no (extra),https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1968-001A,Surveyor 7 (1968-001A) (NASA Space Science Data Coordinated Archive (NSSDCA)). Supports: Surveyor 7
+no (extra),https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1975-075C,Viking 1 Lander (1975-075C) (NASA Space Science Data Coordinated Archive (NSSDCA)). Supports: Viking 1 Lander
+no (extra),https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1975-083C,Viking 2 Lander (1975-083C) (NASA Space Science Data Coordinated Archive (NSSDCA)). Supports: Viking 2 Lander
+no (extra),https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1996-068A,Mars Pathfinder (1996-068A) (NASA Space Science Data Coordinated Archive (NSSDCA)). Supports: Mars Pathfinder + Sojourner
+no (extra),https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=2003-027A,"Spirit, Mars Exploration Rover A (2003-027A) (NASA Space Science Data Coordinated Archive (NSSDCA)). Supports: spirit rover"
+no (extra),https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=2003-032A,"Opportunity, Mars Exploration Rover B (2003-032A) (NASA Space Science Data Coordinated Archive (NSSDCA)). Supports: Opportunity (MER B)"
+no (extra),https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=2007-034A,Phoenix Mars Lander (2007-034A) (NASA Space Science Data Coordinated Archive (NSSDCA)). Supports: Phoenix
+no (extra),https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=2011-070A,Mars Science Laboratory / Curiosity (2011-070A) (NASA Space Science Data Coordinated Archive (NSSDCA)). Supports: Curiosity (MSL)
+no (extra),https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=2018-042A,InSight Mars Lander (2018-042A) (NASA Space Science Data Coordinated Archive (NSSDCA)). Supports: insight lander
+no (extra),https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=2020-052A,Mars 2020 / Perseverance (2020-052A) (NASA Space Science Data Coordinated Archive (NSSDCA)). Supports: Perseverance (Mars 2020)
+no (extra),https://science.nasa.gov/mission/viking-1/,Viking 1 mission page (NASA Science). Supports: Viking 1 Lander
+no (extra),https://science.nasa.gov/mission/viking-2/,Viking 2 mission page (NASA Science). Supports: credits / usage terms
+no (extra),https://science.nasa.gov/mission/mars-pathfinder/,Mars Pathfinder mission page (NASA Science). Supports: credits / usage terms
+no (extra),https://science.nasa.gov/mission/mer-opportunity/,Opportunity (MER-B) mission page (NASA Science). Supports: Opportunity (MER B)
+no (extra),https://science.nasa.gov/mission/phoenix/,Phoenix mission page (NASA Science). Supports: credits / usage terms
+no (extra),https://science.nasa.gov/mission/msl-curiosity/,Curiosity (MSL) mission page (NASA Science). Supports: Curiosity (MSL)
+no (extra),https://science.nasa.gov/mission/mars-2020-perseverance/,Mars 2020 Perseverance mission page (NASA Science). Supports: Perseverance (Mars 2020)
+no (extra),https://science.nasa.gov/mission/mars-2020-perseverance/ingenuity-mars-helicopter/,Ingenuity Mars Helicopter mission page (NASA Science). Supports: Ingenuity

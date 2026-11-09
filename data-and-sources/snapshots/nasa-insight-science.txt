@@ -1,0 +1,273 @@
+Source ID: nasa-insight-science
+Title: InSight science (Instrument Deployment Camera selfies)
+Publisher: NASA Science
+URL: https://science.nasa.gov/mission/insight/science/
+Fetched from: https://science.nasa.gov/mission/insight/science/
+Retrieved: 2026-11-07 01:50 UTC (HTTP 200)
+Note: plain-text extract of the public page, kept as evidence for facts.csv. NASA web content is generally not subject to U.S. copyright; see the original page for images and context.
+------------------------------------------------------------------------------
+InSight Science - NASA Science
+Explore
+Search
+News & Events
+Recently Published
+Video Series on NASA+
+Podcasts & Audio
+Blogs
+Newsletters
+Social Media
+Media Resources
+Multimedia
+NASA+
+Images
+NASA Live
+NASA Apps
+Podcasts
+Image of the Day
+e-Books
+3D Resources
+Interactives
+STEM Multimedia
+NASA Brand & Usage Guidelines
+Suggested Searches
+Artemis
+ISS
+Roman
+Webb
+Quesst
+Moon Base
+View All Topics A-Z
+Home
+Missions
+Humans in Space
+Earth
+The Solar System
+The Universe
+Science
+Aeronautics
+Technology
+Learning Resources
+About NASA
+Español
+Highlights
+5 min read
+NASA’s Twin ESCAPADE Spacecraft to Slingshot Past Earth on Way to Mars
+article 4 days ago
+2 min read
+NASA Announces X-70 Experimental Aircraft to Advance Flight Research
+article 2 days ago
+4 min read
+What’s Up: November 2026 Skywatching Tips from NASA
+Back
+Search All NASA Missions
+A to Z List of Missions
+Upcoming Launches and Landings
+Spaceships and Rockets
+Communicating with Missions
+James Webb Space Telescope
+Hubble Space Telescope
+International Space Station
+OSIRIS-REx
+Why Go to Space
+Astronauts
+Commercial Space
+Destinations
+Living in Space
+Explore Earth Science
+Climate Change
+Earth, Our Planet
+Earth Science in Action
+Earth Multimedia
+Earth Data
+Earth Science Researchers
+The Sun
+Mercury
+Venus
+The Moon
+Mars
+Jupiter
+Saturn
+Uranus
+Neptune
+Pluto & Dwarf Planets
+Asteroids, Comets & Meteors
+The Kuiper Belt
+The Oort Cloud
+Skywatching
+Exoplanets
+The Search for Life in the Universe
+Stars
+Galaxies
+Black Holes
+The Big Bang
+Dark Matter
+Dark Energy
+Earth Science
+Planetary Science
+Astrophysics & Space Science
+The Sun & Heliophysics
+Biological & Physical Sciences
+Lunar Science
+Citizen Science
+Astromaterials
+Aeronautics Research
+Human Space Travel Research
+Science in the Air
+NASA Aircraft
+Flight Innovation
+Supersonic Flight
+Air Traffic Solutions
+Green Aviation Tech
+Drones & You
+Technology Transfer & Spinoffs
+Space Travel Technology
+Technology Living in Space
+Manufacturing and Materials
+Robotics
+Science Instruments
+Computing
+For Kids and Students
+For Educators
+For Colleges and Universities
+For Professionals
+Science for Everyone
+Requests for Exhibits, Artifacts, or Speakers
+STEM Engagement at NASA
+NASA's Impacts
+Centers and Facilities
+Directorates
+Organizations
+People of NASA
+Careers
+Internships
+Our History
+Doing Business with NASA
+Get Involved
+Contact
+NASA en Español
+Ciencia
+Aeronáutica
+Ciencias Terrestres
+Sistema Solar
+Universo
+article
+4 days ago
+3 min read
+Hubble Learns Galactic History From Stars
+1 day ago
+NASA’s Swift Observatory Re-Entered Atmosphere
+1 min read
+NASA Astronauts to Answer Questions from Florida Students
+NASA Astronaut, STEM Creator Connect with Students for STEM Day
+3 days ago
+NASA’s ISAM State of Play: The Industry Standard for Space Servicing, Assembly, and Manufacturing
+1 week ago
+Supercomputing Tech Demo Schedule
+9 hours ago
+Taking a Gander at Utah’s Goosenecks
+20 hours ago
+Cyprus: Island of Snakes, Cats, and Ophiolites
+2 days ago
+November’s Night Sky Notes: Light-Day Away
+Slice of Martian Meteorite Teghaza 001
+NASA’s Hubble Uncovers Case of Missing Oxygen in Nearby Dwarf Galaxies
+NASA Explores Potential Commercial Servicing for Hubble Telescope
+Amendment 81: New Opportunity: Astrophysics Theory Program
+NASA Navigation Experiment Shows Promise for Planetary Landings
+NASA University Challenge Ignites Trajectory of Drone Entrepreneur
+NASA Ames Unitary Plan Wind Tunnel
+2 weeks ago
+High-speed Intelligent Robust Autonomous Terrain Exploration
+The Pacific’s Busy Storm Season
+Materials Engineered for Re-Entry Using Innovative Needling Operations
+NASA Space Grant Students Fuel Agency’s Inspiration Tour
+Send Your Name to Titan Aboard NASA’s Dragonfly Mission
+TIME Best Inventions of 2026
+3 weeks ago
+11 min read
+La NASA anuncia la cobertura de la misión lunar Artemis II
+8 months ago
+15 min read
+Agenda diaria de la misión a la Luna de Artemis II de la NASA
+6 min read
+La NASA refuerza Artemis: añade una misión y perfecciona su arquitectura general
+Mars InSight Lander …
+InSight Lander
+InSight Science
+InSight Home InSight Lander
+Mars Cube One
+Science Overview
+Instruments
+News & Features
+Multimedia InSight Raw Images
+Videos
+Audio
+All Mars Resources
+Mars Missions Mars Perseverance Rover
+Mars Curiosity Rover
+Mars Reconnaissance Orbiter
+Mars Odyssey
+More Mars Missions
+InSight
+InSight studied the deep interior of Mars and was designed to take the planet's vital signs: its pulse, temperature, and reflexes.
+Overview
+Objectives
+Science Highlights
+Artist’s rendition showing the inner structure of Mars. The topmost layer is known as the crust, underneath it is the mantle, which rests on a solid inner core.
+NASA/JPL-Caltech
+InSight studied the deep interior of Mars and was designed to take the planet's vital signs: its pulse, temperature, and reflexes. InSight was the first mission to give Mars a thorough checkup since the planet formed 4.5 billion years ago.
+Previous missions to the Red Planet investigated its surface by studying its canyons, volcanoes, rocks, and soil. But the signatures of the planet's formation can only be found by sensing and studying its vital signs farther below the surface.
+An artist's rendition of Mars, highlighting one of InSight's goals -- to figure out just how tectonically active Mars is today and how often meteorites impact it.
+The InSight mission had two major goals, each with several science investigations, designed to help uncover the process that shaped all of the rocky planets in the inner solar system.
+To understand how rocky planets formed and evolved, InSight studied the interior structure and processes of Mars by determining:
+The size of the core, what it is made of, and whether it is liquid or solid.
+The thickness and structure of the crust.
+The structure of the mantle and what it is made of.
+How warm the interior is and how much heat is still flowing through.
+InSight will figure out just how tectonically active Mars is today, and how often meteorites impacted it. For this, it will measure:
+How powerful and frequent internal seismic activity is on Mars, and where it is located within the structure of the planet.
+How often meteorites impact the surface of Mars.
+Insight Science
+NASA's InSight lander instruments peered into the Martian subsurface, seeking the signatures of the processes that shaped the rocky planets of the inner solar system, more than four billion years ago. InSight's findings shed light on the formation of Mars, Earth, and even rocky exoplanets.
+Learn More
+This is NASA InSight's first full selfie on Mars, made up of 11 images which were taken by its Instrument Deployment Camera, located on the elbow of its robotic arm. Those images are then stitched together into a mosaic.
+With four years on the Red Planet, InSight captured the ‘vital signs’ of Mars, giving the planet its first thorough checkup since it formed 4.5 billion years ago.
+Read More
+Keep Exploring
+Discover More Topics From NASA
+Mars Science Laboratory: Curiosity Rover
+Part of NASA's Mars Science Laboratory mission, at the time of launch, Curiosity was the largest and most capable rover…
+Mars 2020: Perseverance Rover
+NASA’s Mars Perseverance rover seeks signs of ancient life and collects samples of rock and regolith for possible Earth return.
+Mars Exploration: Science Goals
+The key to understanding the past, present or future potential for life on Mars can be found in NASA’s four…
+Mars is the fourth planet from the Sun, and the seventh largest. It’s the only planet we know of inhabited…
+National Aeronautics and Space Administration
+NASA explores the unknown in air and space, innovates for the benefit of humanity, and inspires the world through discovery.
+About NASA's Mission
+Join Us
+Follow NASA
+More NASA Social Accounts
+NASA Newsletters
+Sitemap
+For Media
+Privacy Policy
+FOIA
+No FEAR Act
+Office of the IG
+Budget & Annual Reports
+Agency Financial Reports
+Contact NASA
+Accessibility
+Page Last Updated:
+Jun 23, 2026
+Page Editor:
+Stephen Carney
+Responsible NASA Official for Science:
+Dana Bolles
+Did you find what you were looking for? (Required)
+Yes
+Partly
+What were you looking for? (Required)
+What were you hoping to accomplish by visiting our website? (Required)
+Submit

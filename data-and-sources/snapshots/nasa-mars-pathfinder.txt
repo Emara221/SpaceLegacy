@@ -1,0 +1,314 @@
+Source ID: nasa-mars-pathfinder
+Title: Mars Pathfinder mission page
+Publisher: NASA Science
+URL: https://science.nasa.gov/mission/mars-pathfinder/
+Fetched from: https://science.nasa.gov/mission/mars-pathfinder/
+Retrieved: 2026-11-07 01:50 UTC (HTTP 200)
+Note: plain-text extract of the public page, kept as evidence for facts.csv. NASA web content is generally not subject to U.S. copyright; see the original page for images and context.
+------------------------------------------------------------------------------
+Mars Pathfinder - NASA Science
+Explore
+Search
+News & Events
+Recently Published
+Video Series on NASA+
+Podcasts & Audio
+Blogs
+Newsletters
+Social Media
+Media Resources
+Multimedia
+NASA+
+Images
+NASA Live
+NASA Apps
+Podcasts
+Image of the Day
+e-Books
+3D Resources
+Interactives
+STEM Multimedia
+NASA Brand & Usage Guidelines
+Suggested Searches
+Artemis
+ISS
+Roman
+Webb
+Quesst
+Moon Base
+View All Topics A-Z
+Home
+Missions
+Humans in Space
+Earth
+The Solar System
+The Universe
+Science
+Aeronautics
+Technology
+Learning Resources
+About NASA
+Español
+Highlights
+5 min read
+NASA’s Twin ESCAPADE Spacecraft to Slingshot Past Earth on Way to Mars
+article 4 days ago
+2 min read
+NASA Announces X-70 Experimental Aircraft to Advance Flight Research
+article 2 days ago
+4 min read
+What’s Up: November 2026 Skywatching Tips from NASA
+Back
+Search All NASA Missions
+A to Z List of Missions
+Upcoming Launches and Landings
+Spaceships and Rockets
+Communicating with Missions
+James Webb Space Telescope
+Hubble Space Telescope
+International Space Station
+OSIRIS-REx
+Why Go to Space
+Astronauts
+Commercial Space
+Destinations
+Living in Space
+Explore Earth Science
+Climate Change
+Earth, Our Planet
+Earth Science in Action
+Earth Multimedia
+Earth Data
+Earth Science Researchers
+The Sun
+Mercury
+Venus
+The Moon
+Mars
+Jupiter
+Saturn
+Uranus
+Neptune
+Pluto & Dwarf Planets
+Asteroids, Comets & Meteors
+The Kuiper Belt
+The Oort Cloud
+Skywatching
+Exoplanets
+The Search for Life in the Universe
+Stars
+Galaxies
+Black Holes
+The Big Bang
+Dark Matter
+Dark Energy
+Earth Science
+Planetary Science
+Astrophysics & Space Science
+The Sun & Heliophysics
+Biological & Physical Sciences
+Lunar Science
+Citizen Science
+Astromaterials
+Aeronautics Research
+Human Space Travel Research
+Science in the Air
+NASA Aircraft
+Flight Innovation
+Supersonic Flight
+Air Traffic Solutions
+Green Aviation Tech
+Drones & You
+Technology Transfer & Spinoffs
+Space Travel Technology
+Technology Living in Space
+Manufacturing and Materials
+Robotics
+Science Instruments
+Computing
+For Kids and Students
+For Educators
+For Colleges and Universities
+For Professionals
+Science for Everyone
+Requests for Exhibits, Artifacts, or Speakers
+STEM Engagement at NASA
+NASA's Impacts
+Centers and Facilities
+Directorates
+Organizations
+People of NASA
+Careers
+Internships
+Our History
+Doing Business with NASA
+Get Involved
+Contact
+NASA en Español
+Ciencia
+Aeronáutica
+Ciencias Terrestres
+Sistema Solar
+Universo
+article
+4 days ago
+3 min read
+Hubble Learns Galactic History From Stars
+2 days ago
+NASA’s Swift Observatory Re-Entered Atmosphere
+1 min read
+NASA Astronauts to Answer Questions from Florida Students
+1 day ago
+NASA Astronaut, STEM Creator Connect with Students for STEM Day
+3 days ago
+NASA’s ISAM State of Play: The Industry Standard for Space Servicing, Assembly, and Manufacturing
+1 week ago
+Supercomputing Tech Demo Schedule
+10 hours ago
+Taking a Gander at Utah’s Goosenecks
+21 hours ago
+Cyprus: Island of Snakes, Cats, and Ophiolites
+November’s Night Sky Notes: Light-Day Away
+Slice of Martian Meteorite Teghaza 001
+NASA’s Hubble Uncovers Case of Missing Oxygen in Nearby Dwarf Galaxies
+NASA Explores Potential Commercial Servicing for Hubble Telescope
+Amendment 81: New Opportunity: Astrophysics Theory Program
+NASA Navigation Experiment Shows Promise for Planetary Landings
+NASA University Challenge Ignites Trajectory of Drone Entrepreneur
+NASA Ames Unitary Plan Wind Tunnel
+2 weeks ago
+High-speed Intelligent Robust Autonomous Terrain Exploration
+The Pacific’s Busy Storm Season
+Materials Engineered for Re-Entry Using Innovative Needling Operations
+NASA Space Grant Students Fuel Agency’s Inspiration Tour
+Send Your Name to Titan Aboard NASA’s Dragonfly Mission
+TIME Best Inventions of 2026
+3 weeks ago
+11 min read
+La NASA anuncia la cobertura de la misión lunar Artemis II
+8 months ago
+15 min read
+Agenda diaria de la misión a la Luna de Artemis II de la NASA
+6 min read
+La NASA refuerza Artemis: añade una misión y perfecciona su arquitectura general
+Explore Mars In Depth Mars Home
+Facts
+Mars Exploration Overview
+Rover Basics
+Mars Exploration Science Objectives
+Mission Timeline Summary
+How We Land on Mars
+Mars Missions Mars Perseverance Rover
+Mars Curiosity Rover
+Mars Reconnaissance Orbiter
+Mars Odyssey
+Mars Relay Network
+More Mars Missions
+Multimedia Images
+Video
+Audio
+More Resources
+News & Features Latest Mars Articles
+The Mars Report
+Newsletter Home
+More The Solar System
+Mars Pathfinder
+NASA’s Mars Pathfinder successfully demonstrated a new way to safely land on the Red Planet and deliver the first-ever robotic rover, Sojourner, to the Martian surface.
+mission Type
+Lander, Rover
+Launch
+Dec. 4, 1996
+objective
+Land a rover on Mars
+landing
+July 4, 1997
+This is the "gallery" or "presidential" panorama taken by the Pathfinder lander. Roughly 100 frames have been stitched manually to produce this seamless image. The color has been processed to retain as much of the dynamic range of the original color filters as possible while still keeping the hues in the color space of JPL's calibrated color images. The goal of the color balancing was to provide a view of the terrain that as clearly as possible showed differentiations in rock and soil types. The sky and a small area near the low-gain antenna have been retouched.
+NASA/JPL-Caltech
+Key Facts
+Launch Dec. 4, 1996 UTC
+Launch Location Cape Canaveral Air Force Station, Florida
+Rocket Delta II 7925
+Mars Landing July 4, 1997
+Landing Site: Ares Vallis, Mars
+End of Mission Sept. 27, 1997
+360-Degree view
+NASA's Mars Pathfinder & Sojourner Rover
+Explore the landing site of NASA's Pathfinder mission to Mars with your mouse or mobile device. This 360-degree panorama includes the lander's companion rover, Sojourner, and top science targets.
+NOTE: Not all browsers support viewing 360 videos/images.
+Mars Pathfinder Lander
+Mars Pathfinder was originally designed as a technology demonstration to deliver an instrumented lander and a free-ranging robotic rover to the surface of the Red Planet.
+Both the lander and the 23-pound (10.6 kilogram) rover, Sojourner, carried instruments for scientific observations and to provide engineering data on the new technologies being demonstrated. Included were scientific instruments to analyze the Martian atmosphere, climate, geology, and the composition of its rocks and soil. Mars Pathfinder used an innovative method of directly entering the Martian atmosphere and landing.
+From landing until the final data transmission on Sept. 27, 1997, Mars Pathfinder returned 2.3 billion bits of information, including more than 16,500 images from the lander and 550 images from the rover, as well as more than 15 chemical analyses of rocks and soil and extensive data on winds and other weather factors. Findings from the investigations carried out by scientific instruments on both the lander and the rover suggest that Mars was at one time in its past warm and wet.
+Airbag Landing
+Pathfinder used an innovative method of directly entering the Martian atmosphere, assisted by a parachute to slow its descent through the thin Martian atmosphere and a giant system of airbags to cushion the impact. It was the first time this airbag technique had been used.
+At a speed of 31 mph (14 meters per second) and measuring 19 feet (5.8 meters) in diameter, Pathfinder bounced like a giant beach ball about 15 times, as high as 50 feet (15 meters), before coming to rest 2-1/2 minutes later about six-tenths of a mile (1 kilometer) from the point of initial impact.
+Engineers tested these huge, multi-lobed air bags, which enveloped and protected the Mars Pathfinder spacecraft before it impacted the surface of Mars. The air bags are composed of four large bags with six smaller, interconnected spheres within each bag. The bags measure 17 feet (5 meters) tall and about 17 feet (5 meters) in diameter. As Pathfinder descended to the Martian surface on a parachute, an onboard altimeter inside the lander monitored its distance from the ground. The computer inflated these large air bags about 330 feet (100 meters) above the surface of Mars. Upon landing, the airbag-encased Pathfinder bounced more than 15 times before rolling to a stop.
+Sojourner Rover
+The lander, named the Carl Sagan Memorial Station to honor the famed astronomer who had died the year before, deployed the rover, named Sojourner after American civil-rights crusader Sojourner Truth.
+On the night of July 5, late in the second Martian day, or sol 2, Sojourner stood up to its full height of 1 foot (30 centimeters) and rolled down the lander’s rear ramp, which was tilted at 20 degrees from the surface, well within the limits of safe deployment.
+This eight-image mosaic was acquired during the late afternoon on Sol 2 as part of the predeploy 'insurance panorama' and shows the newly deployed rover sitting on the Martian surface. The insurance panorama was designed as 'insurance' against camera failure upon deployment. Had the camera failed, the losslessly compressed, multispectral insurance panorama would have been the main source of image data from the Imager for Mars Pathfinder.
+Landing Site: Ares Vallis
+The landing site, Ares Vallis (named for Ares, the Greek counterpart to the Roman god Mars, and the Latin word for valley), is an ancient flood plain in Mars’ northern hemisphere, and known as among the rockiest parts of the planet. It was chosen because scientists believed it to be a relatively safe surface to land on and one which contained a wide variety of rocks deposited during a catastrophic flood. In the event early in Mars’ history, scientists believe that the floodplain was cut by a volume of water the size of North America’s Great Lakes in about two weeks.
+Large boulders are visible in this enlargement of pictures taken by the Imager for Mars Pathfinder (IMP) lander camera on July 4, 1997. The landing site is in the dry flood channel named Ares Valles. The boulders probably represent deposits from one of the catastrophic floods that carved the ancient channel. Between the rocks is brownish windblown soil. The gray-tan sky results from dust particles in the atmosphere.
+Mars Pathfinder Science Instruments
+Alpha Proton X-ray Spectrometer: Determined the elemental composition of rocks and soils
+Three Cameras: Provided images of the surrounding terrain for geological studies, and documented the performance and operating environment for Pathfinder mission technologies
+Atmospheric Structure Instrument/Meteorology Package: Measured the Martian atmosphere during Pathfinder's descent to the surface, and provided meteorological measurements at the lander
+This animated image is of the Mars Pathfinder rover deploying its Alpha Proton X-Ray Spectrometer.
+Mars Pathfinder Science Highlights
+Rounded pebbles and cobbles at the landing site, and other observations, suggested conglomerates that formed in running water during a warmer past in which liquid water was stable.
+Radio tracking of Mars Pathfinder provided a precise measure of the lander's location and Mars' pole of rotation. The measurements suggested that the radius of the planet's central metallic core is greater than 800 miles (1,300 kilometers) but less than roughly 1,250 miles (2,000 kilometers).
+Airborne dust is magnetic, and its characteristics suggest the magnetic mineral is maghemite, a very magnetic form of iron oxide, which may have been freeze-dried on the particles as a stain or cement. An active water cycle in the past may have leached out the iron from materials in the crust.
+Dust devils were seen and frequently measured by temperature, and sensors for wind and pressure. Observations suggested that these gusts are a mechanism for mixing dust into the atmosphere.
+Early morning water ice clouds were seen in the lower atmosphere.
+Abrupt temperature fluctuations were recorded in the morning, suggesting that the atmosphere is warmed by the planet's surface, with heat convected upward in small eddies.
+News and Features
+All Mars Pathfinder News
+Article
+5 Min Read
+Establishing Crew Exposure Limits of Martian Dust
+37 Min Read
+Catching Up With Perseverance on Mars
+6 Min Read
+Advances in NASA Imaging Changed How World Sees Mars
+Perseverance Rover Witnesses One Martian Dust Devil Eating Another
+2 Min Read
+Screening Soon: ‘The Pathfinders’ Trains Lens on Mars
+Keep Exploring
+Discover More Topics From NASA
+Webb is the premier observatory of the next decade, serving thousands of astronomers worldwide. It studies every phase in the…
+Perseverance Rover
+This rover and its aerial sidekick were assigned to study the geology of Mars and seek signs of ancient microbial…
+Parker Solar Probe
+On a mission to “touch the Sun,” NASA's Parker Solar Probe became the first spacecraft to fly through the corona…
+Juno
+NASA’s Juno spacecraft entered orbit around Jupiter in 2016, the first explorer to peer below the planet's dense clouds to…
+National Aeronautics and Space Administration
+NASA explores the unknown in air and space, innovates for the benefit of humanity, and inspires the world through discovery.
+About NASA's Mission
+Join Us
+Follow NASA
+More NASA Social Accounts
+NASA Newsletters
+Sitemap
+For Media
+Privacy Policy
+FOIA
+No FEAR Act
+Office of the IG
+Budget & Annual Reports
+Agency Financial Reports
+Contact NASA
+Accessibility
+Page Last Updated:
+Sep 29, 2026
+Page Editor:
+Debra Hernandez
+Responsible NASA Official for Science:
+Dana Bolles
+Did you find what you were looking for? (Required)
+Yes
+Partly
+What were you looking for? (Required)
+What were you hoping to accomplish by visiting our website? (Required)
+Submit

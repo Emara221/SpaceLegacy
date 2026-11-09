@@ -1,0 +1,93 @@
+Source ID: nssdc-phoenix
+Title: Phoenix Mars Lander (2007-034A)
+Publisher: NASA Space Science Data Coordinated Archive (NSSDCA)
+URL: https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=2007-034A
+Fetched from: https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=2007-034A
+Retrieved: 2026-11-07 01:50 UTC (HTTP 200)
+Note: plain-text extract of the public page, kept as evidence for facts.csv. NASA web content is generally not subject to U.S. copyright; see the original page for images and context.
+------------------------------------------------------------------------------
+NASA - NSSDCA - Spacecraft - Details
+Friday, 06 November 2026
+Phoenix Mars Lander
+NSSDCA/COSPAR ID: 2007-034A
+Description
+The Phoenix mission has officially ended, its last signal was received on 02 November 2008.
+The Phoenix Mars Lander is designed to study the surface and near-surface environment of a landing site in the high northern area of Mars. The primary science objectives for Phoenix are to: determine polar climate and weather, interaction with the surface, and composition of the lower atmosphere around 70 degrees north for at least 90 sols; determine the atmospheric characteristics during descent through the atmosphere; characterize the geomorphology and active processes shaping the northern plains and the physical properties of the near-surface regolith focusing on the role of water; determine the aqueous mineralogy and chemistry as well as the adsorbed gases and organic content of the regolith; characterize the history of water, ice, and the polar climate and determine the past and present biological potential of the surface and subsurface environments.
+Spacecraft and Subsystems
+The spacecraft comprises an octagonal base supported on three landing legs. Two octagonal solar panel wings extend from the base to provide power. Communication will be primarity through UHF relay via the Mars 2001 Odyssey orbiter, but Mars Reconnaissance Orbiter and Mars Express can also be used as relays, and Phoenix has a steerable medium gain X-band antenna to provide communications directly with Earth.
+The science experiments and a robotic arm are mounted on the base. The experiments are: the Microscopy, Electrochemistry, and Conductivity Analyzer (MECA), the Robotic Arm Camera (RAC), the Surface Stereo Imager (SSI), the Thermal and Evolved Gas Analyzer (TEGA), and the meteorological station (MET). The total science payload mass is 55 kg.
+Mission Profile
+Phoenix launched on 04 August 2007 at 09:26:34 UT (5:26 a.m. EDT) on a Delta II 7925 from Cape Canaveral Air Force Station. The 681 million km heliocentric cruise to Mars took approximately 10 months, with landing on Mars on 25 May 2008. Fourteen minutes before touchdown, and about 7 minutes before atmospheric entry (defined as reaching an altitude of 125 km) the cruise stage was jettisoned. The spacecraft entered the atmosphere and the heat shield initially slowed the craft. After about 3 minutes the parachute deployed, followed by ejection of the heat shield 15 seconds later, deployment of landing legs 10 seconds after that, and radar activation 50 seconds later. At 1 km altitude the parachute was released and a powered descent and soft-landing was achieved using a pulsed propulsion system with 8 thrusters, which turned off when footpad sensors detected touchdown.
+Touchdown occurred at 23:53:44 UT (7:53:44 p.m. EDT) on 25 May. The landing site is in the north polar region between 65 and 72 degrees N, nominally at 68.15 N, 125.9 W, a relatively boulder-free area with a high (30-60%) ratio of ice to rock. Surface temperatures in this region range between about 190 and 260 K and the landing altitude is about 3.5 km below the planetary reference. Mars was 275 million km from Earth at the time of touchdown, a light travel time of about 15 minutes. Communications were maintained through the relays on the orbiting Mars spacecraft Mars Reconnaissance Orbiter and Mars Express throughout the descent and for about 1 minute after touchdown, after which there was no communications with Phoenix for about an hour and a half.
+The solar panels were deployed after allowing 15 minutes for the dust to settle. Phoenix then took its first images of itself and its surroundings. When communications resume the first images, along with spacecraft health telemetry, were relayed back to Earth. Landing occured just before the northern summer solstice, at 68 degree latitude the Sun will be in the sky full time and will not dip below the horizon until August.
+All instruments will be deployed in the first two days after landing, but there will be an 8-10 day "characterization phase" to check out all systems. After this, the first soil sample will be delivered to the TEGA experiment. Surface samples will be analyzed by TEGA and MECA for the next 10 to 15 days and then deeper layers will be explored in 2 to 3 cm increments. Ice is expected to be 2 to 5 cm deep. As the summer ended the mission had less solar energy to operate and made its last transmission on 02 November 2008 before power was depleted. Cost of the mission is estimated at $417 million.
+Alternate Names
+32003
+PhoenixMarsLander
+urn:nasa:pds:context:instrument_host:spacecraft.phx
+Facts in Brief
+Launch Date: 2007-08-04
+Launch Vehicle: Delta II
+Launch Site: Cape Canaveral, United States
+Funding Agency
+National Aeronautics and Space Administration (United States)
+Discipline
+Planetary Science
+Additional Information
+Launch/Orbital information for Phoenix Mars Lander
+Telecommunications information for Phoenix Mars Lander
+Experiments on Phoenix Mars Lander
+Data collections from Phoenix Mars Lander
+Questions and comments about this spacecraft can be directed to:
+Coordinated Request and User Support Office
+Personnel
+Name Role Original Affiliation E-mail
+Dr. Leslie K. Tamppari Project Scientist NASA Jet Propulsion Laboratory Leslie.K.Tamppari@nasa.gov
+Dr. Joseph R. Guinn Mission Manager NASA Jet Propulsion Laboratory Joseph.R.Guinn@nasa.gov
+Dr. Barry G. Goldstein Project Manager NASA Jet Propulsion Laboratory Barry.G.Goldstein@nasa.gov
+Dr. Peter H. Smith Mission Principal Investigator University of Arizona psmith@lpl.arizona.edu
+Selected References
+Guinn, J. R., et al. , Mission design of the Phoenix Mars Scout mission,
+J. Geophys. Res. , 113, E00A26, doi:10.1029/2007JE003038, 2008.
+Smith, P. H., et al. , Introduction to special section on the Phoenix Mission: Landing Site Characterization Experiments, Mission Overviews, and Expected Science,
+J. Geophys. Res. , 113, E00A18, doi:10.1029/2008JE003083, 2008.
+Image taken by Phoenix on its first day on the northern plains of Mars
+(Credit NASA/JPL-Caltech/U. of Arizona)
+More images from the Phoenix Lander
+NASA Mars Lander Sees Falling Snow, Soil Data Suggest Liquid Past - Press Release, 29 September 2008
+Timeline of Landing Events
+Press Releases
+NASA Spacecraft Confirms Martian Water, Mission Extended - 31 July 2008
+NASA's Phoenix Spacecraft Lands at Martian Arctic Site - 25 May 2008
+NASA Phoenix Mission Ready for Mars Landing - 13 May 2008
+NASA to Discuss Upcoming Mars Landing - 6 May 2008
+NASA Readies Mars Lander for August Launch to Icy Site - 9 July 2007
+NASA Briefing on Next Mission to Mars July 9 - 5 July 2007
+NASA's Phoenix Mars Mission Begins Launch Preparations - 2 June 2005
+NASA's First Scout Mission Selected for 2007 Mars Launch - 4 August 2003
+Other Mars Landers
+Mars 2020 Rover "Perserverance"
+Chinese Tianwen 1 "Zhurong" Rover
+Insight Lander
+Mars Science Lab Rover "Curiosity"
+Mars Exploration Rover "Spirit"
+Mars Exploration Rover "Opportunity"
+Mars Pathfinder Rover
+Viking Landers
+Comparison of Spirit, Mars Pathfinder, and Viking Panoramas
+Phoenix Home Page - University of Arizona
+NASA Phoenix Home Page
+Mars Home Page
+Mars Fact Sheet
+NSSDCA Master Catalog Search
+Spacecraft
+Experiments
+Data Collections
+Publications
+Maps
+New/Updated Data
+Lunar/Planetary Events
++ Privacy Policy and Important Notices
+NASA Official: Thomas H. Morgan
+Curator: T. R. Holden
+Version 5.3.0, 16 October 2026

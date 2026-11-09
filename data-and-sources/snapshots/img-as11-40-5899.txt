@@ -1,0 +1,13 @@
+Source ID: img-as11-40-5899
+Title: AS11-40-5899: View of plaque Apollo 11 astronauts left on moon
+Publisher: NASA Image and Video Library
+URL: https://images.nasa.gov/details/as11-40-5899
+Fetched from: https://images-api.nasa.gov/search?nasa_id=as11-40-5899
+Retrieved: 2026-11-07 01:50 UTC (HTTP 200)
+Note: plain-text extract of the public page, kept as evidence for facts.csv. NASA web content is generally not subject to U.S. copyright; see the original page for images and context.
+------------------------------------------------------------------------------
+nasa_id: as11-40-5899
+title: View of plaque Apollo 11 astronauts left on moon
+date_created: 1969-07-20T00:00:00Z
+center: JSC
+description: AS11-40-5899 (20 July 1969) --- Close-up view of the plaque which the Apollo 11 astronauts left on the moon in commemoration of the historic lunar landing mission. The plaque was attached to the ladder on the landing gear strut on the descent stage of the Apollo 11 Lunar Module (LM). The plaque was covered with a thin sheet of stainless steel during flight. Astronaut Michael Collins, command module pilot, remained with the Command and Service Modules (CSM) in lunar orbit while astronauts Neil A. Armstrong, commander, and Edwin E. Aldrin Jr., lunar module pilot, explored the moon.

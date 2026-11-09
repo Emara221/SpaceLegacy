@@ -1,0 +1,6 @@
+quantity,formula,input,result,inputs_from
+round-trip time at closest (mean perigee),t = 2d / c,d = 363300 km,2.4237 s,LLR-01; LLR-02/03/04
+round-trip time at average (semimajor axis),t = 2d / c,d = 384400 km,2.5644 s,LLR-01; LLR-02/03/04
+round-trip time at farthest (mean apogee),t = 2d / c,d = 405500 km,2.7052 s,LLR-01; LLR-02/03/04
+round-trip change from 3.8 cm/yr recession,dt = 2 * 0.038 m / c,0.038 m,0.254 ns per year,LLR-01; LR-11
+worksheet: distance for 2.60 s,d = c * t / 2,t = 2.60 s,"389,730 km",LLR-01

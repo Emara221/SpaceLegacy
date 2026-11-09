@@ -1,0 +1,309 @@
+Source ID: nasa-phoenix
+Title: Phoenix mission page
+Publisher: NASA Science
+URL: https://science.nasa.gov/mission/phoenix/
+Fetched from: https://science.nasa.gov/mission/phoenix/
+Retrieved: 2026-11-07 01:50 UTC (HTTP 200)
+Note: plain-text extract of the public page, kept as evidence for facts.csv. NASA web content is generally not subject to U.S. copyright; see the original page for images and context.
+------------------------------------------------------------------------------
+Mars Phoenix - NASA Science
+Explore
+Search
+News & Events
+Recently Published
+Video Series on NASA+
+Podcasts & Audio
+Blogs
+Newsletters
+Social Media
+Media Resources
+Multimedia
+NASA+
+Images
+NASA Live
+NASA Apps
+Podcasts
+Image of the Day
+e-Books
+3D Resources
+Interactives
+STEM Multimedia
+NASA Brand & Usage Guidelines
+Suggested Searches
+Artemis
+ISS
+Roman
+Webb
+Quesst
+Moon Base
+View All Topics A-Z
+Home
+Missions
+Humans in Space
+Earth
+The Solar System
+The Universe
+Science
+Aeronautics
+Technology
+Learning Resources
+About NASA
+Español
+Highlights
+5 min read
+NASA’s Twin ESCAPADE Spacecraft to Slingshot Past Earth on Way to Mars
+article 4 days ago
+2 min read
+NASA Announces X-70 Experimental Aircraft to Advance Flight Research
+article 2 days ago
+4 min read
+What’s Up: November 2026 Skywatching Tips from NASA
+Back
+Search All NASA Missions
+A to Z List of Missions
+Upcoming Launches and Landings
+Spaceships and Rockets
+Communicating with Missions
+James Webb Space Telescope
+Hubble Space Telescope
+International Space Station
+OSIRIS-REx
+Why Go to Space
+Astronauts
+Commercial Space
+Destinations
+Living in Space
+Explore Earth Science
+Climate Change
+Earth, Our Planet
+Earth Science in Action
+Earth Multimedia
+Earth Data
+Earth Science Researchers
+The Sun
+Mercury
+Venus
+The Moon
+Mars
+Jupiter
+Saturn
+Uranus
+Neptune
+Pluto & Dwarf Planets
+Asteroids, Comets & Meteors
+The Kuiper Belt
+The Oort Cloud
+Skywatching
+Exoplanets
+The Search for Life in the Universe
+Stars
+Galaxies
+Black Holes
+The Big Bang
+Dark Matter
+Dark Energy
+Earth Science
+Planetary Science
+Astrophysics & Space Science
+The Sun & Heliophysics
+Biological & Physical Sciences
+Lunar Science
+Citizen Science
+Astromaterials
+Aeronautics Research
+Human Space Travel Research
+Science in the Air
+NASA Aircraft
+Flight Innovation
+Supersonic Flight
+Air Traffic Solutions
+Green Aviation Tech
+Drones & You
+Technology Transfer & Spinoffs
+Space Travel Technology
+Technology Living in Space
+Manufacturing and Materials
+Robotics
+Science Instruments
+Computing
+For Kids and Students
+For Educators
+For Colleges and Universities
+For Professionals
+Science for Everyone
+Requests for Exhibits, Artifacts, or Speakers
+STEM Engagement at NASA
+NASA's Impacts
+Centers and Facilities
+Directorates
+Organizations
+People of NASA
+Careers
+Internships
+Our History
+Doing Business with NASA
+Get Involved
+Contact
+NASA en Español
+Ciencia
+Aeronáutica
+Ciencias Terrestres
+Sistema Solar
+Universo
+article
+4 days ago
+3 min read
+Hubble Learns Galactic History From Stars
+2 days ago
+NASA’s Swift Observatory Re-Entered Atmosphere
+1 min read
+NASA Astronauts to Answer Questions from Florida Students
+1 day ago
+NASA Astronaut, STEM Creator Connect with Students for STEM Day
+3 days ago
+NASA’s ISAM State of Play: The Industry Standard for Space Servicing, Assembly, and Manufacturing
+1 week ago
+Supercomputing Tech Demo Schedule
+10 hours ago
+Taking a Gander at Utah’s Goosenecks
+21 hours ago
+Cyprus: Island of Snakes, Cats, and Ophiolites
+November’s Night Sky Notes: Light-Day Away
+Slice of Martian Meteorite Teghaza 001
+NASA’s Hubble Uncovers Case of Missing Oxygen in Nearby Dwarf Galaxies
+NASA Explores Potential Commercial Servicing for Hubble Telescope
+Amendment 81: New Opportunity: Astrophysics Theory Program
+NASA Navigation Experiment Shows Promise for Planetary Landings
+NASA University Challenge Ignites Trajectory of Drone Entrepreneur
+NASA Ames Unitary Plan Wind Tunnel
+2 weeks ago
+High-speed Intelligent Robust Autonomous Terrain Exploration
+The Pacific’s Busy Storm Season
+Materials Engineered for Re-Entry Using Innovative Needling Operations
+NASA Space Grant Students Fuel Agency’s Inspiration Tour
+Send Your Name to Titan Aboard NASA’s Dragonfly Mission
+TIME Best Inventions of 2026
+3 weeks ago
+11 min read
+La NASA anuncia la cobertura de la misión lunar Artemis II
+8 months ago
+15 min read
+Agenda diaria de la misión a la Luna de Artemis II de la NASA
+6 min read
+La NASA refuerza Artemis: añade una misión y perfecciona su arquitectura general
+Explore Mars In Depth …
+Mars Phoenix
+Mars Home
+Facts
+Mars Exploration Overview
+Rover Basics
+Mars Exploration Science Objectives
+Mission Timeline Summary
+How We Land on Mars
+Mars Missions Mars Perseverance Rover
+Mars Curiosity Rover
+Mars Reconnaissance Orbiter
+Mars Odyssey
+Mars Relay Network
+More Mars Missions
+Multimedia Images
+Video
+Audio
+More Resources
+News & Features Latest Mars Articles
+The Mars Report
+Newsletter Home
+More The Solar System
+Occurred 18 years ago
+Mission Type
+Lander
+Launch
+Aug. 4, 2007
+Destination
+Objective
+Search for evidence of past or present microbial life
+Both solar arrays open during a test on the Phoenix Mars lander.
+NASA/JPL-Caltech/UA/Lockheed Martin
+Overview
+Phoenix entered the Martian atmosphere at nearly 13,000 miles per hour (21,000 kilometers per hour) on May 25, 2008, and touched down safely on the surface at 23:38:38 UT in the Green Valley of Vastitas Borealis. It was the first successful landing of a stationary soft-lander on Mars since Viking 2 about 32 years earlier.
+During its descent, Mars Reconnaissance Orbiter ’s HiRISE camera clearly photographed Phoenix suspended from its parachute, the first time one spacecraft photographed another during a planetary landing.
+Mars Reconnaissance Orbiter caught this image of Phoenix hanging from its parachute as it descended to the Martian surface in 2008.
+Credit: NASA/JPL-Caltech/University of Arizona
+The Mars Phoenix lander was designed to uncover the mysteries of the Martian arctic, studying the history of water and searching for complex organic molecules. In the continuing pursuit of water on Mars, the polar regions are a good place to probe, as water ice is found there. Phoenix landed farther north than any previous mission, at a latitude equivalent to that of northern Alaska.
+Quick Facts
+Launch: August 4, 2007 UTC
+Launch Vehicle: Delta II
+Launch Locations: Cape Canaveral Air Force Station, Florida
+Landing: May 25, 2008
+Landing Site: Vastitas Borealis, the arctic plains of Mars
+End of Mission: Nov. 2, 2008
+This view combines hundreds of images taken during the first several weeks after NASA's Phoenix Mars Lander arrived on an arctic plain at 68.22 degrees north latitude, 234.25 degrees east longitude on Mars. The landing was on May 25, 2008.
+NASA/JPL-Caltech/University of Arizona/Texas A&M University
+Spacecraft and Science
+To analyze soil samples collected by its robotic arm, Phoenix carried tiny ovens and a portable laboratory. Selected samples were heated to release volatiles that were examined for their chemical composition and other characteristics.
+Phoenix's stereo camera, located on its 2-meter (6.6-foot) mast, used two "eyes" to reveal a high-resolution perspective of the landing site's geology. It also provided range maps for the team's use in choosing where to dig. Multi-spectral capability enabled the identification of local minerals.
+To update our understanding of Martian atmospheric processes, Phoenix also scanned the atmosphere up to 12.4 miles (20 kilometers) in altitude, obtaining data about the formation, duration and movement of clouds, fog, and dust plumes. It also carried temperature and pressure sensors.
+Surface Stereo Imager (SSI)
+Robotic Arm Camera (RAC)
+Microscopy Electrochemistry and Conductivity Analyzer (MECA)
+Thermal and Evolved Gas Analyzer (TEGA)
+Meteorological Station (MET)
+This mosaic of images from the Surface Stereo Imager camera on NASA's Phoenix Mars Lander shows a portion of the spacecraft's deck after deliveries of several Martian soil samples to instruments on the deck.
+In the center and right foreground is the Thermal and Evolved-Gas Analyzer. On the left is the Microscopy, Electrochemistry and Conductivity Analyzer.
+Science Highlights
+Besides verifying the existence of water-ice in the Martian subsurface, Phoenix discovered traces of the chemical perchlorate, a possible energy source for microbes and a potentially valuable future resource for human explorers.
+During the course of its three-month mission, Phoenix dug into an ice-rich layer near the surface. It checked samples of soil and ice for evidence about whether the site was ever hospitable to life. The lander waited 15 minutes for the dust to settle before unfurling its solar panels. The first images showed a flat surface marred by pebbles and troughs, but no large rocks or hills as expected, given its northern position. Within four days, Phoenix had transmitted a complete 360-degree panorama of the cold Martian surface, deployed the nearly 8-foot (2.5-meter) robotic arm, and started returning regular weather reports.
+On May 31, the robotic arm scooped up dirt and began sampling Martian soil for ice. By June 19, mission scientists were able to conclude that clumps of bright material in the “DodoGoldilocks” trench dug by the robotic arm were probably water ice – the material had vaporized four days after the scoop.
+Several of the trenches dug by NASA's Phoenix Mars Lander are displayed in this approximately true-color mosaic of images from the lander's Surface Stereo Imager camera.
+On July 31, NASA officially announced that there is water on Mars, based on a sample collected by the lander, and analyzed by the Thermal and Evolved Gas Analyzer instrument, or TEGA. William Boynton of the University of Arizona noted that such data added to the data from the 2001 Mars Odyssey orbiter.
+On Aug. 5, the Phoenix team announced that they had found perchlorates on the surface of Mars that neither confirmed nor refuted the possibility of life on Mars. The results also led scientists to revisit the data from the Viking landers.
+By the end of August, Phoenix had completed its originally planned 90-day mission, which was extended to Sept. 30. On Sept. 12, the lander scoop delivered a new soil sample to its wet chemistry laboratory, which mixed an aqueous solution from Earth to the soil – part of a process to identify soluble nutrients and other chemicals in the soil. Early results suggested that the soil was alkaline, composed of salts and other chemicals such as perchlorate, sodium, magnesium, chloride, and potassium.
+News and Features
+All Mars News
+Blog
+5 Min Read
+Article
+NASA-funded Study Details One of Oldest Mars Meteorites Ever Found
+6 Min Read
+NASA’s Perseverance Offers Clues to Protect Crews From Mars Dust
+Pedal to the Metal: NASA’s Psyche Heads Toward Asteroid Belt
+4 Min Read
+NASA to Help Unlock Mysteries of Mars’ Moons in Upcoming Mission
+Keep Exploring
+Discover More Topics From NASA
+Webb is the premier observatory of the next decade, serving thousands of astronomers worldwide. It studies every phase in the…
+Perseverance Rover
+This rover and its aerial sidekick were assigned to study the geology of Mars and seek signs of ancient microbial…
+Parker Solar Probe
+On a mission to “touch the Sun,” NASA's Parker Solar Probe became the first spacecraft to fly through the corona…
+Juno
+NASA’s Juno spacecraft entered orbit around Jupiter in 2016, the first explorer to peer below the planet's dense clouds to…
+National Aeronautics and Space Administration
+NASA explores the unknown in air and space, innovates for the benefit of humanity, and inspires the world through discovery.
+About NASA's Mission
+Join Us
+Follow NASA
+More NASA Social Accounts
+NASA Newsletters
+Sitemap
+For Media
+Privacy Policy
+FOIA
+No FEAR Act
+Office of the IG
+Budget & Annual Reports
+Agency Financial Reports
+Contact NASA
+Accessibility
+Page Last Updated:
+Nov 02, 2024
+Page Editor:
+Stephen Carney
+Responsible NASA Official for Science:
+Dana Bolles
+Did you find what you were looking for? (Required)
+Yes
+Partly
+What were you looking for? (Required)
+What were you hoping to accomplish by visiting our website? (Required)
+Submit

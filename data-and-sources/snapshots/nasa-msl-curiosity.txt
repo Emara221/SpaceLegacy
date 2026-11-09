@@ -1,0 +1,322 @@
+Source ID: nasa-msl-curiosity
+Title: Curiosity (MSL) mission page
+Publisher: NASA Science
+URL: https://science.nasa.gov/mission/msl-curiosity/
+Fetched from: https://science.nasa.gov/mission/msl-curiosity/
+Retrieved: 2026-11-07 01:50 UTC (HTTP 200)
+Note: plain-text extract of the public page, kept as evidence for facts.csv. NASA web content is generally not subject to U.S. copyright; see the original page for images and context.
+------------------------------------------------------------------------------
+Mars Science Laboratory: Curiosity Rover - NASA Science
+Explore
+Search
+News & Events
+Recently Published
+Video Series on NASA+
+Podcasts & Audio
+Blogs
+Newsletters
+Social Media
+Media Resources
+Multimedia
+NASA+
+Images
+NASA Live
+NASA Apps
+Podcasts
+Image of the Day
+e-Books
+3D Resources
+Interactives
+STEM Multimedia
+NASA Brand & Usage Guidelines
+Suggested Searches
+Artemis
+ISS
+Roman
+Webb
+Quesst
+Moon Base
+View All Topics A-Z
+Home
+Missions
+Humans in Space
+Earth
+The Solar System
+The Universe
+Science
+Aeronautics
+Technology
+Learning Resources
+About NASA
+Español
+Highlights
+5 min read
+NASA’s Twin ESCAPADE Spacecraft to Slingshot Past Earth on Way to Mars
+article 4 days ago
+2 min read
+NASA Announces X-70 Experimental Aircraft to Advance Flight Research
+article 2 days ago
+4 min read
+What’s Up: November 2026 Skywatching Tips from NASA
+Back
+Search All NASA Missions
+A to Z List of Missions
+Upcoming Launches and Landings
+Spaceships and Rockets
+Communicating with Missions
+James Webb Space Telescope
+Hubble Space Telescope
+International Space Station
+OSIRIS-REx
+Why Go to Space
+Astronauts
+Commercial Space
+Destinations
+Living in Space
+Explore Earth Science
+Climate Change
+Earth, Our Planet
+Earth Science in Action
+Earth Multimedia
+Earth Data
+Earth Science Researchers
+The Sun
+Mercury
+Venus
+The Moon
+Mars
+Jupiter
+Saturn
+Uranus
+Neptune
+Pluto & Dwarf Planets
+Asteroids, Comets & Meteors
+The Kuiper Belt
+The Oort Cloud
+Skywatching
+Exoplanets
+The Search for Life in the Universe
+Stars
+Galaxies
+Black Holes
+The Big Bang
+Dark Matter
+Dark Energy
+Earth Science
+Planetary Science
+Astrophysics & Space Science
+The Sun & Heliophysics
+Biological & Physical Sciences
+Lunar Science
+Citizen Science
+Astromaterials
+Aeronautics Research
+Human Space Travel Research
+Science in the Air
+NASA Aircraft
+Flight Innovation
+Supersonic Flight
+Air Traffic Solutions
+Green Aviation Tech
+Drones & You
+Technology Transfer & Spinoffs
+Space Travel Technology
+Technology Living in Space
+Manufacturing and Materials
+Robotics
+Science Instruments
+Computing
+For Kids and Students
+For Educators
+For Colleges and Universities
+For Professionals
+Science for Everyone
+Requests for Exhibits, Artifacts, or Speakers
+STEM Engagement at NASA
+NASA's Impacts
+Centers and Facilities
+Directorates
+Organizations
+People of NASA
+Careers
+Internships
+Our History
+Doing Business with NASA
+Get Involved
+Contact
+NASA en Español
+Ciencia
+Aeronáutica
+Ciencias Terrestres
+Sistema Solar
+Universo
+article
+4 days ago
+3 min read
+Hubble Learns Galactic History From Stars
+2 days ago
+NASA’s Swift Observatory Re-Entered Atmosphere
+1 min read
+NASA Astronauts to Answer Questions from Florida Students
+1 day ago
+NASA Astronaut, STEM Creator Connect with Students for STEM Day
+3 days ago
+NASA’s ISAM State of Play: The Industry Standard for Space Servicing, Assembly, and Manufacturing
+1 week ago
+Supercomputing Tech Demo Schedule
+10 hours ago
+Taking a Gander at Utah’s Goosenecks
+21 hours ago
+Cyprus: Island of Snakes, Cats, and Ophiolites
+November’s Night Sky Notes: Light-Day Away
+Slice of Martian Meteorite Teghaza 001
+NASA’s Hubble Uncovers Case of Missing Oxygen in Nearby Dwarf Galaxies
+NASA Explores Potential Commercial Servicing for Hubble Telescope
+Amendment 81: New Opportunity: Astrophysics Theory Program
+NASA Navigation Experiment Shows Promise for Planetary Landings
+NASA University Challenge Ignites Trajectory of Drone Entrepreneur
+NASA Ames Unitary Plan Wind Tunnel
+2 weeks ago
+High-speed Intelligent Robust Autonomous Terrain Exploration
+The Pacific’s Busy Storm Season
+Materials Engineered for Re-Entry Using Innovative Needling Operations
+NASA Space Grant Students Fuel Agency’s Inspiration Tour
+Send Your Name to Titan Aboard NASA’s Dragonfly Mission
+TIME Best Inventions of 2026
+3 weeks ago
+11 min read
+La NASA anuncia la cobertura de la misión lunar Artemis II
+8 months ago
+15 min read
+Agenda diaria de la misión a la Luna de Artemis II de la NASA
+6 min read
+La NASA refuerza Artemis: añade una misión y perfecciona su arquitectura general
+Curiosity Navigation …
+Mars Science Laboratory:...
+Curiosity Home Mission Overview
+Where is Curiosity?
+Mission Updates
+Science Overview
+Instruments
+Exploration Goals
+News and Features
+Multimedia Curiosity Raw Images
+Videos
+Audio
+Mosaics
+More Resources
+Mars Missions Mars Perseverance Rover
+Mars Curiosity Rover
+Mars Reconnaissance Orbiter
+Mars Odyssey
+More Mars Missions
+Mars Home
+Mars Science Laboratory: Curiosity Rover
+Part of NASA's Mars Science Laboratory mission, at the time of launch Curiosity was the largest and most capable rover ever sent to Mars.
+Active Mission
+The foundation of NASA's Mars Science Laboratory mission, Curiosity was the largest and most capable rover ever sent to Mars when it launched in 2011. Curiosity set out to answer the question: Did Mars ever have the right environmental conditions to support small life forms called microbes? Early in its mission, Curiosity's scientific tools found chemical and mineral evidence of past habitable environments on Mars. It continues to explore the rock record from a time when Mars could have been home to microbial life.
+Type
+Rover
+Launch / Landing
+Nov. 26, 2011 / Aug. 6, 2012
+Target
+Objective
+Determine if Mars was ever able to support microbial life
+Mars curiosity rover
+Curiosity Reaches 1-Kilometer Elevation Gain
+NASA’s Curiosity Mars rover reached the pinnacle — so far — of its 14-year-old mission on Aug. 26, 2026, when it marked an elevation gain of 1 kilometer in its journey from Gale Crater on Mars up the slope of Mount Sharp.
+Read More About Curiosity's Journey
+NASA/JPL-Caltech/MSSS
+Featured Story
+NASA’s Curiosity Finds Organic Molecules Never Seen Before on Mars
+After years of lab work, the results are in: A rock that NASA’s Curiosity Mars rover drilled and analyzed in…
+Read the Story
+NASA STUDY
+‘Non-Biologic Processes Don’t Fully Explain Mars Organics’
+In a new study, researchers say that non-biological sources they considered could not fully account for the abundance of organic compounds in a sample collected on Mars by NASA’s Curiosity rover. A Feb. 4 report in the journal Astrobiology analyzed the discovery — the largest organic compounds found on Mars, hypothesized to possibly be fragments of fatty acids preserved in the ancient mudstone in Gale Crater.
+Learn More
+This graphic shows the long-chain organic molecules decane, undecane, and dodecane. These are the largest organic molecules discovered on Mars to date. They were detected in a drilled rock sample called “Cumberland” that was analyzed by the Sample Analysis at Mars lab inside the belly of NASA’s Curiosity rover. The rover, whose selfie is on the right side of the image, has been exploring Gale Crater since 2012. An image of the Cumberland drill hole is faintly visible in the background of the molecule chains.
+NASA/Dan Gallagher
+NASA’s Curiosity Rover Sees Martian ‘Spiderwebs’ Up Close
+For about six months, NASA’s Curiosity Mars rover has been exploring a region full of geologic formations called boxwork, low…
+meet curiosity
+Size
+About the size of a small SUV — 10 feet long, 9 feet wide and 7 feet tall), not including the arm.
+Arm reach
+About 7 feet (2.2 meters)
+Mass/weight
+1,982 lbs (899 kg) in Earth gravity
+743 lbs (337 kg) in Mars gravity
+Features
+Geology lab, rocker-bogie suspension, rock-vaporizing laser and lots of cameras
+Unable to render the provided source
+A 3D model of the Mars Curiosity Rover.
+NASA Visualization Technology Applications and Development (VTAD)
+FEATURE IMAGE
+Curiosity’s 42 Drill Holes
+NASA's Curiosity Mars rover has collected 42 powderized rock samples with the drill on the end of its robotic arm. This grid shows all 42 holes made by the drill when collecting the samples.
+View Image Details
+Featured Video
+Landing Site: Gale Crater
+Curiosity explores Gale Crater and acquires rock, soil, and air samples for onboard analysis. The car-size rover is about as tall as a basketball player and uses a 7 foot-long arm to place tools close to rocks selected for study. Curiosity's large size allows it to carry an advanced kit of 10 science instruments. It has tools including 17 cameras, a laser to vaporize and study small pinpoint spots of rocks at a distance, and a drill to collect powdered rock samples. It hunts for special rocks that formed in water and/or have signs of organics.
+The Curiosity rover has taught us a lot about the history of Mars and its potential to support life. Take a tour of its landing site, Gale Crater. Credit NASA/JPL-Caltech
+Watch
+Curiosity is seeking evidence of organics, the chemical building blocks of life.
+Raw Images
+View raw images sent back by Curiosity from its explorations on Mars.
+Resources
+Visit the one-stop shop for all Curiosity media.
+Posts written by self-selected Mars Science Laboratory mission team members, eager to share with the public all that Curiosity is doing.
+Drag your mouse or move your phone to explore this 360-degree panorama provided by NASA’s Curiosity Mars rover.
+featured image
+Curiosity Lights Up ‘Nevado Sajama’ at Night
+NASA’s Curiosity Mars rover used LED lights on the end of its robotic arm to create this rare nighttime view of the Red Planet’s surface on Dec. 6, 2025, the 4,740th Martian day, or sol, of the rover’s mission. The LED lights are part of the Mars Hand Lens Imager, or MAHLI, a camera on the end of Curiosity’s robotic arm. The image was captured by the Mast Camera, or Mastcam, on the rover’s mast, or “head.”
+Credits: NASA/JPL-Caltech/MSSS
+Learn More About This Image
+All Curiosity Rover News
+Article
+2 Min Read
+NASA’s Curiosity Looks Back After Reaching Elevation Milestone
+NASA’s Curiosity Captures Dawn Breaking on Wind-Carved Cliffs
+3 Min Read
+NASA’s Curiosity Rover Catches Stunning Martian Dawn
+Curiosity Postcard Celebrates Rover’s 5,000th Day on Mars
+1 Min Read
+NASA’s Curiosity Views a Sand-Capped Butte
+Keep Exploring
+Discover More Topics From NASA
+Curiosity Science Highlights
+Mars 2020: Perseverance Rover
+NASA’s Mars Perseverance rover seeks signs of ancient life and collects samples of rock and regolith for possible Earth return.
+Mars Exploration
+Mars is the only planet we know of inhabited entirely by robots. Learn more about the Mars Missions.
+Mars is the fourth planet from the Sun, and the seventh largest. It’s the only planet we know of inhabited…
+National Aeronautics and Space Administration
+NASA explores the unknown in air and space, innovates for the benefit of humanity, and inspires the world through discovery.
+About NASA's Mission
+Join Us
+Follow NASA
+More NASA Social Accounts
+NASA Newsletters
+Sitemap
+For Media
+Privacy Policy
+FOIA
+No FEAR Act
+Office of the IG
+Budget & Annual Reports
+Agency Financial Reports
+Contact NASA
+Accessibility
+Page Last Updated:
+Sep 29, 2026
+Page Editor:
+Stephen Carney
+Responsible NASA Official for Science:
+Dana Bolles
+Did you find what you were looking for? (Required)
+Yes
+Partly
+What were you looking for? (Required)
+What were you hoping to accomplish by visiting our website? (Required)
+Submit

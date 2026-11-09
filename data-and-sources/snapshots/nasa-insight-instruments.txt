@@ -1,0 +1,285 @@
+Source ID: nasa-insight-instruments
+Title: InSight science instruments
+Publisher: NASA Science
+URL: https://science.nasa.gov/mission/insight/science-instruments/
+Fetched from: https://science.nasa.gov/mission/insight/science-instruments/
+Retrieved: 2026-11-07 01:50 UTC (HTTP 200)
+Note: plain-text extract of the public page, kept as evidence for facts.csv. NASA web content is generally not subject to U.S. copyright; see the original page for images and context.
+------------------------------------------------------------------------------
+InSight Science Instruments - NASA Science
+Explore
+Search
+News & Events
+Recently Published
+Video Series on NASA+
+Podcasts & Audio
+Blogs
+Newsletters
+Social Media
+Media Resources
+Multimedia
+NASA+
+Images
+NASA Live
+NASA Apps
+Podcasts
+Image of the Day
+e-Books
+3D Resources
+Interactives
+STEM Multimedia
+NASA Brand & Usage Guidelines
+Suggested Searches
+Artemis
+ISS
+Roman
+Webb
+Quesst
+Moon Base
+View All Topics A-Z
+Home
+Missions
+Humans in Space
+Earth
+The Solar System
+The Universe
+Science
+Aeronautics
+Technology
+Learning Resources
+About NASA
+Español
+Highlights
+5 min read
+NASA’s Twin ESCAPADE Spacecraft to Slingshot Past Earth on Way to Mars
+article 4 days ago
+2 min read
+NASA Announces X-70 Experimental Aircraft to Advance Flight Research
+article 2 days ago
+4 min read
+What’s Up: November 2026 Skywatching Tips from NASA
+Back
+Search All NASA Missions
+A to Z List of Missions
+Upcoming Launches and Landings
+Spaceships and Rockets
+Communicating with Missions
+James Webb Space Telescope
+Hubble Space Telescope
+International Space Station
+OSIRIS-REx
+Why Go to Space
+Astronauts
+Commercial Space
+Destinations
+Living in Space
+Explore Earth Science
+Climate Change
+Earth, Our Planet
+Earth Science in Action
+Earth Multimedia
+Earth Data
+Earth Science Researchers
+The Sun
+Mercury
+Venus
+The Moon
+Mars
+Jupiter
+Saturn
+Uranus
+Neptune
+Pluto & Dwarf Planets
+Asteroids, Comets & Meteors
+The Kuiper Belt
+The Oort Cloud
+Skywatching
+Exoplanets
+The Search for Life in the Universe
+Stars
+Galaxies
+Black Holes
+The Big Bang
+Dark Matter
+Dark Energy
+Earth Science
+Planetary Science
+Astrophysics & Space Science
+The Sun & Heliophysics
+Biological & Physical Sciences
+Lunar Science
+Citizen Science
+Astromaterials
+Aeronautics Research
+Human Space Travel Research
+Science in the Air
+NASA Aircraft
+Flight Innovation
+Supersonic Flight
+Air Traffic Solutions
+Green Aviation Tech
+Drones & You
+Technology Transfer & Spinoffs
+Space Travel Technology
+Technology Living in Space
+Manufacturing and Materials
+Robotics
+Science Instruments
+Computing
+For Kids and Students
+For Educators
+For Colleges and Universities
+For Professionals
+Science for Everyone
+Requests for Exhibits, Artifacts, or Speakers
+STEM Engagement at NASA
+NASA's Impacts
+Centers and Facilities
+Directorates
+Organizations
+People of NASA
+Careers
+Internships
+Our History
+Doing Business with NASA
+Get Involved
+Contact
+NASA en Español
+Ciencia
+Aeronáutica
+Ciencias Terrestres
+Sistema Solar
+Universo
+article
+4 days ago
+3 min read
+Hubble Learns Galactic History From Stars
+1 day ago
+NASA’s Swift Observatory Re-Entered Atmosphere
+1 min read
+NASA Astronauts to Answer Questions from Florida Students
+NASA Astronaut, STEM Creator Connect with Students for STEM Day
+3 days ago
+NASA’s ISAM State of Play: The Industry Standard for Space Servicing, Assembly, and Manufacturing
+1 week ago
+Supercomputing Tech Demo Schedule
+9 hours ago
+Taking a Gander at Utah’s Goosenecks
+20 hours ago
+Cyprus: Island of Snakes, Cats, and Ophiolites
+2 days ago
+November’s Night Sky Notes: Light-Day Away
+Slice of Martian Meteorite Teghaza 001
+NASA’s Hubble Uncovers Case of Missing Oxygen in Nearby Dwarf Galaxies
+NASA Explores Potential Commercial Servicing for Hubble Telescope
+Amendment 81: New Opportunity: Astrophysics Theory Program
+NASA Navigation Experiment Shows Promise for Planetary Landings
+NASA University Challenge Ignites Trajectory of Drone Entrepreneur
+NASA Ames Unitary Plan Wind Tunnel
+2 weeks ago
+High-speed Intelligent Robust Autonomous Terrain Exploration
+The Pacific’s Busy Storm Season
+Materials Engineered for Re-Entry Using Innovative Needling Operations
+NASA Space Grant Students Fuel Agency’s Inspiration Tour
+Send Your Name to Titan Aboard NASA’s Dragonfly Mission
+TIME Best Inventions of 2026
+3 weeks ago
+11 min read
+La NASA anuncia la cobertura de la misión lunar Artemis II
+8 months ago
+15 min read
+Agenda diaria de la misión a la Luna de Artemis II de la NASA
+6 min read
+La NASA refuerza Artemis: añade una misión y perfecciona su arquitectura general
+Mars InSight Lander …
+InSight Lander
+InSight Science Instruments
+InSight Home InSight Lander
+Mars Cube One
+Science Overview
+Instruments
+News & Features
+Multimedia InSight Raw Images
+Videos
+Audio
+All Mars Resources
+Mars Missions Mars Perseverance Rover
+Mars Curiosity Rover
+Mars Reconnaissance Orbiter
+Mars Odyssey
+More Mars Missions
+The InSight Lander’s three primary instruments, SEIS, HP 3 , and RISE, were designed to take the first-ever in-depth look at the planet's “inner space.” The mission’s goal was to study the fingerprints of the process of planet formation, buried deep in the Martian interior. InSight’s science measurements potentially were used to help shed light on just how warm and geologically active Mars still is, and provide essential clues on the evolution of Mars and of all the terrestrial planets.
+Seismic Experiment for Interior Structure
+Heat Flow and Physical Properties Package
+Rotation and Interior Structure Experiment
+Artist's Concept of InSight Lander on Mars: InSight was the first mission dedicated to investigating the deep interior of Mars. The findings advance understanding of how all rocky planets, including Earth, formed and evolved.
+NASA/JPL-Caltech
+Seismic Experiment for Interior Structure (SEIS)
+This image shows InSight's domed Wind and Thermal Shield, which covers its seismometer.
+InSight’s seismometer, SEIS, the Seismic Experiment for Interior Structure, was a round, dome-shaped instrument that sat on the Martian surface and took the "pulse" or seismic vibrations of Mars. Its measurements provided a glimpse into the planet’s internal activity. The seismometer waited patiently to sense the pulse, or seismic waves, from marsquakes, and thumps of meteorite impacts. A suite of wind, pressure, temperature, and magnetic field sensors helped fine-tune the seismometer's measurements. This helped it sense surface vibrations generated by weather systems such as dust storms, or by turbulence in the atmosphere due to phenomena such as dust devils, which can also generate seismic waves. SEIS measurements told scientists about the nature of the material that first formed the rocky planets of the solar system.
+Tech Specs
+Main Job To measure the pulse of Mars by studying waves created by marsquakes, thumps of meteorite impacts, and even surface vibrations generated by activity in Mars' atmosphere and by weather phenomena such as dust storms.
+Location Placed on the surface of Mars
+Power Up to 8.5 watts
+Volume About 0.8 gallons (3 liters)
+Data Return 38 megabits per day
+Heat Flow and Physical Properties Package (HP 3 )
+NASA's InSight lander set its heat probe, called the Heat and Physical Properties Package (HP3)
+The Heat Flow and Physical Properties Package, HP 3 for short, was designed to burrow down to almost 16 feet (5 meters) into Mars' surface. That's deeper than any previous arms, scoops, drills, or probes before it. Similar to studying the heat leaving a car engine, it sought to measure the heat coming from Mars' interior to reveal how much heat was flowing out of the body of the planet, and what the source of the heat was. This instrument was designed to help scientists determine whether Mars formed from the same stuff as Earth and the Moon, and to give them a sneak peek into how the planet evolved.
+The HP 3 was designed, built and managed by the German Aerospace Center (Deutsches Zentrum für Luft- und Raumfahrt, or DLR), with significant contributions from the Space Research Center (CBK) of the Polish Academy of Sciences and Astronika.
+Main Job HP3 was designed to measure the heat flowing out of the interior of the planet, allowing us to infer Mars' temperature deep in the planet.
+Location Mounted on the lander deck for the trip to Mars. After landing, the lander's arm picked up HP 3 and placed it on the surface. The mole then began to hammer itself under the surface but encountered different soil properties than expected and was unable to reach the desired depth.
+Mass Just over 6.5 pounds (about 3 kilograms), including the control electronics inside the lander.
+Power A maximum of 2 watts while burrowing underneath the surface.
+Volume About 5.3 gallons (20 liters) in total, including the control electronics inside the lander.
+Data Return 350 megabits over the course of the mission
+Rotation and Interior Structure Experiment (RISE)
+Artist's Concept of InSight Lander on Mars: InSight was the first mission dedicated to investigating the deep interior of Mars. The findings will advance understanding of how all rocky planets, including Earth, formed and evolved.
+InSight’s Rotation and Interior Structure Experiment, RISE, precisely tracked the location of the lander to determine just how much Mars' north pole wobbles as it orbits the Sun. These observations provide detailed information on the size, composition, and characteristics of Mars' iron-rich core.
+Main Job RISE tracked the wobble of Mars' north pole as the Sun pushes and pulls it in its orbit. This helps scientists determine the size and composition of Mars' core.
+Location Mounted on the lander deck for the trip to Mars. After landing, the lander's arm picked up HP3 and placed it on the surface. The mole then began to hammer itself under the surface but encountered different soil properties than expected and was unable to reach the desired depth.
+Mass About 16 pounds (7.3 kilograms).
+Antennas 3 pounds (1.4 kilograms).
+Transponder and Transmitter 9.6 pounds (4.4 kilograms).
+Power 78 Watts (operated up to one hour per day).
+Volume 0.7 cubic feet (19.8 liters) total.
+Electronics 0.13 cubic feet (3.8 liters).
+Medium Gain Antennas 0.57 cubic feet (16 liters).
+Keep Exploring
+Discover More Topics From NASA
+Webb is the premier observatory of the next decade, serving thousands of astronomers worldwide. It studies every phase in the…
+Perseverance Rover
+This rover and its aerial sidekick were assigned to study the geology of Mars and seek signs of ancient microbial…
+Parker Solar Probe
+On a mission to “touch the Sun,” NASA's Parker Solar Probe became the first spacecraft to fly through the corona…
+Juno
+NASA’s Juno spacecraft entered orbit around Jupiter in 2016, the first explorer to peer below the planet's dense clouds to…
+National Aeronautics and Space Administration
+NASA explores the unknown in air and space, innovates for the benefit of humanity, and inspires the world through discovery.
+About NASA's Mission
+Join Us
+Follow NASA
+More NASA Social Accounts
+NASA Newsletters
+Sitemap
+For Media
+Privacy Policy
+FOIA
+No FEAR Act
+Office of the IG
+Budget & Annual Reports
+Agency Financial Reports
+Contact NASA
+Accessibility
+Page Last Updated:
+Apr 03, 2025
+Page Editor:
+Phillips Davis
+Responsible NASA Official for Science:
+Dana Bolles
+Did you find what you were looking for? (Required)
+Yes
+Partly
+What were you looking for? (Required)
+What were you hoping to accomplish by visiting our website? (Required)
+Submit

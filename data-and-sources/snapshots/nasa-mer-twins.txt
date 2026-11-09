@@ -1,0 +1,292 @@
+Source ID: nasa-mer-twins
+Title: Mars Exploration Rovers: Spirit and Opportunity
+Publisher: NASA Science
+URL: https://science.nasa.gov/mission/mars-exploration-rovers-spirit-and-opportunity/
+Fetched from: https://science.nasa.gov/mission/mars-exploration-rovers-spirit-and-opportunity/
+Retrieved: 2026-11-07 01:50 UTC (HTTP 200)
+Note: plain-text extract of the public page, kept as evidence for facts.csv. NASA web content is generally not subject to U.S. copyright; see the original page for images and context.
+------------------------------------------------------------------------------
+Mars Exploration Rovers: Spirit and Opportunity - NASA Science
+Explore
+Search
+News & Events
+Recently Published
+Video Series on NASA+
+Podcasts & Audio
+Blogs
+Newsletters
+Social Media
+Media Resources
+Multimedia
+NASA+
+Images
+NASA Live
+NASA Apps
+Podcasts
+Image of the Day
+e-Books
+3D Resources
+Interactives
+STEM Multimedia
+NASA Brand & Usage Guidelines
+Suggested Searches
+Artemis
+ISS
+Roman
+Webb
+Quesst
+Moon Base
+View All Topics A-Z
+Home
+Missions
+Humans in Space
+Earth
+The Solar System
+The Universe
+Science
+Aeronautics
+Technology
+Learning Resources
+About NASA
+Español
+Highlights
+5 min read
+NASA’s Twin ESCAPADE Spacecraft to Slingshot Past Earth on Way to Mars
+article 4 days ago
+2 min read
+NASA Announces X-70 Experimental Aircraft to Advance Flight Research
+article 2 days ago
+4 min read
+What’s Up: November 2026 Skywatching Tips from NASA
+Back
+Search All NASA Missions
+A to Z List of Missions
+Upcoming Launches and Landings
+Spaceships and Rockets
+Communicating with Missions
+James Webb Space Telescope
+Hubble Space Telescope
+International Space Station
+OSIRIS-REx
+Why Go to Space
+Astronauts
+Commercial Space
+Destinations
+Living in Space
+Explore Earth Science
+Climate Change
+Earth, Our Planet
+Earth Science in Action
+Earth Multimedia
+Earth Data
+Earth Science Researchers
+The Sun
+Mercury
+Venus
+The Moon
+Mars
+Jupiter
+Saturn
+Uranus
+Neptune
+Pluto & Dwarf Planets
+Asteroids, Comets & Meteors
+The Kuiper Belt
+The Oort Cloud
+Skywatching
+Exoplanets
+The Search for Life in the Universe
+Stars
+Galaxies
+Black Holes
+The Big Bang
+Dark Matter
+Dark Energy
+Earth Science
+Planetary Science
+Astrophysics & Space Science
+The Sun & Heliophysics
+Biological & Physical Sciences
+Lunar Science
+Citizen Science
+Astromaterials
+Aeronautics Research
+Human Space Travel Research
+Science in the Air
+NASA Aircraft
+Flight Innovation
+Supersonic Flight
+Air Traffic Solutions
+Green Aviation Tech
+Drones & You
+Technology Transfer & Spinoffs
+Space Travel Technology
+Technology Living in Space
+Manufacturing and Materials
+Robotics
+Science Instruments
+Computing
+For Kids and Students
+For Educators
+For Colleges and Universities
+For Professionals
+Science for Everyone
+Requests for Exhibits, Artifacts, or Speakers
+STEM Engagement at NASA
+NASA's Impacts
+Centers and Facilities
+Directorates
+Organizations
+People of NASA
+Careers
+Internships
+Our History
+Doing Business with NASA
+Get Involved
+Contact
+NASA en Español
+Ciencia
+Aeronáutica
+Ciencias Terrestres
+Sistema Solar
+Universo
+article
+4 days ago
+3 min read
+Hubble Learns Galactic History From Stars
+2 days ago
+NASA’s Swift Observatory Re-Entered Atmosphere
+1 min read
+NASA Astronauts to Answer Questions from Florida Students
+1 day ago
+NASA Astronaut, STEM Creator Connect with Students for STEM Day
+3 days ago
+NASA’s ISAM State of Play: The Industry Standard for Space Servicing, Assembly, and Manufacturing
+1 week ago
+Supercomputing Tech Demo Schedule
+9 hours ago
+Taking a Gander at Utah’s Goosenecks
+20 hours ago
+Cyprus: Island of Snakes, Cats, and Ophiolites
+November’s Night Sky Notes: Light-Day Away
+Slice of Martian Meteorite Teghaza 001
+NASA’s Hubble Uncovers Case of Missing Oxygen in Nearby Dwarf Galaxies
+NASA Explores Potential Commercial Servicing for Hubble Telescope
+Amendment 81: New Opportunity: Astrophysics Theory Program
+NASA Navigation Experiment Shows Promise for Planetary Landings
+NASA University Challenge Ignites Trajectory of Drone Entrepreneur
+NASA Ames Unitary Plan Wind Tunnel
+2 weeks ago
+High-speed Intelligent Robust Autonomous Terrain Exploration
+The Pacific’s Busy Storm Season
+Materials Engineered for Re-Entry Using Innovative Needling Operations
+NASA Space Grant Students Fuel Agency’s Inspiration Tour
+Send Your Name to Titan Aboard NASA’s Dragonfly Mission
+TIME Best Inventions of 2026
+3 weeks ago
+11 min read
+La NASA anuncia la cobertura de la misión lunar Artemis II
+8 months ago
+15 min read
+Agenda diaria de la misión a la Luna de Artemis II de la NASA
+6 min read
+La NASA refuerza Artemis: añade una misión y perfecciona su arquitectura general
+Mars Exploration Rovers Mars Exploration Rovers Home Overview
+Rover Basics
+-Opportunity Rover
+-Spirit Rover
+Science Objectives
+Instruments
+News and Features
+Mars Resources
+Mars Missions Mars Perseverance Rover
+Mars Curiosity Rover
+Mars Reconnaissance Orbiter
+Mars Odyssey
+More Mars Missions
+All Planets Mercury
+Mars Exploration Rovers: Spirit and Opportunity
+Occurred 8 years ago
+NASA’s Spirit and Opportunity rovers were identical twin robots that helped rewrite our understanding of the early history of Mars.
+Mission Type
+Rover pair
+Objective
+Look for signs of past water on Mars
+Destination
+LandingS
+(Spirit) Jan. 3, 2004 and (Opportunity) Jan. 24, 2004
+This infographic highlights NASA’s twin robot geologists, the Mars Exploration Rovers (MER) Spirit and Opportunity. The rovers landed on the Red Planet in 2004, in search of answers about the history of water on Mars. Spirit concluded its mission in 2010. Opportunity last communicated with Earth on June 10, 2018, as a planet-wide dust storm blanketed the solar-powered rover's location on Mars.
+NASA/JPL-Caltech
+Meet Spirit and Opportunity
+Unable to render the provided source
+A 3D model of the twin Mars Exploration Rovers, Spirit and Opportunity.
+NASA Visualization Technology Applications and Development (VTAD)
+Mars Exploration Rovers In Depth
+Each robotic explorer sent to the Red Planet has its own unique capabilities driven by science. Many attributes of a rover take on human-like features, such as “heads,” and “bodies.”
+Objectives
+New knowledge from the twin rovers uniquely contributed to meeting the four overarching goals of the Mars Exploration Program, while complementing data gathered through other Mars missions.
+By studying the rock record, Spirit and Opportunity confirmed that water was long standing on the surface of Mars in ancient times.
+Resources
+Visit the one-stop-shop for all Spirit and Opportunity multimedia.
+This self-portrait of Opportunity shows how the wind had cleaned much of the dust off the rover's solar panels. It combines multiple frames taken by Opportunity's panoramic camera (Pancam) through three different color filters from March 22 to March 24, 2014.
+NASA/JPL-Caltech/Cornell Univ./Arizona State Univ.
+Landing Sites
+The rovers were targeted to land at sites on opposite sides of Mars that looked as though they were affected by liquid water in the past. Spirit landed at Gusev Crater, a possible former lake in a giant impact crater. Opportunity landed at Meridiani Planum, a place where mineral deposits suggested that Mars had a wet history.
+This image mosaic taken by the panoramic camera onboard the Mars Exploration Rover Spirit shows the rover's landing site, the Columbia Memorial Station, at Gusev Crater, Mars. This spectacular view may encapsulate Spirit's entire journey, from lander to its possible final destination toward the east hills. On its way, the rover will travel 250 meters (820 feet) northeast to a large crater approximately 200 meters (660 feet) across, the ridge of which can be seen to the left of this image. To the right are the east hills, about 3 kilometers (2 miles) away from the lander. The picture was taken on the 16th martian day, or sol, of the mission (Jan. 18/19, 2004). A portion of Spirit's solar panels appear in the foreground. Data from the panoramic camera's green, blue and infrared filters were combined to create this approximate true color image.
+NASA/JPL-Caltech/Cornell
+This image shows the middle section of an approximate true-color panorama, dubbed "Lion King," showing "Eagle Crater" and the surrounding plains of Meridiani Planum. It was obtained by the Mars Exploration Rover Opportunity's panoramic camera on sols 58 and 60 using infrared (750-nanometer), green (530-nanometer) and blue (430-nanometer) filters. The full panorama comprises 558 images and more than 75 megabytes of data, the largest panorama captured by either of the Mars Exploration Rovers in 2004. It depicts a story of exploration including the Opportunity rover's lander, a thorough examination of the outcrop behind, a study of the soils at the near-side of the lander, a successful exit from Eagle Crater, and finally the rover's next desination, the large crater dubbed "Endurance." Original image and full panorama: https://photojournal.jpl.nasa.gov/catalog/PIA05755
+NASA/JPL/Cornell
+Going the Distance
+By the end of its mission, Spirit journeyed 4.8 miles (7.7 kilometers) on Mars. Opportunity held the off-Earth roving distance record after accruing 28.06 miles (45.16 kilometers) of driving on Mars, when it fell silent in June 2018. That record held until Oct. 11, 2026, when its successor, NASA's Mars rover Perseverance, rolled past Opportunity's mark to reach 28.10 miles (45.22 kilometers)... and counting.
+This infographic illustrates the distances driven by various rovers on the surface of Earth’s Moon and Mars. Of the vehicles shown, the NASA Mars rovers Perseverance and Curiosity are still operational and moving across the surface; the figures shown for those two are distances driven as of Oct. 11, 2026.
+Spirit and Opportunity News and Features
+Explore All
+Article
+5 Min Read
+Establishing Crew Exposure Limits of Martian Dust
+37 Min Read
+Catching Up With Perseverance on Mars
+6 Min Read
+Advances in NASA Imaging Changed How World Sees Mars
+1 Min Read
+Sunset on Mars
+Image Article
+Perseverance Rover Witnesses One Martian Dust Devil Eating Another
+Keep Exploring
+Discover More Topics From NASA
+Webb is the premier observatory of the next decade, serving thousands of astronomers worldwide. It studies every phase in the…
+Perseverance Rover
+This rover and its aerial sidekick were assigned to study the geology of Mars and seek signs of ancient microbial…
+Parker Solar Probe
+On a mission to “touch the Sun,” NASA's Parker Solar Probe became the first spacecraft to fly through the corona…
+Juno
+NASA’s Juno spacecraft entered orbit around Jupiter in 2016, the first explorer to peer below the planet's dense clouds to…
+National Aeronautics and Space Administration
+NASA explores the unknown in air and space, innovates for the benefit of humanity, and inspires the world through discovery.
+About NASA's Mission
+Join Us
+Follow NASA
+More NASA Social Accounts
+NASA Newsletters
+Sitemap
+For Media
+Privacy Policy
+FOIA
+No FEAR Act
+Office of the IG
+Budget & Annual Reports
+Agency Financial Reports
+Contact NASA
+Accessibility
+Page Last Updated:
+Oct 12, 2026
+Page Editor:
+Stephen Carney
+Responsible NASA Official for Science:
+Dana Bolles
+Did you find what you were looking for? (Required)
+Yes
+Partly
+What were you looking for? (Required)
+What were you hoping to accomplish by visiting our website? (Required)
+Submit

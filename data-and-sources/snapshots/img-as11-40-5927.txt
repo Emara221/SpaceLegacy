@@ -1,0 +1,13 @@
+Source ID: img-as11-40-5927
+Title: AS11-40-5927: View of Apollo 11 Lunar Module as it rested on lunar surface
+Publisher: NASA Image and Video Library
+URL: https://images.nasa.gov/details/as11-40-5927
+Fetched from: https://images-api.nasa.gov/search?nasa_id=as11-40-5927
+Retrieved: 2026-11-07 01:50 UTC (HTTP 200)
+Note: plain-text extract of the public page, kept as evidence for facts.csv. NASA web content is generally not subject to U.S. copyright; see the original page for images and context.
+------------------------------------------------------------------------------
+nasa_id: as11-40-5927
+title: View Apollo 11 Lunar Module as it rested on lunar surface
+date_created: 1969-07-20T00:00:00Z
+center: JSC
+description: AS11-40-5927 (20 July 1969) --- Astronaut Edwin E. Aldrin Jr., lunar module pilot, prepares to deploy the Early Apollo Scientific Experiments Package (EASEP) during the Apollo 11 lunar surface extravehicular activity (EVA). Astronaut Neil A. Armstrong, commander, took this picture with a 70mm lunar surface camera. During flight the EASEP is stowed in the Lunar Module's (LM) scientific equipment bay at the left year quadrant of the descent stage looking forward. Aldrin is removing the EASEP from its stowed position. Photo credit: NASA

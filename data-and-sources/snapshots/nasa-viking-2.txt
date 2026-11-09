@@ -1,0 +1,306 @@
+Source ID: nasa-viking-2
+Title: Viking 2 mission page
+Publisher: NASA Science
+URL: https://science.nasa.gov/mission/viking-2/
+Fetched from: https://science.nasa.gov/mission/viking-2/
+Retrieved: 2026-11-07 01:50 UTC (HTTP 200)
+Note: plain-text extract of the public page, kept as evidence for facts.csv. NASA web content is generally not subject to U.S. copyright; see the original page for images and context.
+------------------------------------------------------------------------------
+Viking 2 - NASA Science
+Explore
+Search
+News & Events
+Recently Published
+Video Series on NASA+
+Podcasts & Audio
+Blogs
+Newsletters
+Social Media
+Media Resources
+Multimedia
+NASA+
+Images
+NASA Live
+NASA Apps
+Podcasts
+Image of the Day
+e-Books
+3D Resources
+Interactives
+STEM Multimedia
+NASA Brand & Usage Guidelines
+Suggested Searches
+Artemis
+ISS
+Roman
+Webb
+Quesst
+Moon Base
+View All Topics A-Z
+Home
+Missions
+Humans in Space
+Earth
+The Solar System
+The Universe
+Science
+Aeronautics
+Technology
+Learning Resources
+About NASA
+Español
+Highlights
+5 min read
+NASA’s Twin ESCAPADE Spacecraft to Slingshot Past Earth on Way to Mars
+article 4 days ago
+2 min read
+NASA Announces X-70 Experimental Aircraft to Advance Flight Research
+article 2 days ago
+4 min read
+What’s Up: November 2026 Skywatching Tips from NASA
+Back
+Search All NASA Missions
+A to Z List of Missions
+Upcoming Launches and Landings
+Spaceships and Rockets
+Communicating with Missions
+James Webb Space Telescope
+Hubble Space Telescope
+International Space Station
+OSIRIS-REx
+Why Go to Space
+Astronauts
+Commercial Space
+Destinations
+Living in Space
+Explore Earth Science
+Climate Change
+Earth, Our Planet
+Earth Science in Action
+Earth Multimedia
+Earth Data
+Earth Science Researchers
+The Sun
+Mercury
+Venus
+The Moon
+Mars
+Jupiter
+Saturn
+Uranus
+Neptune
+Pluto & Dwarf Planets
+Asteroids, Comets & Meteors
+The Kuiper Belt
+The Oort Cloud
+Skywatching
+Exoplanets
+The Search for Life in the Universe
+Stars
+Galaxies
+Black Holes
+The Big Bang
+Dark Matter
+Dark Energy
+Earth Science
+Planetary Science
+Astrophysics & Space Science
+The Sun & Heliophysics
+Biological & Physical Sciences
+Lunar Science
+Citizen Science
+Astromaterials
+Aeronautics Research
+Human Space Travel Research
+Science in the Air
+NASA Aircraft
+Flight Innovation
+Supersonic Flight
+Air Traffic Solutions
+Green Aviation Tech
+Drones & You
+Technology Transfer & Spinoffs
+Space Travel Technology
+Technology Living in Space
+Manufacturing and Materials
+Robotics
+Science Instruments
+Computing
+For Kids and Students
+For Educators
+For Colleges and Universities
+For Professionals
+Science for Everyone
+Requests for Exhibits, Artifacts, or Speakers
+STEM Engagement at NASA
+NASA's Impacts
+Centers and Facilities
+Directorates
+Organizations
+People of NASA
+Careers
+Internships
+Our History
+Doing Business with NASA
+Get Involved
+Contact
+NASA en Español
+Ciencia
+Aeronáutica
+Ciencias Terrestres
+Sistema Solar
+Universo
+article
+4 days ago
+3 min read
+Hubble Learns Galactic History From Stars
+2 days ago
+NASA’s Swift Observatory Re-Entered Atmosphere
+1 min read
+NASA Astronauts to Answer Questions from Florida Students
+1 day ago
+NASA Astronaut, STEM Creator Connect with Students for STEM Day
+3 days ago
+NASA’s ISAM State of Play: The Industry Standard for Space Servicing, Assembly, and Manufacturing
+1 week ago
+Supercomputing Tech Demo Schedule
+10 hours ago
+Taking a Gander at Utah’s Goosenecks
+21 hours ago
+Cyprus: Island of Snakes, Cats, and Ophiolites
+November’s Night Sky Notes: Light-Day Away
+Slice of Martian Meteorite Teghaza 001
+NASA’s Hubble Uncovers Case of Missing Oxygen in Nearby Dwarf Galaxies
+NASA Explores Potential Commercial Servicing for Hubble Telescope
+Amendment 81: New Opportunity: Astrophysics Theory Program
+NASA Navigation Experiment Shows Promise for Planetary Landings
+NASA University Challenge Ignites Trajectory of Drone Entrepreneur
+NASA Ames Unitary Plan Wind Tunnel
+2 weeks ago
+High-speed Intelligent Robust Autonomous Terrain Exploration
+The Pacific’s Busy Storm Season
+Materials Engineered for Re-Entry Using Innovative Needling Operations
+NASA Space Grant Students Fuel Agency’s Inspiration Tour
+Send Your Name to Titan Aboard NASA’s Dragonfly Mission
+TIME Best Inventions of 2026
+3 weeks ago
+11 min read
+La NASA anuncia la cobertura de la misión lunar Artemis II
+8 months ago
+15 min read
+Agenda diaria de la misión a la Luna de Artemis II de la NASA
+6 min read
+La NASA refuerza Artemis: añade una misión y perfecciona su arquitectura general
+Mars Secondary Navigation 2 Viking Home Overview
+Viking 1 Orbiter & Lander
+Viking 2 Orbiter & Lander
+Science Spacecraft and Science
+News & Features
+Mars Resources
+Mars Missions Mars Perseverance Rover
+Mars Curiosity Rover
+Mars Reconnaissance Orbiter
+Mars Odyssey
+More Mars Missions
+All Planets Mercury
+Viking 2
+Occurred 50 years ago
+Type
+Orbiter, Lander
+Launch
+Sept. 9, 1975
+Target
+Status
+Successful
+NASA's Viking 2 on the surface of Mars.
+Credit: NASA/JPL-Caltech
+What was Viking 2?
+Both NASA Viking missions used a combination of orbiter and lander to explore Mars in unprecedented detail.
+Viking 2 entered orbit around Mars on Aug. 7, 1976.
+The lander touched down safely on Sept. 3, 1976, about 4,000 miles (6,460 kilometers) from the Viking 1 lander.
+In total, the two Viking orbiters returned 52,663 images of Mars and mapped about 97 percent of the surface at a resolution of 984 feet (300 meters) resolution. The landers returned 4,500 photos of the two landing sites.
+Nation United States of America (USA)
+Objective(s) Mars Landing and Orbit
+Spacecraft Viking-A
+Spacecraft Mass 7,776 pounds (3,527 kilograms)
+Spacecraft Power Lander each carried two SNAP-19 Radioisotope Thermoelectric Generators (RTGs) ; Orbiters were solar-powered
+Mission Design and Management NASA Langley Research Center (LaRC) / NASA Jet Propulsion Laboratory (JPL)
+Launch Vehicle Titan IIIE-Centaur (TC-3 / Titan no. E-3 / Centaur no. D-1T)
+Launch Date and Time Sept. 9, 1975 / 18:39:00 UT
+Launch Site Cape Canaveral, Fla. / Launch Complex 41
+Scientific Instruments Orbiter
+1. Imaging System (2 Vidicon Cameras) (VIS)
+2. infrared Spectrometer for Water Vapor Mapping (MAWD)
+3. Infrared Radiometer for Thermal Mapping (IRTM)
+Lander
+1. Imaging System (2 facsimile cameras)
+2. Gas Chromatograph Mass Spectrometer (GCMS)
+3. Seismometer
+4. X-Ray Fluorescence Spectrometer
+5. Biological Laboratory
+6. Weather Instrument Package (Temperature, Pressure, Wind Velocity)
+7. Remote Sampler Arm
+Aeroshell
+1. Retarding Potential Analyzer
+2. Upper-Atmosphere Mass Spectrometer
+3. Pressure, Temperature, and Density Sensors
+Key Dates
+Sept. 9, 1975: Launch
+Aug. 7, 1976: Viking 2 entered orbit around Mars
+Sept. 3, 1976: Lander touches down safely on the surface of Mars
+July 24, 1978: End of orbiter operations
+April 12, 1980: End of lander mission
+In Depth: Viking 2
+The Viking-A spacecraft was scheduled to be launched first but ended up being launched second due to a problem with its batteries. It was renamed Viking 2.
+After a successful launch and a course correction Sept. 19, 1975, Viking 2 entered orbit around Mars on Aug. 7, 1976, almost 11 months after launch. Initial orbital parameters were 933 × 22,200 miles (1,502 × 35,728 kilometers) inclined at 55.6 degrees.
+Credit: NASA
+As with Viking 1, photographs of the originally chosen landing site indicated rough terrain, prompting mission planners to select a different site at Utopia Planitia, near the edge of the polar ice cap, where water was located and where there was a better chance of finding signs of life.
+The lander separated from the orbiter without incident at 20:19 UT Sept. 3, 1976, and after atmospheric entry, landed safely at 22:37:50 UT, about 4,000 miles (6,460 kilometers) from the Viking 1 landing site. Touchdown coordinates were 47.968 degrees north latitude and 225.71 degrees west longitude.
+Photographs of the area showed a rockier, flatter site than that of Viking 1. The lander was in fact tilted 8.5 degrees to the west. Panoramic views of the landscape showed a terrain different from that of Viking 1, with much less definition and very little in the way of horizon features. Because of the lack of general topographical references on the ground, imagery from the orbiters was unable to precisely locate the lander.
+The biology experiments with scooped-up soil collected on three occasions (beginning Sept. 12, 1976) produced similar results to its twin: inconclusive on whether life exists or ever has existed on the surface of Mars. Scientists believed that Martian soil contained reactants created by the ultraviolet bombardment of the soil that could produce characteristics similar to those of living organisms in Earth soil.
+On Nov. 16, 1976, NASA announced that both Viking 1 and Viking 2 missions had successfully accomplished their mission goals and announced an extended mission that continued until May 1978, followed by a "Continuation Mission" until July 1979.
+The orbiter continued its successful imaging mission, coming within 17 miles (28 kilometers) of the Martian moon Deimos in May 1977, nearly a century after it was discovered, on Aug. 11, 1877 .
+A series of leaks prompted termination of the Viking 2 orbiter operations July 24, 1978, while the Viking 2 lander continued to transmit data until April 12, 1980.
+In July 2001, the Viking 2 lander was renamed the Gerald Soffen Memorial Station after Gerald Soffen (1926-2000), the NASA Project Scientist for Viking who had died recently.
+In total, the two Viking orbiters returned 52,663 images of Mars and mapped about 97% of the surface at a resolution of about 980 feet (300 meters) resolution.
+The Viking landers returned 4,500 photos of the two landing sites.
+Key Source
+Siddiqi, Asif A. Beyond Earth: A Chronicle of Deep Space Exploration, 1958-2016 . NASA History Program Office, 2018.
+Keep Exploring
+Discover More Topics From NASA
+Webb is the premier observatory of the next decade, serving thousands of astronomers worldwide. It studies every phase in the…
+Perseverance Rover
+This rover and its aerial sidekick were assigned to study the geology of Mars and seek signs of ancient microbial…
+Parker Solar Probe
+On a mission to “touch the Sun,” NASA's Parker Solar Probe became the first spacecraft to fly through the corona…
+Juno
+NASA’s Juno spacecraft entered orbit around Jupiter in 2016, the first explorer to peer below the planet's dense clouds to…
+National Aeronautics and Space Administration
+NASA explores the unknown in air and space, innovates for the benefit of humanity, and inspires the world through discovery.
+About NASA's Mission
+Join Us
+Follow NASA
+More NASA Social Accounts
+NASA Newsletters
+Sitemap
+For Media
+Privacy Policy
+FOIA
+No FEAR Act
+Office of the IG
+Budget & Annual Reports
+Agency Financial Reports
+Contact NASA
+Accessibility
+Page Last Updated:
+Sep 03, 2026
+Page Editor:
+Stephen Carney
+Responsible NASA Official for Science:
+Dana Bolles
+Did you find what you were looking for? (Required)
+Yes
+Partly
+What were you looking for? (Required)
+What were you hoping to accomplish by visiting our website? (Required)
+Submit

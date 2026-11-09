@@ -1,0 +1,247 @@
+Source ID: nasa-llr-keeps-giving
+Title: The Apollo Experiment That Keeps on Giving
+Publisher: NASA (2019)
+URL: https://www.nasa.gov/missions/apollo/apollo-11/the-apollo-experiment-that-keeps-on-giving/
+Fetched from: https://www.nasa.gov/missions/apollo/apollo-11/the-apollo-experiment-that-keeps-on-giving/
+Retrieved: 2026-11-07 01:50 UTC (HTTP 200)
+Note: plain-text extract of the public page, kept as evidence for facts.csv. NASA web content is generally not subject to U.S. copyright; see the original page for images and context.
+------------------------------------------------------------------------------
+The Apollo Experiment That Keeps on Giving - NASA
+Explore
+Search
+News & Events
+News Releases
+Recently Published
+Video Series on NASA+
+Podcasts & Audio
+Blogs
+Newsletters
+Social Media
+Media Resources
+Events
+Upcoming Launches & Landings
+Virtual Guest Program
+Multimedia
+NASA+
+Images
+NASA Live
+NASA Apps
+Podcasts
+Image of the Day
+e-Books
+3D Resources
+Interactives
+STEM Multimedia
+NASA Brand & Usage Guidelines
+Suggested Searches
+Artemis
+ISS
+Roman
+Webb
+Quesst
+Moon Base
+View All Topics A-Z
+Home
+Missions
+Humans in Space
+Earth
+The Solar System
+The Universe
+Science
+Aeronautics
+Technology
+Learning Resources
+About NASA
+Español
+Featured
+5 min read
+NASA’s Twin ESCAPADE Spacecraft to Slingshot Past Earth on Way to Mars
+article 4 days ago
+2 min read
+NASA Announces X-70 Experimental Aircraft to Advance Flight Research
+article 2 days ago
+4 min read
+What’s Up: November 2026 Skywatching Tips from NASA
+Back
+Search All NASA Missions
+A to Z List of Missions
+Upcoming Launches and Landings
+Spaceships and Rockets
+Communicating with Missions
+James Webb Space Telescope
+Hubble Space Telescope
+International Space Station
+OSIRIS-Rex
+Why Go to Space
+Astronauts
+Commercial Space
+Destinations
+Living in Space
+Explore Earth Science
+Climate Change
+Earth, Our Planet
+Earth Science in Action
+Earth Multimedia
+Earth Data
+Earth Science Researchers
+The Sun
+Mercury
+Venus
+The Moon
+Mars
+Jupiter
+Saturn
+Uranus
+Neptune
+Pluto & Dwarf Planets
+Asteroids, Comets & Meteors
+The Kuiper Belt
+The Oort Cloud
+Skywatching
+Exoplanets
+The Search for Life in the Universe
+Stars
+Galaxies
+Black Holes
+The Big Bang
+Dark Energy
+Dark Matter
+Earth Science
+Planetary Science
+Astrophysics & Space Science
+The Sun & Heliophysics
+Biological & Physical Sciences
+Lunar Science
+Citizen Science
+Astromaterials
+Aeronautics Research
+Human Space Travel Research
+Science in the Air
+NASA Aircraft
+Flight Research Innovation
+Supersonic Flight
+Air Traffic Solutions
+Green Aviation Tech
+Drones & You
+Technology Transfer & Spinoffs
+Space Travel
+Lunar Surface Technology
+Manufacturing and Materials
+Robotics
+Science Instruments
+Computing
+For Students
+For Educators
+For Colleges and Universities
+For Professionals
+Science for Everyone
+Requests for Exhibits, Artifacts, Speakers & Flyovers
+STEM Engagement at NASA
+NASA's Impacts
+Centers and Facilities
+Directorates
+Organizations
+People of NASA
+Careers
+Internships
+Our History
+Doing Business with NASA
+Get Involved
+Contact
+NASA en Español
+Ciencia
+Aeronáutica
+Ciencias Terrestres
+Sistema Solar
+Universo
+article
+4 days ago
+3 min read
+Hubble Learns Galactic History From Stars
+1 day ago
+NASA’s Swift Observatory Re-Entered Atmosphere
+Highlights
+1 min read
+NASA Astronauts to Answer Questions from Florida Students
+NASA Astronaut, STEM Creator Connect with Students for STEM Day
+3 days ago
+NASA’s ISAM State of Play: The Industry Standard for Space Servicing, Assembly, and Manufacturing
+1 week ago
+Supercomputing Tech Demo Schedule
+9 hours ago
+Taking a Gander at Utah’s Goosenecks
+20 hours ago
+Cyprus: Island of Snakes, Cats, and Ophiolites
+2 days ago
+November’s Night Sky Notes: Light-Day Away
+Slice of Martian Meteorite Teghaza 001
+NASA’s Hubble Uncovers Case of Missing Oxygen in Nearby Dwarf Galaxies
+NASA Explores Potential Commercial Servicing for Hubble Telescope
+Amendment 81: New Opportunity: Astrophysics Theory Program
+NASA Navigation Experiment Shows Promise for Planetary Landings
+NASA University Challenge Ignites Trajectory of Drone Entrepreneur
+NASA Ames Unitary Plan Wind Tunnel
+2 weeks ago
+High-speed Intelligent Robust Autonomous Terrain Exploration
+The Pacific’s Busy Storm Season
+Materials Engineered for Re-Entry Using Innovative Needling Operations
+NASA Space Grant Students Fuel Agency’s Inspiration Tour
+Send Your Name to Titan Aboard NASA’s Dragonfly Mission
+TIME Best Inventions of 2026
+3 weeks ago
+11 min read
+La NASA anuncia la cobertura de la misión lunar Artemis II
+8 months ago
+15 min read
+Agenda diaria de la misión a la Luna de Artemis II de la NASA
+6 min read
+La NASA refuerza Artemis: añade una misión y perfecciona su arquitectura general
+The Apollo Experiment That Keeps on Giving
+Anthony Greicius
+Jul 24, 2019
+Article
+Astronaut Edwin E. Aldrin Jr. moves toward a position to deploy two components of the Early Apollo Scientific Experiments Package (EASEP) on the surface of the Moon during the Apollo 11 extravehicular activity. The Passive Seismic Experiments Package (PSEP) is in his left hand; and in his right hand is the Laser Ranging Retro-Reflector (LR3). Astronaut Neil A. Armstrong, commander, took this photograph with a 70mm lunar surface camera.
+Credits: NASA
+Neil Armstrong, Buzz Aldrin and Michael Collins departed from the Moon 50 years ago, but one of the experiments they left behind continues to return fresh data to this day: arrays of prisms that reflect light back toward its source, providing plentiful insights. Along with the Apollo 11 astronauts, those of Apollo 14 and 15 left arrays behind as well: The Apollo 11 and 14 arrays have 100 quartz glass prisms (called corner cubes) each, while the array of Apollo 15 has 300.
+The longevity of the experiment can be attributed at least in part to its simplicity: The arrays themselves require no power. Four telescopes at observatories in New Mexico, France, Italy and Germany fire lasers at them, measuring the time that it takes for a laser pulse to bounce off the reflectors and return to Earth. This allows the distance to be measured to within a fraction of an inch (a few millimeters), and scientists at the Jet Propulsion Laboratory analyze the results.
+The orbit, rotation and orientation of the Moon are accurately determined by lunar laser ranging. The lunar orbit and the orientation of the rotating Moon are needed by spacecraft that orbit and land on the Moon. For instance, cameras on spacecraft in lunar orbit can see the reflecting arrays, relying on them as locations accurate to less than a foot (a fraction of a meter).
+Laser ranging measurements have deepened our understanding of the dance between the Moon and Earth as well. The Moon orbits Earth at an average distance of 239,000 miles (385,000 kilometers), but lunar laser ranging has accurately shown that the distance between the two increases by 1.5 inches (3.8 centimeters) a year.
+A close-up view, taken on Feb. 5, 1971, of the laser ranging retro reflector (LR3), which the Apollo 14 astronauts deployed on the moon during their lunar surface extravehicular activity.
+Tides in Earth’s oceans are highest not when the Moon is overhead, but hours later. The highest tide is east of the Moon. There are two tidal bulges, the second one half a day later. The gravitational force between the tidal bulges and the Moon pull against and slow Earth’s rotation while also pulling the Moon forward along the direction it moves in its orbit about Earth. The forward force causes the Moon to spiral away from Earth by 0.1 inches (3 millimeters) each month.
+In a similar way, Earth’s gravity tugs on the Moon, causing two tidal bulges of the lunar rock. In fact, the positions of the reflecting arrays vary as much as six inches (15 centimeters) up and down each month as the Moon flexes. Measuring how much the arrays move has enabled scientists to better understand the elastic properties of the Moon (a measurement of this, called the Love number, is named after scientist A. E. H. Love).
+Analysis of lunar laser data shows that the Moon has a fluid core. This was a surprise when discovered two decades ago because many scientists thought that the core would be cool and solid. The fluid core affects the directions in space of the Moon’s north and south poles, which lunar laser detects.
+Einstein’s theory of gravity assumes that the gravitational attraction between two bodies does not depend on their composition. The Sun’s gravity attracts the Moon and Earth. If this attraction depended on the composition of the two objects, it would affect the lunar orbit. Earth contains more iron than the Moon. Analysis of data from the lunar laser ranging experiment finds no difference in how gravity attracts the Moon and Earth due to their makeup.
+The north star Polaris is nearly overhead at Earth’s north pole. That pole changes direction compared to the stars due to the gravitational pull of the Moon and Sun on Earth’s shape (the diameter at the equator is larger than the diameter at the poles). The pole will trace out a circle in the sky returning to the north star in 26,000 years. This motion of the pole is sensed and measured by lunar laser ranging.
+With renewed interest in the exploration of the Moon, NASA has approved a new generation of reflectors to be placed on the lunar surface within the next decade. The improved performance of new reflectors and their wider geographical distribution on the Moon would allow improved tests of Einstein’s relativity, study the deep lunar interior, investigation of the history of our celestial neighbor, and support of future exploration. The legacy of the first human visit to the Moon half a century ago will be continued.
+DC Agle
+Jet Propulsion Laboratory, Pasadena, Calif.
+818-393-9011
+agle@jpl.nasa.gov
+2019-152
+National Aeronautics and Space Administration
+NASA explores the unknown in air and space, innovates for the benefit of humanity, and inspires the world through discovery.
+About NASA's Mission
+Join Us
+NASA en Español (opens in new tab)
+Follow NASA
+More NASA Social Accounts
+NASA Newsletters
+Sitemap
+For Media
+Privacy Policy
+FOIA
+No FEAR Act
+Office of the IG (opens in new tab)
+Budget & Annual Reports
+Agency Financial Reports
+Contact NASA
+Accessibility
+Page Last Updated:
+Aug 16, 2023
+Page Editor:
+Naomi Hartono
+Responsible NASA Official:
+Abigail Bowman
+Was this page helpful?
+Yes
+Submit

@@ -1,0 +1,35 @@
+Source ID: nist-c
+Title: Speed of light in vacuum (exact value, 299,792,458 m/s)
+Publisher: NIST CODATA
+URL: https://physics.nist.gov/cgi-bin/cuu/Value?c
+Fetched from: https://physics.nist.gov/cgi-bin/cuu/Value?c
+Retrieved: 2026-11-07 01:50 UTC (HTTP 200)
+Note: plain-text extract of the public page, kept as evidence for facts.csv. NASA web content is generally not subject to U.S. copyright; see the original page for images and context.
+------------------------------------------------------------------------------
+CODATA Value: speed of light in vacuum
+Constants
+Topics:
+Values
+Energy
+Equivalents
+Searchable
+Bibliography
+Background
+Constants,
+Units &
+Uncertainty
+home page
+speed of light in vacuum
+Numerical value
+299 792 458 m s -1
+Standard uncertainty
+(exact)
+Relative standard uncertainty
+Concise form
+Click here for correlation coefficient of this constant with other constants
+Source: 2022 CODATA
+recommended values
+Definition of
+uncertainty
+Correlation coefficient with
+any other constant

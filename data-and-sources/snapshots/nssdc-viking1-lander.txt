@@ -1,0 +1,92 @@
+Source ID: nssdc-viking1-lander
+Title: Viking 1 Lander (1975-075C)
+Publisher: NASA Space Science Data Coordinated Archive (NSSDCA)
+URL: https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1975-075C
+Fetched from: https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1975-075C
+Retrieved: 2026-11-07 01:50 UTC (HTTP 200)
+Note: plain-text extract of the public page, kept as evidence for facts.csv. NASA web content is generally not subject to U.S. copyright; see the original page for images and context.
+------------------------------------------------------------------------------
+NASA - NSSDCA - Spacecraft - Details
+Friday, 06 November 2026
+Viking 1 Lander
+NSSDCA/COSPAR ID: 1975-075C
+Description
+The Viking project consisted of launches of two separate spacecraft to Mars, Viking 1, launched on 20 August 1975, and Viking 2, launched on 9 September 1975. Each spacecraft consisted of an orbiter and a lander. After orbiting Mars and returning images used for landing site selection, the orbiter and lander detached and the lander entered the martian atmosphere and soft-landed at the selected site. The orbiters continued imaging and other scientific operations from orbit while the landers deployed instruments on the surface. The fully fueled orbiter-lander pair had a mass of 3530 kg. After separation and landing, the lander had a mass of about 600 kg and the orbiter 900 kg. The lander was encased in a bioshield at launch to prevent contamination by terrestrial organisms.
+Spacecraft and Instrumentation
+The lander consisted of a six-sided aluminum base with alternate 1.09 m and .56 m long sides, supported on three extended legs attached to the shorter sides. The leg footpads formed the vertices of an equilateral triangle with 2.21 m sides when viewed from above, with the long sides of the base forming a straight line with the two adjoining footpads. Instrumentation was attached to the top of the base, elevated above the surface by the extended legs. Power was provided by two radioisotope thermal generator (RTG) units containing plutonium 238 affixed to opposite sides of the lander base and covered by wind screens. Each generator was 28 cm tall, 58 cm in diameter, had a mass of 13.6 kg and provided 30 W continuous power at 4.4 volts. Four wet-cell sealed nickel-cadmium 8 amp-hour, 28 volt rechargeable batteries were also onboard to handle peak power loads.
+Propulsion was provided for deorbit by a monopropellant hydrazine (N2H4) rocket with 12 nozzles arranged in four clusters of three that provided 32 N thrust, giving a delta-V of 180 m/s. These nozzles also acted as the control thrusters for translation and rotation of the lander. Terminal descent and landing was achieved by three (one affixed on each long side of the base, separated by 120 degress) monopropellant hydrazine engines. The engines had 18 nozzles to disperse the exhaust and minimize effects on the ground and were throttleable from 276 N to 2667 N. The hydrazine was purified to prevent contamination of the martian surface. The lander carried 85 kg of propellant at launch, contained in two spherical titanium tanks mounted on opposite sides of the lander beneath the RTG windscreens, giving a total launch mass of 657 kg. Control was achieved through the use of an inertial reference unit, four gyros, an aerodecelerator, a radar altimeter, a terminal descent and landing radar, and the control thrusters.
+Communications were accomplished through a 20 W S-band transmitter and two 20 W TWTA's. A 2-axis steerable high-gain parabolic antenna was mounted on a boom near one edge of the lander base. An omnidirectional low-gain S-band antenna also extends from the base. Both these antennae allowed for communication directly with the Earth. A UHF (381 MHz) antenna provided a one-way relay to the orbiter using a 30 W relay radio. Data storage was on a 40 Mbit tape recorder, and the lander computer had a 6000 word memory for command instructions.
+The lander carried instruments to achieve the primary scientific objectives of the lander mission: to study the biology, chemical composition (organic and inorganic), meteorology, seismology, magnetic properties, appearance, and physical properties of the martian surface and atmosphere. Two 360-degree cylindrical scan cameras were mounted near one long side of the base. From the center of this side extended the sampler arm, with a collector head, temperature sensor, and magnet on the end. A meteorology boom, holding temperature, wind direction, and wind velocity sensors extended out and up from the top of one of the lander legs. A seismometer, magnet and camera test targets, and magnifying mirror are mounted opposite the cameras, near the high-gain antenna. An interior environmentally controlled compartment held the biology experiment and the gas chromatograph mass spectrometer. The X-ray flourescence spectrometer was also mounted within the structure. A pressure sensor was attached under the lander body. The scientific payload had a total mass of approximately 91 kg.
+Mission Profile
+Following launch and a 304 day cruise to Mars, the orbiter began returning global images of Mars about 5 days before orbit insertion. The Viking 1 spacecraft was inserted into Mars orbit on 19 June 1976 and trimmed to a 1513 x 33,000 km, 24.66 hr site certification orbit on 21 June. Imaging of candidate sites was begun and the landing site was selected based on these pictures. The lander and its aeroshell separated from the orbiter on 20 July 08:51 UT. At the time of separation, the lander was orbiting at about 4 km/s. After separation rockets fired to begin lander deorbit. After a few hours at about 300 km altitude, the lander was reoriented for entry. The aeroshell with its ablatable heat shield slowed the craft as it plunged through the atmosphere. During this time, entry science experiments were performed. At 6 km altitude at about 250 m/s the 16 m diameter lander parachutes were deployed. Seven seconds later the aeroshell was jettisoned, and 8 seconds after that the three lander legs were extended. In 45 seconds the parachute had slowed the lander to 60 m/s. At 1.5 km altitude, retro-rockets were ignited and fired until landing 40 seconds later at about 2.4 m/s. The landing rockets used an 18 nozzle design to spread the hydrogen and nitrogen exhaust over a wide area. It was determined that this would limit surface heating to no more than 1 degree C and that no more than 1 mm of the surface material would be stripped away. The Viking 1 Lander touched down in western Chryse Planitia at 22.27 deg N latitude and 312.05 deg E longitude (planetocentric) at 11:53:06 UT (4:13 p.m. local Mars time). Approximately 22 kg of propellants were left at landing.
+Transmission of the first surface image began 25 seconds after landing. The seismometer failed to uncage, and a sampler arm locking pin was stuck and took 5 days to shake out. Otherwise, all experiments functioned nominally. The Viking 1 Lander was named the Thomas Mutch Memorial Station in January 1981 in honor of the original leader of the Viking imaging team. It operated until 13 November 1982 when contact was lost.
+The total cost of the Viking project was roughly one billion dollars. For a detailed description of the Viking mission and experiments, see "Scientific Results of the Viking Project," J. Geophys. Res., v. 82, n. 28, 1977.
+Alternate Names
+Viking Lander 1
+Viking-B Lander
+09024
+Thomas Mutch Memorial Station
+Viking B
+Viking1Lander
+urn:nasa:pds:context:instrument_host:spacecraft.vl1
+Facts in Brief
+Launch Date: 1975-08-20
+Launch Vehicle: Titan IIIE-Centaur
+Launch Site: Cape Canaveral, United States
+Mass: 572 kg
+Nominal Power: 70 W
+Funding Agency
+NASA-Office of Space Science Applications (United States)
+Discipline
+Planetary Science
+Additional Information
+Launch/Orbital information for Viking 1 Lander
+Telecommunications information for Viking 1 Lander
+Experiments on Viking 1 Lander
+Data collections from Viking 1 Lander
+Questions and comments about this spacecraft can be directed to:
+Coordinated Request and User Support Office
+Personnel
+Name Role Original Affiliation E-mail
+Dr. Gerald A. Soffen Project Scientist NASA Langley Research Center
+Dr. Joseph M. Boyce Program Scientist NASA Headquarters jboyce@higp.hawaii.edu
+Dr. Guenter K. Strobel Program Manager NASA Headquarters
+Mr. James S. Martin, Jr. Project Manager NASA Langley Research Center
+Selected References
+Soffen, G. A., and C. W. Snyder, The First Viking mission to Mars,
+Science , 193, 759-766, doi:10.1126/science.193.4255.759, Aug. 1976.
+Masursky, H., and N. L. Crabill, Viking landing sites: Selection and certification,
+Science , 193, 809-812, doi:10.1126/science.193.4255.809, Aug. 1976.
+Tyler, G. L., et al. , Radar characteristics of Viking 1 landing sites,
+Science , 193, 812-815, doi:10.1126/science.193.4255.812, Aug. 1976.
+Soffen, G. A., Scientific results of the Viking mission,
+Science , 194, No. 4271, 1274-1276, doi:10.1126/science.194.4271.1274, Dec. 1976.
+Soffen, G. A., The Viking project,
+J. Geophys. Res. , 82, No. 28, 3959-3970, doi:10.1029/JS082i028p03959, Sept. 1977.
+Cooley, C. G., and J. G. Lewis, Viking 75 Project: Viking Lander System primary mission performance report,
+Martin Marietta Corp., NASA-CR-145148, Denver, CO, Apr. 1977.
+Other Viking Information/Data at NSSDCA
+NSSDCA Viking page
+View some of the images taken of Mars
+by Viking and other missions
+Viking FTP site - Includes an index of latitude and longitude of all Orbiter images
+Related Information/Data at NSSDCA
+Mars Page
+Mars Fact Sheet
+Mars Frequently Asked Questions
+Other Sources of Viking Information/Data
+PDS Image Atlas (PDS Imaging Node)
+PDS Geosciences Node
+Viking Computer Facility: Meteorology and Images
+NSSDCA Master Catalog Search
+Spacecraft
+Experiments
+Data Collections
+Publications
+Maps
+New/Updated Data
+Lunar/Planetary Events
++ Privacy Policy and Important Notices
+NASA Official: Thomas H. Morgan
+Curator: T. R. Holden
+Version 5.3.0, 16 October 2026

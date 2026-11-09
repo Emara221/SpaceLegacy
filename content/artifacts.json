@@ -1,0 +1,1069 @@
+{
+  "schemaVersion": 1,
+  "lastVerified": "2026-11-07",
+  "activities": {
+    "laser-ranging": {
+      "title": "Time a laser pulse to the Moon",
+      "intro": "Scientists measure the distance to the Moon by timing how long laser light takes to bounce off reflectors like this one. Try it with an educational model.",
+      "logLabel": "Solved the laser challenge"
+    },
+    "solar-budget": {
+      "title": "Make every watt-hour count",
+      "intro": "Investigate Spirit’s energy challenge. Compare two NASA-reported energy outputs, then predict what happens in a simplified model.",
+      "logLabel": "Solved the energy challenge",
+      "normalWh": 700,
+      "stormWh": 89,
+      "sourceIds": [
+        "nasa-mer-spirit"
+      ],
+      "context": "NASA reports that a late-2008 winter storm reduced Spirit’s solar-panel output to about 89 watt-hours per Martian day, compared with a normal amount of about 700 watt-hours per day.",
+      "modelNote": "Educational model: the slider scales a 700 Wh reference output in direct proportion to the energy fraction you choose. It is not a measurement of dust coverage. Real output also depends on sunlight, season, panel angle and dust in the atmosphere. This is not a reconstruction of Spirit’s daily operations.",
+      "sliderLabel": "Energy available compared with the reference (%)",
+      "prediction": "Predict first: if only half the reference energy is available, how many watt-hours do you get?",
+      "question": "During the reported storm, about what percentage of the 700 Wh reference was available? Round to the nearest whole percent.",
+      "hint": "Divide the storm output by the reference output, then multiply by 100.",
+      "reflection": "With less energy available, what would you prioritize, and why? Discuss what extra information an engineer would need before deciding.",
+      "presets": [
+        {
+          "label": "Reference",
+          "percent": 100
+        },
+        {
+          "label": "Half the energy",
+          "percent": 50
+        },
+        {
+          "label": "Reported storm",
+          "percent": 12.714285714285714
+        }
+      ]
+    }
+  },
+  "destinations": {
+    "moon": {
+      "name": "The Moon",
+      "tagline": "Where people left their first footprints, and their equipment.",
+      "intro": "Apollo crews landed at six sites between 1969 and 1972. Our first exhibits come from the very first one, Tranquility Base, where Apollo 11 left a landing stage and a laser reflector that scientists still use.",
+      "map": {
+        "image": "assets/maps/moon-lroc-color.webp",
+        "width": 2048,
+        "height": 1024,
+        "lonMin": -180,
+        "alt": "Flat map of the whole Moon, made from Lunar Reconnaissance Orbiter color images. Dark areas are the lunar seas.",
+        "credit": "NASA's Scientific Visualization Studio (CGI Moon Kit, LROC WAC color mosaic)",
+        "sourceId": "svs-cgi-moon-kit",
+        "note": "Equirectangular projection centered on 0° longitude. Marker positions come from published coordinates."
+      }
+    },
+    "mars": {
+      "name": "Mars",
+      "tagline": "Robots that drove, dug and listened, then stayed.",
+      "intro": "NASA's robots on Mars do the exploring by themselves. Spirit rolled across Gusev Crater for six years; InSight sat still for four and listened to the planet shake.",
+      "map": {
+        "image": "assets/maps/mars-viking-0-360.webp",
+        "width": 1440,
+        "height": 720,
+        "lonMin": 0,
+        "alt": "Flat map of the whole of Mars in orange and brown tones, made from Viking orbiter images.",
+        "credit": "NASA/JPL-Caltech; Viking images processed at the USGS (NASA 3D Resources Mars texture)",
+        "sourceId": "nasa3d-mars-texture",
+        "note": "Equirectangular projection, re-centered on 180° E for this site (0° E at the left edge). Marker positions come from published coordinates."
+      }
+    }
+  },
+  "artifacts": [
+    {
+      "id": "apollo11-descent-stage",
+      "briefing": "How can a landing stage become a launch pad?",
+      "spotlightFact": 2,
+      "destination": "moon",
+      "order": 1,
+      "name": "Eagle's Descent Stage",
+      "mission": "Apollo 11 · Lunar Module LM-5 \"Eagle\"",
+      "kind": "Landing stage of a crewed lunar lander",
+      "teaser": "The bottom half of the first crewed Moon lander. It became the launch pad that sent Armstrong and Aldrin home, and it has stayed there ever since.",
+      "cardImage": "a11-eagle-on-moon",
+      "status": {
+        "type": "silent",
+        "label": "Left in place since 21 July 1969 · nothing on it operates",
+        "detail": "Only the descent stage remains at Tranquility Base. The ascent stage carried the crew back to lunar orbit and was later released. NASA's catalog says its fate is unknown and assumes it crashed into the Moon within a few months.",
+        "verified": "2026-11-07",
+        "sourceIds": ["nssdc-a11-lm"]
+      },
+      "location": {
+        "site": "Tranquility Base, Mare Tranquillitatis (Sea of Tranquility)",
+        "lat": 0.67416,
+        "lon": 23.47314,
+        "approximate": false,
+        "convention": "Measured from Lunar Reconnaissance Orbiter images (mean Earth/polar axis frame)",
+        "sourceId": "nssdc-a11-lm"
+      },
+      "facts": [
+        { "label": "Landed", "value": "20 July 1969, 20:17:40 UT", "sourceId": "nssdc-a11-lm" },
+        { "label": "Crew on the surface", "value": "Neil A. Armstrong and Edwin E. \"Buzz\" Aldrin Jr.", "sourceId": "nssdc-a11-lm" },
+        { "label": "Time on the Moon", "value": "21 hours 36 minutes", "sourceId": "nssdc-a11-lm" },
+        { "label": "Shape and size", "value": "Octagon 4.2 m across and 1.7 m thick; footpads 9.4 m apart", "sourceId": "nssdc-a11-lm" },
+        { "label": "Landing engine", "value": "Deep-throttling rocket, up to about 45,000 newtons of thrust", "sourceId": "nssdc-a11-lm" },
+        { "label": "Mass", "value": "2,034 kg empty (with stowed equipment) + 8,248 kg of propellant at the start", "sourceId": "nssdc-a11-lm" }
+      ],
+      "timeline": [
+        { "date": "20 Jul 1969, 20:05 UT", "text": "The descent engine begins a 756-second burn toward the surface.", "sourceId": "nssdc-a11-lm" },
+        { "date": "20 Jul 1969, 20:17 UT", "text": "Eagle lands in the Sea of Tranquility.", "sourceId": "nssdc-a11-lm" },
+        { "date": "21 Jul 1969, 02:56 UT", "text": "Armstrong steps off the ladder onto the Moon.", "sourceId": "nssdc-a11-lm" },
+        { "date": "21 Jul 1969, 17:54 UT", "text": "The ascent stage lifts off. The descent stage stays behind as its launch pad.", "sourceId": "nssdc-a11-lm" },
+        { "date": "2009–today", "text": "The site's position is measured from Lunar Reconnaissance Orbiter images.", "sourceId": "nssdc-a11-lm" }
+      ],
+      "viewer": {
+        "type": "model",
+        "label": "NASA 3D model",
+        "variants": [
+          {
+            "id": "today",
+            "label": "What remains today",
+            "src": "assets/models/apollo-lm-descent-stage.glb",
+            "note": "Descent stage only. We made this version by deleting the ascent stage from NASA's model; nothing was added or reshaped."
+          },
+          {
+            "id": "1969",
+            "label": "July 1969 (complete)",
+            "src": "assets/models/apollo-lm-full.glb",
+            "note": "NASA's complete Apollo Lunar Module model, both stages."
+          }
+        ],
+        "poster": "assets/posters/lm-render.webp",
+        "posterAlt": "NASA render of the Apollo Lunar Module: a silver crew cabin on top of a gold octagonal landing stage with four legs.",
+        "cameraOrbit": "35deg 72deg auto",
+        "modelNote": "NASA's generic Apollo Lunar Module model. Eagle (LM-5) had the same overall design; small details differ between individual landers. Part markers are placed by us and are approximate.",
+        "description": "A gold, eight-sided landing stage stands on four angled legs ending in round footpads. A ladder runs down the leg facing the viewer. In the 1969 view, an angular silver crew cabin with antennas sits on top.",
+        "modelSourceId": "nasa3d-lm"
+      },
+      "hotspots": [
+        {
+          "id": "engine",
+          "label": "Descent engine",
+          "position": "0m 0.45m 0m",
+          "normal": "0m -1m 0m",
+          "orbit": "0deg 118deg 8m",
+          "what": "A rocket engine in the middle of the stage that could be throttled up and down, like a car's accelerator, with up to about 45,000 newtons of thrust.",
+          "why": "Being able to throttle meant the crew could slow down gradually instead of falling, and control the last part of the landing.",
+          "science": "Its 756-second burn turned an orbiting spacecraft into a lander. Without a safe landing, none of the experiments could have been set up.",
+          "sourceIds": ["nssdc-a11-lm"]
+        },
+        {
+          "id": "legs",
+          "label": "Landing legs and footpads",
+          "position": "2.9m 0.3m 0.1m",
+          "orbit": "75deg 78deg 9m",
+          "what": "Four folding legs with wide, round footpads. They held the bottom of the stage 1.5 m above the ground; opposite footpads are 9.4 m apart.",
+          "why": "Wide feet spread the lander's weight over the dusty lunar soil, and the wide stance helped keep it from tipping on uneven ground.",
+          "science": "A stable platform let the crew work outside and later launch the ascent stage from it.",
+          "sourceIds": ["nssdc-a11-lm"]
+        },
+        {
+          "id": "ladder",
+          "label": "Ladder and porch",
+          "position": "0.05m 0.98m 2.65m",
+          "normal": "0m 0m 1m",
+          "orbit": "0deg 80deg 7m",
+          "what": "One leg carried a small platform (the porch) and a ladder down to the footpad.",
+          "why": "The crew cabin sat high above the ground, so astronauts in bulky suits needed a safe way down and back up.",
+          "science": "Armstrong climbed down here and stepped onto the Moon at 02:56 UT on 21 July 1969. Aldrin followed 19 minutes later.",
+          "sourceIds": ["nssdc-a11-lm"]
+        },
+        {
+          "id": "plaque",
+          "label": "Commemorative plaque",
+          "position": "-0.07m 1.32m 2.5m",
+          "normal": "0m 0m 1m",
+          "orbit": "0deg 85deg 4.5m",
+          "what": "A stainless-steel plaque about 23 × 19 cm, fixed to the ladder leg and covered by a thin steel sheet during flight.",
+          "why": "It records, for any future visitor, who came here and when.",
+          "science": "Its engraving reads: \"Here men from the planet Earth first set foot upon the Moon, July 1969, A.D. We came in peace for all mankind.\" The crew read it aloud on the surface.",
+          "image": "a11-plaque",
+          "sourceIds": ["img-as11-40-5899", "img-s69-39334", "nssdc-a11-lm"]
+        },
+        {
+          "id": "bay",
+          "label": "Scientific equipment bay",
+          "position": "1.12m 1.55m -1.12m",
+          "normal": "0.707m 0m -0.707m",
+          "orbit": "135deg 80deg 7.5m",
+          "approximate": true,
+          "what": "A storage bay built into the descent stage. On Apollo 11 it carried the Early Apollo Scientific Experiments Package.",
+          "why": "Experiments had to ride down to the surface in the stage that stayed behind, ready for the crew to unload.",
+          "science": "Aldrin pulled out a seismometer and the laser retroreflector here. The reflector is still used today, so this bay delivered a 50-year experiment.",
+          "image": "a11-eagle-on-moon",
+          "link": { "artifact": "apollo11-retroreflector", "label": "Meet the laser retroreflector" },
+          "sourceIds": ["img-as11-40-5927", "nssdc-a11-lm"]
+        },
+        {
+          "id": "tanks",
+          "label": "Fuel and supply tanks",
+          "position": "-1.58m 1.5m 0m",
+          "normal": "-1m 0m 0m",
+          "orbit": "-90deg 78deg 7.5m",
+          "what": "The octagonal body held two tanks of fuel (Aerozine 50), two of oxidizer (nitrogen tetroxide), plus water, oxygen and helium tanks.",
+          "why": "Most of the propellant was used up during landing, so carrying it in the stage that stays behind saved weight for the trip home.",
+          "science": "About 8,248 kg of propellant was loaded at the start, four times the stage's own empty mass.",
+          "sourceIds": ["nssdc-a11-lm"]
+        },
+        {
+          "id": "launchpad",
+          "label": "Launch pad for the ascent stage",
+          "position": "0.05m 2.43m -0.3m",
+          "normal": "0m 1m 0m",
+          "orbit": "20deg 40deg 9m",
+          "what": "The top of the descent stage, where the crew cabin (ascent stage) sat.",
+          "why": "Reusing the landing stage as a launch platform meant no launch tower was needed on the Moon.",
+          "science": "On 21 July 1969 at 17:54 UT the ascent stage lifted off from here after 21 hours 36 minutes on the surface. The descent stage stayed behind.",
+          "sourceIds": ["nssdc-a11-lm"]
+        }
+      ],
+      "howItWorked": {
+        "title": "How Eagle landed and left",
+        "steps": [
+          { "hotspot": "engine", "text": "20:05 UT, 20 July 1969: the descent engine starts a 756-second burn, slowing Eagle down." },
+          { "hotspot": "legs", "text": "20:17 UT: the footpads touch the Sea of Tranquility. The legs hold the stage 1.5 m above the ground." },
+          { "hotspot": "ladder", "text": "Armstrong climbs down the ladder and steps onto the Moon at 02:56 UT on 21 July." },
+          { "hotspot": "plaque", "text": "The crew unveil the plaque on the ladder leg and read it aloud." },
+          { "hotspot": "bay", "text": "Aldrin unloads the seismometer and laser retroreflector from the equipment bay." },
+          { "hotspot": "launchpad", "text": "17:54 UT, 21 July: the ascent stage lifts off. The descent stage stays behind as the launch pad." }
+        ]
+      },
+      "story": {
+        "narrator": "Eagle's descent stage",
+        "chapters": [
+          {
+            "question": "What was I built to do?",
+            "body": [
+              "I am the bottom half of a spacecraft called Eagle. My job had three parts: carry two astronauts from lunar orbit down to the surface, carry their science equipment, and then become the launch pad that sent them home.",
+              "My top half, the ascent stage, had the crew cabin and its own small engine. When it was time to leave, it would fly away and I would stay."
+            ],
+            "sourceIds": ["nssdc-a11-lm"]
+          },
+          {
+            "question": "How did I work?",
+            "body": [
+              "I am an eight-sided box 4.2 m across, full of tanks: fuel, oxidizer, water, oxygen and helium. In my middle is a rocket engine that can be throttled up and down, so the crew can slow their fall gently.",
+              "My four legs end in round footpads. They held my underside 1.5 m above the ground, and one of them carries the ladder."
+            ],
+            "image": "a11-eagle-on-moon",
+            "sourceIds": ["nssdc-a11-lm", "img-as11-40-5927"]
+          },
+          {
+            "question": "What happened during my mission?",
+            "body": [
+              "On 20 July 1969 my engine fired for 756 seconds and I touched down at 20:17 UT. Hours later Neil Armstrong climbed down my ladder, and Buzz Aldrin followed.",
+              "They unveiled my plaque, planted a flag and unloaded experiments from my equipment bay. After 21 hours and 36 minutes on the Moon, the ascent stage lifted off from my back. I have been at Tranquility Base ever since."
+            ],
+            "image": "a11-plaque",
+            "sourceIds": ["nssdc-a11-lm", "img-as11-40-5899"]
+          },
+          {
+            "question": "What did we learn?",
+            "body": [
+              "Apollo 11 showed that people could land on another world, work there and return safely. The crew collected about 47 pounds (21 kg) of lunar rock and soil for scientists on Earth.",
+              "The experiments I carried kept working after the crew left: the seismometer sent data for several weeks, and the laser reflector is still in use."
+            ],
+            "sourceIds": ["msfc-6900957", "nssdc-a11-lm", "nasa-llr-keeps-giving"]
+          },
+          {
+            "question": "Why does it matter now?",
+            "body": [
+              "Later landers kept my design: on Apollo 15, 16 and 17, the descent stage also carried the lunar rover. Today my exact position is measured from Lunar Reconnaissance Orbiter images.",
+              "I am a reminder that the first step onto another world started with a machine that knew how to land, and then knew how to stay."
+            ],
+            "sourceIds": ["nssdc-a11-lm"]
+          }
+        ]
+      },
+      "quiz": [
+        {
+          "id": "q1",
+          "q": "Which part of Apollo 11's lunar module is still at Tranquility Base?",
+          "options": ["The descent stage", "The whole lunar module", "The ascent stage", "The command module"],
+          "answer": 0,
+          "explain": "Only the descent stage stayed. It was the launch pad for the ascent stage, which carried the crew back to lunar orbit.",
+          "sourceId": "nssdc-a11-lm"
+        },
+        {
+          "id": "q2",
+          "q": "Why did the descent engine need to be throttleable?",
+          "options": ["So the crew could slow down gradually and control the landing", "So it could launch the crew home", "So it could heat the cabin", "So it could power the radio"],
+          "answer": 0,
+          "explain": "Throttling let the engine change its thrust, so Eagle could slow its fall and touch down gently. The ascent stage had its own engine for leaving.",
+          "sourceId": "nssdc-a11-lm"
+        },
+        {
+          "id": "q3",
+          "q": "Where did the Apollo 11 experiments ride down to the surface?",
+          "options": ["In a storage bay in the descent stage", "In the astronauts' pockets", "On the command module", "On a separate rocket"],
+          "answer": 0,
+          "explain": "The experiments package rode in the descent stage's scientific equipment bay. Aldrin unloaded it there (photo AS11-40-5927).",
+          "sourceId": "img-as11-40-5927"
+        }
+      ]
+    },
+    {
+      "id": "apollo11-retroreflector",
+      "briefing": "How can an experiment work without electricity?",
+      "spotlightFact": 2,
+      "destination": "moon",
+      "order": 2,
+      "name": "Laser Ranging Retroreflector",
+      "mission": "Apollo 11 · Early Apollo Scientific Experiments Package",
+      "kind": "Passive science instrument (no power needed)",
+      "teaser": "A panel of 100 glass corner cubes that still bounces laser light back to Earth, more than 57 years after it was set down.",
+      "cardImage": "a11-easep-deployed",
+      "status": {
+        "type": "active",
+        "label": "Still used by observatories today · needs no power",
+        "detail": "The array has no electronics. Telescopes on Earth fire laser pulses at the Apollo arrays and time the echoes. NASA's 2019 article names four observatories, in New Mexico, France, Italy and Germany.",
+        "verified": "2026-11-07",
+        "sourceIds": ["nasa-llr-keeps-giving", "nasa-retroreflectors-apollo-mars"]
+      },
+      "location": {
+        "site": "Tranquility Base, about 5 m north-northwest of the Apollo 11 seismometer",
+        "lat": 0.6735,
+        "lon": 23.473,
+        "approximate": true,
+        "convention": "Coordinates are for the experiments package site (about 17 m south of the lunar module); the reflector stood about 5 m away from it",
+        "sourceId": "nssdc-a11-lm"
+      },
+      "facts": [
+        { "label": "Set up", "value": "21 July 1969 (UT), by Buzz Aldrin", "sourceId": "nssdc-a11-lm" },
+        { "label": "Design", "value": "100 corner cubes of fused silica (quartz glass) on a folding stand aimed at Earth", "sourceId": "nasa-llr-keeps-giving" },
+        { "label": "Power", "value": "None needed: it only reflects light", "sourceId": "nasa-llr-keeps-giving" },
+        { "label": "Precision today", "value": "Distance measured to within a few millimeters", "sourceId": "nasa-llr-keeps-giving" },
+        { "label": "Principal investigator", "value": "Carroll O. Alley, University of Maryland", "sourceId": "nssdc-a11-lrrr" },
+        { "label": "Sister arrays", "value": "Apollo 14 (100 cubes) and Apollo 15 (300 cubes)", "sourceId": "nasa-llr-keeps-giving" }
+      ],
+      "timeline": [
+        { "date": "21 Jul 1969", "text": "Aldrin carries the reflector and the seismometer out from Eagle and sets them up.", "sourceId": "nasa-tranquility-base" },
+        { "date": "27 Aug 1969", "text": "The solar-powered seismometer stops accepting commands. The reflector, needing no power, carries on.", "sourceId": "nssdc-a11-lm" },
+        { "date": "1971", "text": "Apollo 14 and Apollo 15 crews leave more reflector arrays.", "sourceId": "nasa-llr-keeps-giving" },
+        { "date": "2019", "text": "NASA reports the arrays are still returning data, 50 years on.", "sourceId": "nasa-llr-keeps-giving" },
+        { "date": "Today", "text": "Lunar laser ranging research with Apollo-era reflectors continues.", "sourceId": "nasa-retroreflectors-apollo-mars" }
+      ],
+      "viewer": {
+        "type": "photo",
+        "label": "Photo inspector",
+        "image": "a11-easep-deployed",
+        "modelNote": "No suitable NASA 3D model of this reflector is available, so you inspect it in Neil Armstrong's photo instead. Markers are placed by us using NASA's caption.",
+        "description": "Buzz Aldrin stands at left, facing away. In front of him is the seismometer with two solar panels. Behind it is the small box-shaped laser reflector. The flag stands in the middle distance and the lunar module Eagle is at far right."
+      },
+      "hotspots": [
+        {
+          "id": "reflector",
+          "label": "Laser reflector",
+          "x": 39.5,
+          "y": 49.5,
+          "what": "A tilted panel holding 100 corner cubes, each a glass prism with three mirror-like faces at right angles to each other.",
+          "why": "A corner cube sends light back toward wherever it came from, even if the beam arrives at an angle. That makes it a perfect target for a laser fired from Earth.",
+          "science": "Timing the laser's round trip gives the Earth–Moon distance to within a few millimeters. That revealed the Moon is drifting away by 3.8 cm per year.",
+          "image": "a14-lrrr-closeup",
+          "link": { "anchor": "activity", "label": "Try timing a laser pulse" },
+          "sourceIds": ["img-as11-40-5948", "nasa-llr-keeps-giving"]
+        },
+        {
+          "id": "seismometer",
+          "label": "Passive seismometer",
+          "x": 40,
+          "y": 60,
+          "what": "A solar-powered seismometer with two panels, built to feel moonquakes, landslides and meteorite impacts.",
+          "why": "Vibrations travelling through the Moon carry clues about what is inside it.",
+          "science": "It worked through its first lunar day, but stopped accepting commands on 27 August 1969. Its neighbor, the reflector, needs no power, which is why it outlived it.",
+          "sourceIds": ["nssdc-a11-lm", "img-as11-40-5951"]
+        },
+        {
+          "id": "aldrin",
+          "label": "Buzz Aldrin",
+          "x": 11,
+          "y": 47,
+          "what": "Lunar module pilot Buzz Aldrin, photographed by Neil Armstrong just after setting up the experiments.",
+          "why": "Every Apollo experiment depended on astronauts carrying, placing and aiming it by hand.",
+          "science": "Aldrin carried the seismometer in one hand and the reflector in the other. In the Moon's weak gravity, equipment that would be too heavy on Earth was easy to carry.",
+          "image": "a11-aldrin-carries-easep",
+          "sourceIds": ["msfc-6900957", "nasa-tranquility-base"]
+        },
+        {
+          "id": "flag",
+          "label": "U.S. flag",
+          "x": 48.5,
+          "y": 40,
+          "what": "The flag the crew planted at Tranquility Base.",
+          "why": "It marked a national achievement; the plaque on Eagle's leg dedicated the landing to all mankind.",
+          "science": "Shows how close everything stood: the experiments were set up roughly 17 m south of the lunar module.",
+          "sourceIds": ["img-as11-40-5948", "nssdc-a11-lm"]
+        },
+        {
+          "id": "eagle",
+          "label": "Eagle's descent stage",
+          "x": 74,
+          "y": 38.5,
+          "what": "The lunar module Eagle, at the far right of the photo.",
+          "why": "The reflector rode down to the surface inside Eagle's equipment bay.",
+          "science": "Eagle's descent stage is still standing here too. You can inspect it in 3D.",
+          "link": { "artifact": "apollo11-descent-stage", "label": "Inspect Eagle in 3D" },
+          "sourceIds": ["img-as11-40-5948"]
+        }
+      ],
+      "howItWorked": {
+        "title": "How one laser measurement works",
+        "steps": [
+          { "hotspot": "aldrin", "text": "1969: Aldrin carries the reflector out from Eagle and aims it toward Earth." },
+          { "hotspot": "reflector", "text": "A telescope on Earth fires a short laser pulse at the reflector's position." },
+          { "hotspot": "reflector", "text": "The corner cubes send part of the light straight back toward the telescope." },
+          { "hotspot": "eagle", "text": "Scientists time the round trip, about 2.5 seconds, and compute the distance: d = c × t ÷ 2." },
+          { "hotspot": "seismometer", "text": "Powered instruments like the seismometer stopped long ago. The passive reflector still works." }
+        ]
+      },
+      "activity": "laser-ranging",
+      "story": {
+        "narrator": "the Apollo 11 laser reflector",
+        "chapters": [
+          {
+            "question": "What was I built to do?",
+            "body": [
+              "I am a target. Scientists wanted a precise spot on the Moon that a laser on Earth could aim at, so they could measure the distance between the two worlds better than ever before.",
+              "I am part of the Early Apollo Scientific Experiments Package. My neighbor was a seismometer; I was the quiet one with no wires at all."
+            ],
+            "image": "a11-aldrin-carries-easep",
+            "sourceIds": ["nssdc-a11-lrrr", "nasa-tranquility-base"]
+          },
+          {
+            "question": "How do I work?",
+            "body": [
+              "I am a panel of 100 corner cubes made of fused silica. Each cube has three faces at right angles, like the inside corner of a box, so light that enters bounces back the way it came.",
+              "A telescope fires a pulse of laser light. Part of it hits me and returns. Time the trip, multiply by the speed of light, divide by two, and you have the distance."
+            ],
+            "image": "a14-lrrr-closeup",
+            "sourceIds": ["nasa-llr-keeps-giving", "nssdc-a11-lrrr"]
+          },
+          {
+            "question": "What happened during my mission?",
+            "body": [
+              "On 21 July 1969 Buzz Aldrin carried me in one hand and the seismometer in the other, and set me down about 5 m from it, aimed at Earth.",
+              "The seismometer ran on sunlight and stopped taking commands on 27 August 1969. I need no power, so I never had to stop."
+            ],
+            "image": "a11-easep-deployed",
+            "sourceIds": ["nssdc-a11-lm", "img-as11-40-5948"]
+          },
+          {
+            "question": "What did we learn?",
+            "body": [
+              "Laser ranging showed that the Moon is moving away from Earth by about 3.8 cm (1.5 inches) a year, because of tides. It showed that the Moon has a fluid core, and that the Moon flexes up and down by as much as 15 cm each month.",
+              "It also tested Einstein's theory of gravity: the Sun pulls on the Earth and the Moon equally, even though they are made of different materials."
+            ],
+            "sourceIds": ["nasa-llr-keeps-giving"]
+          },
+          {
+            "question": "Why does it matter now?",
+            "body": [
+              "Spacecraft that orbit and land on the Moon need to know its orbit and orientation precisely, and laser ranging provides them. NASA has approved a new generation of reflectors for the lunar surface.",
+              "Even Mars hardware carries the idea forward: InSight and Perseverance each carry a small laser retroreflector for future measurements."
+            ],
+            "link": { "artifact": "insight-lander", "label": "Visit InSight on Mars" },
+            "sourceIds": ["nasa-llr-keeps-giving", "nasa-retroreflectors-apollo-mars"]
+          }
+        ]
+      },
+      "quiz": [
+        {
+          "id": "q1",
+          "q": "Why is the reflector still useful when the seismometer next to it stopped in 1969?",
+          "options": ["It needs no power, it only reflects light", "It has a nuclear battery", "Astronauts come back to repair it", "Its solar panels stay clean"],
+          "answer": 0,
+          "explain": "The reflector is passive: it has no electronics. The solar-powered seismometer stopped accepting commands on 27 August 1969.",
+          "sourceId": "nasa-llr-keeps-giving"
+        },
+        {
+          "id": "q2",
+          "q": "A laser pulse takes about 2.5 seconds for its round trip. What does that time let scientists calculate?",
+          "options": ["The Earth–Moon distance", "The Moon's temperature", "The Moon's mass", "The age of the Moon"],
+          "answer": 0,
+          "explain": "Distance = speed of light × time ÷ 2. We divide by two because the light travels there and back.",
+          "sourceId": "nasa-llr-keeps-giving"
+        },
+        {
+          "id": "q3",
+          "q": "What did laser ranging reveal about the Moon's orbit?",
+          "options": ["The Moon is moving away by about 3.8 cm per year", "The Moon is getting closer every year", "The orbit is a perfect circle", "The Moon has stopped rotating"],
+          "answer": 0,
+          "explain": "Tides on Earth pull the Moon forward in its orbit, so it spirals away by about 3.8 cm (1.5 in) a year.",
+          "sourceId": "nasa-llr-keeps-giving"
+        }
+      ]
+    },
+    {
+      "id": "spirit-rover",
+      "briefing": "How would you explore with less energy?",
+      "spotlightFact": 1,
+      "activity": "solar-budget",
+      "destination": "mars",
+      "order": 3,
+      "name": "Spirit Rover",
+      "mission": "Mars Exploration Rover A (MER-A)",
+      "kind": "Six-wheeled robotic geologist",
+      "teaser": "Built for 90 Martian days, Spirit explored for more than six years, and a broken wheel led to one of its biggest discoveries.",
+      "cardImage": "mer-artist-concept",
+      "status": {
+        "type": "silent",
+        "label": "Silent since 22 March 2010 · mission ended 25 May 2011",
+        "detail": "Spirit got stuck in soft soil at a spot called Troy on 1 May 2009 and became a stationary science platform. After 22 March 2010 the team could not regain contact. NASA ended recovery attempts on 25 May 2011; the most likely cause was cold that made its survival heaters ineffective.",
+        "verified": "2026-11-07",
+        "sourceIds": ["nasa-mer-spirit"]
+      },
+      "location": {
+        "site": "Gusev Crater. Landing site: Columbia Memorial Station. Final spot: Troy, beside Home Plate in the Columbia Hills",
+        "lat": -14.5692,
+        "lon": 175.4729,
+        "approximate": true,
+        "convention": "Marker shows the published landing coordinates (planetocentric, east-positive). Spirit's final spot, Troy, is in the Columbia Hills, which lie about 3 km from the landing site",
+        "sourceId": "nasa-mer-spirit"
+      },
+      "facts": [
+        { "label": "Launched", "value": "10 June 2003, Cape Canaveral, Florida", "sourceId": "nasa-mer-spirit" },
+        { "label": "Landed", "value": "3 January 2004, 20:35 PST (4 January UTC), Gusev Crater", "sourceId": "nasa-mer-spirit" },
+        { "label": "Planned mission", "value": "90 Martian days (sols)", "sourceId": "nasa-mer-spirit" },
+        { "label": "Actually worked", "value": "6 years, 2 months, 19 days: more than 25 times longer", "sourceId": "nasa-mer-spirit" },
+        { "label": "Distance driven", "value": "7.73 km (4.8 miles)", "sourceId": "nasa-mer-spirit" },
+        { "label": "Size", "value": "About as big as a golf cart; about 185 kg", "sourceId": "nasa-mer-spirit" }
+      ],
+      "timeline": [
+        { "date": "3 Jan 2004", "text": "Spirit's airbag-wrapped lander bounces 28 times, then rolls to a stop inside Gusev Crater.", "sourceId": "nasa-mer-spirit" },
+        { "date": "Early 2004", "text": "First time any spacecraft grinds into a rock on Mars (a rock called Adirondack).", "sourceId": "nasa-mer-spirit" },
+        { "date": "29 Sep 2005", "text": "Reaches the summit of Husband Hill and takes 360° panoramas.", "sourceId": "nasa-mer-spirit" },
+        { "date": "2006", "text": "A front wheel stops turning; Spirit finds signs of an ancient explosion at Home Plate.", "sourceId": "nasa-mer-spirit" },
+        { "date": "2007", "text": "The dragging wheel uncovers soil that is about 90% silica.", "sourceId": "pj-pia09491" },
+        { "date": "1 May 2009", "text": "Gets stuck in soft soil at Troy.", "sourceId": "nasa-mer-spirit" },
+        { "date": "22 Mar 2010", "text": "Last contact with Earth.", "sourceId": "nasa-mer-spirit" },
+        { "date": "25 May 2011", "text": "NASA ends recovery attempts and declares the mission complete.", "sourceId": "nasa-mer-spirit" }
+      ],
+      "viewer": {
+        "type": "model",
+        "label": "NASA 3D model (simplified)",
+        "variants": [
+          {
+            "id": "mer",
+            "label": "Mars Exploration Rover design",
+            "src": "assets/models/mer-rover.glb",
+            "note": "NASA's simplified model of Opportunity (MER-B). Spirit and Opportunity were identical twins."
+          }
+        ],
+        "poster": "assets/posters/mer-render.webp",
+        "posterAlt": "NASA render of a simplified Mars Exploration Rover: a gold box body, blue solar panels, a tall camera mast and six gray wheels.",
+        "cameraOrbit": "-35deg 68deg 85%",
+        "modelNote": "A simplified, low-detail NASA model labelled Opportunity (MER-B). Spirit was its identical twin, so the design is the same. Not every instrument is modeled, and part markers are placed by us.",
+        "description": "A boxy rover body with flat solar panels spread on top like wings. A tall mast with a camera head rises at the front, a robotic arm reaches forward, and six wheels sit on jointed legs.",
+        "modelSourceId": "nasa3d-mer-b"
+      },
+      "hotspots": [
+        {
+          "id": "mast",
+          "label": "Camera mast (Pancam & Navcam)",
+          "position": "0m 4.55m 1.2m",
+          "normal": "0m 0m 1m",
+          "orbit": "0deg 70deg 13m",
+          "what": "A tall mast carrying color panoramic cameras (Pancam) and navigation cameras, about as high as a person's eyes. The Mini-TES infrared spectrometer also looked out through it.",
+          "why": "Height lets the cameras see farther, and two cameras side by side give 3D views for planning safe drives.",
+          "science": "Pancam took the color pictures that revealed the bright silica-rich soil, and Mini-TES first hinted at its mineral makeup from a distance.",
+          "image": "spirit-silica-soil",
+          "sourceIds": ["nasa-mer-spirit", "pj-pia09491"]
+        },
+        {
+          "id": "arm",
+          "label": "Robotic arm and tools",
+          "position": "0.2m -0.4m 8.0m",
+          "orbit": "35deg 75deg 13m",
+          "what": "An arm (the instrument deployment device) holding a Mössbauer spectrometer, an alpha particle X-ray spectrometer (APXS), magnets, a microscopic imager and a rock abrasion tool (RAT).",
+          "why": "Some measurements only work when the instrument touches the rock, so the arm placed each tool directly on soil or rock.",
+          "science": "Spirit's RAT ground into a Martian rock for the first time ever. Its APXS measured the Gertrude Weise soil at about 90% silica.",
+          "sourceIds": ["nasa-mer-spirit", "pj-pia09491"]
+        },
+        {
+          "id": "solar",
+          "label": "Solar arrays",
+          "position": "-3.3m 1.15m -1.5m",
+          "normal": "0m 1m 0m",
+          "orbit": "-60deg 40deg 17m",
+          "what": "Flat panels of solar cells covering the top of the rover.",
+          "why": "Sunlight was Spirit's only power source, so dust on the panels was a constant danger.",
+          "science": "In March 2005, passing dust devils swept the panels and raised power from about 60% to 93%. By late 2008 a storm cut output to about 89 watt-hours per day, compared with about 700 normally.",
+          "sourceIds": ["nasa-mer-spirit"]
+        },
+        {
+          "id": "wheels",
+          "label": "Six wheels and suspension",
+          "position": "-3.46m -1.6m 2.2m",
+          "normal": "-1m 0m 0m",
+          "orbit": "-80deg 85deg 13m",
+          "what": "Six wheels on jointed legs (a rocker-bogie suspension) that let the rover climb over rocks while keeping all wheels on the ground.",
+          "why": "Mars has no roads. A flexible suspension let a 185 kg robot drive over rough terrain without tipping.",
+          "science": "When its right front wheel (the one marked here) stopped turning in 2006, Spirit dragged it. The scraped track exposed bright soil that was about 90% silica, strong evidence of hot springs or steam vents long ago.",
+          "image": "spirit-silica-soil",
+          "sourceIds": ["nasa-mer-spirit", "pj-pia09491"]
+        },
+        {
+          "id": "antenna",
+          "label": "Antennas",
+          "position": "1.72m 1.4m -2.55m",
+          "orbit": "145deg 60deg 14m",
+          "what": "A dish-shaped high-gain antenna and a thin low-gain antenna mast.",
+          "why": "Spirit needed to send pictures and data home and receive the next day's driving commands.",
+          "science": "Spirit talked directly to Earth and also relayed data through orbiters, first Mars Global Surveyor and then 2001 Mars Odyssey.",
+          "sourceIds": ["nasa-mer-spirit"]
+        },
+        {
+          "id": "body",
+          "label": "Body (warm electronics box)",
+          "position": "1.2m -0.4m 1.84m",
+          "normal": "0m 0m 1m",
+          "orbit": "15deg 80deg 13m",
+          "what": "The insulated box at the heart of the rover, holding the computer and batteries.",
+          "why": "Martian nights are bitterly cold, so the electronics had to be kept warm using heaters and stored energy.",
+          "science": "This was Spirit's weak point at the end: stuck at Troy with low winter sunlight, the most probable cause of the loss of contact was cold that made its survival heaters ineffective.",
+          "sourceIds": ["nasa-mer-spirit"]
+        }
+      ],
+      "howItWorked": {
+        "title": "A day in Spirit's life",
+        "steps": [
+          { "hotspot": "solar", "text": "Morning: sunlight on the solar arrays recharges the batteries." },
+          { "hotspot": "mast", "text": "Pancam and Navcam photograph the terrain so the team can plan the day's drive." },
+          { "hotspot": "wheels", "text": "Spirit drives, later on five wheels, dragging the stuck front wheel behind it." },
+          { "hotspot": "arm", "text": "The arm places tools on a rock: the RAT grinds, the spectrometers measure what it is made of." },
+          { "hotspot": "antenna", "text": "Data goes home, directly or through an orbiter overhead." },
+          { "hotspot": "body", "text": "Night: heaters protect the electronics. In 2010, winter cold at Troy finally silenced Spirit." }
+        ]
+      },
+      "story": {
+        "narrator": "Spirit",
+        "chapters": [
+          {
+            "question": "What was I built to do?",
+            "body": [
+              "I am a robot geologist. My twin Opportunity and I were sent to opposite sides of Mars to study rocks and soil and look for clues of water in the past.",
+              "I landed in Gusev Crater, a giant impact crater that might once have held a lake."
+            ],
+            "image": "mer-artist-concept",
+            "sourceIds": ["nasa-mer-twins", "nasa-mer-spirit"]
+          },
+          {
+            "question": "How did I work?",
+            "body": [
+              "Sunlight on my solar panels powered everything. My mast cameras looked around, my six wheels carried me forward, and my arm placed instruments right on the rocks.",
+              "Every day, the team on Earth studied my pictures and sent new commands."
+            ],
+            "sourceIds": ["nasa-mer-spirit"]
+          },
+          {
+            "question": "What happened during my mission?",
+            "body": [
+              "I landed on 3 January 2004, bouncing 28 times inside my airbags. I was expected to last 90 sols. Instead I climbed to the top of Husband Hill and kept going for more than six years.",
+              "In 2006 one of my front wheels stopped turning, so I drove dragging it. On 1 May 2009 I sank into soft soil at Troy and could not get out. After 22 March 2010, Earth never heard from me again."
+            ],
+            "image": "spirit-troy-panorama",
+            "sourceIds": ["nasa-mer-spirit", "pj-pia12203"]
+          },
+          {
+            "question": "What did we learn?",
+            "body": [
+              "At Home Plate I found layered rocks from an ancient explosion. My dragging wheel scraped up soil that was about 90% silica, which on Earth usually forms with water, perhaps from hot springs or steam vents.",
+              "Together, my twin and I showed that liquid water lasted on the surface of ancient Mars."
+            ],
+            "image": "spirit-silica-soil",
+            "sourceIds": ["nasa-mer-spirit", "pj-pia09491", "nasa-mer-twins"]
+          },
+          {
+            "question": "Why does it matter now?",
+            "body": [
+              "I proved that a rover can outlast its plan many times over, and that a breakdown can turn into a discovery.",
+              "The rovers that came after me keep exploring. In October 2026, Perseverance passed my twin Opportunity's record for the longest drive on another world."
+            ],
+            "sourceIds": ["nasa-mer-spirit", "nasa-mer-twins"]
+          }
+        ]
+      },
+      "quiz": [
+        {
+          "id": "q1",
+          "q": "How did Spirit's broken wheel help science?",
+          "options": ["Dragging it scraped away soil and uncovered nearly pure silica", "It drilled a hole 5 m deep", "It cleaned the solar panels", "It measured marsquakes"],
+          "answer": 0,
+          "explain": "The stuck front wheel dug a trench as Spirit dragged it, exposing bright soil that was about 90% silica, a sign that water was involved.",
+          "sourceId": "pj-pia09491"
+        },
+        {
+          "id": "q2",
+          "q": "How long was Spirit's mission planned to last?",
+          "options": ["90 Martian days", "6 years", "2 weeks", "25 years"],
+          "answer": 0,
+          "explain": "Spirit was planned for 90 sols but worked for 6 years, 2 months and 19 days, more than 25 times longer.",
+          "sourceId": "nasa-mer-spirit"
+        },
+        {
+          "id": "q3",
+          "q": "What most likely made Spirit fall silent?",
+          "options": ["Cold that made its survival heaters ineffective", "A meteorite strike", "Driving off a cliff", "Running out of rocket fuel"],
+          "answer": 0,
+          "explain": "Stuck at Troy with little winter sunlight, Spirit could not keep warm. NASA said excessive cold was the most probable cause.",
+          "sourceId": "nasa-mer-spirit"
+        }
+      ]
+    },
+    {
+      "id": "insight-lander",
+      "briefing": "How can a machine study a planet from one spot?",
+      "spotlightFact": 2,
+      "destination": "mars",
+      "order": 4,
+      "name": "InSight Lander",
+      "mission": "InSight: Interior Exploration using Seismic Investigations, Geodesy and Heat Transport",
+      "kind": "Stationary lander that studied the inside of Mars",
+      "teaser": "A lander that listened to Mars shake, recording 1,319 marsquakes, and used them to measure the planet's molten core.",
+      "cardImage": "insight-seis-shield",
+      "status": {
+        "type": "silent",
+        "label": "Silent since 15 December 2022 · mission declared over",
+        "detail": "Dust slowly covered InSight's solar panels and reduced its power. NASA declared the mission over on 21 December 2022 after two missed communication attempts; the last contact was on 15 December. NASA said it would keep listening, just in case.",
+        "verified": "2026-11-07",
+        "sourceIds": ["jpl-insight-retired"]
+      },
+      "location": {
+        "site": "Western Elysium Planitia, near Mars' equator",
+        "lat": 4.5,
+        "lon": 135.9,
+        "approximate": true,
+        "convention": "NASA gives the landing site as centered at about 4.5° N, 135.9° E (planetocentric, east-positive). The marker is placed there",
+        "sourceId": "nasa-insight"
+      },
+      "facts": [
+        { "label": "Launched", "value": "5 May 2018, Vandenberg Air Force Base, California", "sourceId": "nasa-insight" },
+        { "label": "Landed", "value": "26 November 2018, 11:52:59 a.m. PT", "sourceId": "nasa-insight" },
+        { "label": "Robotic arm", "value": "1.8 m long; based on the Mars Phoenix lander design", "sourceId": "nasa-insight" },
+        { "label": "Marsquakes detected", "value": "1,319", "sourceId": "jpl-insight-retired" },
+        { "label": "Mars' core", "value": "Molten, with a radius of about 1,830 km", "sourceId": "jpl-insight-interior" },
+        { "label": "Last contact", "value": "15 December 2022", "sourceId": "jpl-insight-retired" }
+      ],
+      "timeline": [
+        { "date": "5 May 2018", "text": "Launches from California on an Atlas V rocket.", "sourceId": "nasa-insight" },
+        { "date": "26 Nov 2018", "text": "Lands on the flat plain of Elysium Planitia.", "sourceId": "nasa-insight" },
+        { "date": "19 Dec 2018", "text": "The arm sets the seismometer on the ground, a first on another planet.", "sourceId": "jpl-insight-first-instrument" },
+        { "date": "By Apr 2019", "text": "The domed wind and thermal shield covers the seismometer.", "sourceId": "img-pia23177" },
+        { "date": "2019–2021", "text": "The heat probe's \"mole\" tries to dig, but stops just below the surface.", "sourceId": "jpl-insight-retired" },
+        { "date": "2021", "text": "Marsquake data reveal the crust, mantle and molten core.", "sourceId": "jpl-insight-interior" },
+        { "date": "24 Apr 2022", "text": "Takes its final, very dusty selfie.", "sourceId": "img-pia25287" },
+        { "date": "15 Dec 2022", "text": "Last contact. NASA declares the mission over on 21 December.", "sourceId": "jpl-insight-retired" }
+      ],
+      "viewer": {
+        "type": "model",
+        "label": "NASA 3D model",
+        "variants": [
+          {
+            "id": "arm",
+            "label": "Lander with arm raised",
+            "src": "assets/models/insight-lander.glb",
+            "note": "NASA's InSight lander model (arm deployed). It shows SEIS and the heat probe on the deck, where they traveled to Mars."
+          }
+        ],
+        "poster": "assets/posters/insight-render.webp",
+        "posterAlt": "NASA render of the InSight lander: a dark circular deck crowded with instruments, two large round solar panels, and a robotic arm reaching up.",
+        "cameraOrbit": "25deg 58deg 75%",
+        "modelNote": "NASA's InSight model shows the lander with its instruments still on the deck, as during the trip to Mars. On Mars, the arm lifted the seismometer, its shield and the heat probe onto the ground. Part markers use the model's own named parts.",
+        "description": "A round, dark lander deck on three legs, with two large twelve-sided solar panels on either side. On the deck sit a copper-colored seismometer, a gray dome-shaped shield and a black cylindrical heat probe. A long robotic arm with a camera and grapple reaches up and forward.",
+        "modelSourceId": "nasa3d-insight"
+      },
+      "hotspots": [
+        {
+          "id": "seis",
+          "label": "SEIS seismometer",
+          "position": "0.032m 0.80m 0.379m",
+          "orbit": "15deg 50deg 3m",
+          "what": "A super-sensitive seismometer that sat on the ground and felt the planet's vibrations. Wind, pressure, temperature and magnetic sensors helped it tell real quakes from weather noise.",
+          "why": "Quake waves change speed and bounce when they pass between layers, so recording them is like taking an X-ray of the planet.",
+          "science": "SEIS detected 1,319 marsquakes. Their echoes showed the crust is 20 to 37 km thick, the mantle reaches 1,560 km deep, and the core is molten with a radius of about 1,830 km.",
+          "image": "insight-deck",
+          "sourceIds": ["jpl-insight-retired", "jpl-insight-interior", "nasa-insight-instruments"]
+        },
+        {
+          "id": "shield",
+          "label": "Wind and thermal shield",
+          "position": "0.18m 0.76m -0.224m",
+          "orbit": "40deg 50deg 3m",
+          "what": "A gray dome that the arm lowered over SEIS once it was on the ground.",
+          "why": "Wind and big day-night temperature swings would shake and stretch the seismometer, hiding the faint signals of quakes.",
+          "science": "By sol 110 (April 2019) the shield was in place, letting SEIS listen quietly for more than three years.",
+          "image": "insight-seis-shield",
+          "sourceIds": ["img-pia23177", "img-pia22871"]
+        },
+        {
+          "id": "hp3",
+          "label": "HP3 heat probe (\"the mole\")",
+          "position": "-0.25m 0.95m 0.01m",
+          "orbit": "-40deg 50deg 3m",
+          "what": "A self-hammering spike, nicknamed the mole, designed to dig 5 m down trailing a cable of heat sensors. It was provided by the German Aerospace Center (DLR).",
+          "why": "Measuring heat flowing out of Mars would show how much energy is left over from the planet's formation.",
+          "science": "The soil around InSight was unexpectedly clumpy and gave the mole no grip. It buried its 40 cm probe just below the surface, still collecting useful data about Martian soil.",
+          "sourceIds": ["jpl-insight-retired", "nasa-insight-instruments"]
+        },
+        {
+          "id": "arm",
+          "label": "Robotic arm, camera and scoop",
+          "position": "-0.45m 1.5m 1.1m",
+          "orbit": "-30deg 70deg 4.5m",
+          "what": "A 1.8 m arm with a grapple, a small scoop and the Instrument Deployment Camera on its elbow.",
+          "why": "InSight could not move, so the arm was its hands: it picked up instruments from the deck and placed them on the ground.",
+          "science": "On 19 December 2018 it placed the seismometer on Mars, the first time a spacecraft did this on another planet. Later, the team sprinkled soil from the scoop onto the solar panels on windy days to sweep dust away.",
+          "image": "insight-final-selfie",
+          "sourceIds": ["nasa-insight", "jpl-insight-first-instrument", "jpl-insight-retired", "nasa-insight-science"]
+        },
+        {
+          "id": "solar",
+          "label": "Solar panels",
+          "position": "-2.0m 0.46m -0.55m",
+          "orbit": "-70deg 40deg 6m",
+          "what": "Two round, fan-like solar panels that opened after landing.",
+          "why": "Sunlight was InSight's only source of power.",
+          "science": "Dust slowly piled up on the panels. The seismometer was the last instrument left powered on, and the lander fell silent in December 2022.",
+          "image": "insight-final-selfie",
+          "sourceIds": ["jpl-insight-retired", "img-pia25287"]
+        },
+        {
+          "id": "rise",
+          "label": "RISE radio antennas",
+          "position": "0.72m 0.6m 0.26m",
+          "orbit": "60deg 60deg 3.5m",
+          "what": "Antennas for the Rotation and Interior Structure Experiment (RISE), which tracked the lander's exact position by radio.",
+          "why": "If you know precisely where the lander is, you can measure how much Mars' north pole wobbles as the Sun pulls on it.",
+          "science": "The size of the wobble depends on the size and makeup of Mars' iron-rich core, giving a second way to study it.",
+          "sourceIds": ["nasa-insight-instruments"]
+        },
+        {
+          "id": "weather",
+          "label": "Weather sensors",
+          "position": "-0.6m 0.73m 0.18m",
+          "orbit": "-60deg 60deg 3.5m",
+          "what": "Booms and inlets that measured wind, air temperature and pressure.",
+          "why": "Weather shakes the ground too. Knowing the wind and pressure helped scientists separate weather noise from real marsquakes.",
+          "science": "On 1 December 2018, InSight's sensors captured a low rumble from Martian wind blowing at about 5 to 7 meters per second.",
+          "sourceIds": ["nasa-insight", "nasa-insight-instruments"]
+        }
+      ],
+      "howItWorked": {
+        "title": "How InSight took Mars' pulse",
+        "steps": [
+          { "hotspot": "solar", "text": "26 Nov 2018: after landing, InSight opens its two round solar panels." },
+          { "hotspot": "arm", "text": "The 1.8 m arm studies the ground, then reaches for the instruments on the deck." },
+          { "hotspot": "seis", "text": "19 Dec 2018: the arm sets SEIS on the ground, a first on another planet." },
+          { "hotspot": "shield", "text": "Early 2019: the arm covers SEIS with the wind and thermal shield." },
+          { "hotspot": "hp3", "text": "2019–2021: the mole tries to hammer 5 m down, but clumpy soil stops it near the surface." },
+          { "hotspot": "rise", "text": "RISE tracks InSight's position by radio to measure Mars' wobble." },
+          { "hotspot": "seis", "text": "SEIS records 1,319 marsquakes; their echoes reveal the crust, mantle and molten core." },
+          { "hotspot": "solar", "text": "2022: dust covers the panels. Last contact: 15 December 2022." }
+        ]
+      },
+      "story": {
+        "narrator": "InSight",
+        "chapters": [
+          {
+            "question": "What was I built to do?",
+            "body": [
+              "Rovers and orbiters had studied Mars' surface for decades. I was sent to study its inside: how thick its crust is, how deep its mantle goes and how big its core is.",
+              "My landing spot, Elysium Planitia, was chosen for being flat and safe, not for its views. What mattered was underground."
+            ],
+            "sourceIds": ["nasa-insight", "jpl-insight-interior"]
+          },
+          {
+            "question": "How did I work?",
+            "body": [
+              "I could not move, so my arm did the reaching. It placed a seismometer on the ground and covered it with a dome, and it set down a heat probe that tried to hammer itself underground.",
+              "My radio let scientists track exactly where I was, to measure how Mars wobbles. My weather sensors kept track of the wind that could shake my seismometer."
+            ],
+            "image": "insight-deck",
+            "sourceIds": ["nasa-insight-instruments", "img-pia22871"]
+          },
+          {
+            "question": "What happened during my mission?",
+            "body": [
+              "I landed on 26 November 2018. Within a month my seismometer was on the ground, and then I listened. And listened. For four years I felt Mars tremble, sometimes from meteoroid impacts.",
+              "My mole never got deep. The soil was too clumpy. Meanwhile dust settled on my solar panels, and my power faded. My last contact with Earth was on 15 December 2022."
+            ],
+            "image": "insight-final-selfie",
+            "sourceIds": ["jpl-insight-first-instrument", "jpl-insight-retired"]
+          },
+          {
+            "question": "What did we learn?",
+            "body": [
+              "I recorded 1,319 marsquakes. Their waves showed that Mars' crust is thinner than expected, 20 to 37 km, and that its core is molten, with a radius of about 1,830 km.",
+              "InSight's science team noted it was the first mission beyond Earth focused on seismology since Apollo astronauts brought seismometers to the Moon."
+            ],
+            "sourceIds": ["jpl-insight-retired", "jpl-insight-interior"]
+          },
+          {
+            "question": "Why does it matter now?",
+            "body": [
+              "Knowing the inside of Mars helps scientists understand how rocky planets, including Earth, formed and changed. What my mole learned about Martian soil will help future missions that try to dig.",
+              "I even carry a small laser retroreflector, like the one Apollo 11 left on the Moon, ready for future measurements."
+            ],
+            "link": { "artifact": "apollo11-retroreflector", "label": "See Apollo 11's reflector" },
+            "sourceIds": ["nasa-insight-instruments", "jpl-insight-retired", "nasa-retroreflectors-apollo-mars"]
+          }
+        ]
+      },
+      "quiz": [
+        {
+          "id": "q1",
+          "q": "How did InSight learn what is inside Mars?",
+          "options": ["By recording marsquake waves with its seismometer", "By digging down to the core", "By photographing volcanoes", "By weighing Martian rocks"],
+          "answer": 0,
+          "explain": "Quake waves travel through the planet and change when they cross layers. SEIS recorded 1,319 marsquakes, revealing the crust, mantle and core.",
+          "sourceId": "jpl-insight-interior"
+        },
+        {
+          "id": "q2",
+          "q": "Why couldn't InSight's heat probe dig 5 meters down?",
+          "options": ["The soil was unexpectedly clumpy and gave it no grip", "It hit solid ice", "Its battery died", "The arm broke"],
+          "answer": 0,
+          "explain": "The mole was designed for loose, sandy soil. The clumpy soil around InSight left it buried only just below the surface.",
+          "sourceId": "jpl-insight-retired"
+        },
+        {
+          "id": "q3",
+          "q": "What ended InSight's mission?",
+          "options": ["Dust on its solar panels reduced its power", "A large marsquake", "A dust devil tipped it over", "It ran out of fuel while driving"],
+          "answer": 0,
+          "explain": "Dust gradually covered the panels until there was not enough power to keep talking to Earth.",
+          "sourceId": "jpl-insight-retired"
+        }
+      ]
+    }
+  ],
+  "images": {
+    "a11-eagle-on-moon": {
+      "src": "assets/img/a11-eagle-on-moon",
+      "w": 1600, "h": 1600,
+      "alt": "The lunar module Eagle on the gray lunar surface, standing on four gold-foil legs, with Buzz Aldrin at an open bay in its side.",
+      "caption": "Eagle at Tranquility Base. Aldrin prepares to unload the experiments package from the descent stage's equipment bay. Photo by Neil Armstrong.",
+      "credit": "NASA (AS11-40-5927)",
+      "sourceId": "img-as11-40-5927"
+    },
+    "a11-plaque": {
+      "src": "assets/img/a11-plaque",
+      "w": 1600, "h": 1558,
+      "alt": "A stainless-steel plaque behind ladder rungs, engraved with two hemispheres of Earth and a short message, surrounded by gold foil.",
+      "caption": "The plaque on the ladder leg of Eagle's descent stage.",
+      "credit": "NASA (AS11-40-5899)",
+      "sourceId": "img-as11-40-5899"
+    },
+    "a11-easep-deployed": {
+      "src": "assets/img/a11-easep-deployed",
+      "w": 1600, "h": 1600,
+      "alt": "Buzz Aldrin stands beside a seismometer with two solar panels; the small laser reflector, the flag and the lunar module are in the background.",
+      "caption": "Just after setup: the seismometer in front, the laser reflector beyond it, the flag in the middle and Eagle at far right. Photo by Neil Armstrong.",
+      "credit": "NASA (AS11-40-5948)",
+      "sourceId": "img-as11-40-5948"
+    },
+    "a11-aldrin-carries-easep": {
+      "src": "assets/img/a11-aldrin-carries-easep",
+      "w": 1600, "h": 1617,
+      "alt": "Black-and-white photo of Buzz Aldrin walking away across the lunar surface, carrying an instrument package in each hand.",
+      "caption": "Aldrin carries the seismometer (left hand) and the laser reflector (right hand) to their setup site.",
+      "credit": "NASA",
+      "sourceId": "msfc-6900957"
+    },
+    "a14-lrrr-closeup": {
+      "src": "assets/img/a14-lrrr-closeup",
+      "w": 1600, "h": 1600,
+      "alt": "Close-up of a rectangular reflector panel filled with rows of small round glass prisms, resting on lunar soil with bootprints nearby.",
+      "caption": "Close-up of the sister array left by Apollo 14 in February 1971. Like Apollo 11's, it holds 100 corner cubes.",
+      "credit": "NASA (AS14-67-9386)",
+      "sourceId": "img-as14-67-9386"
+    },
+    "mer-artist-concept": {
+      "src": "assets/img/mer-artist-concept",
+      "w": 1600, "h": 1280,
+      "alt": "Artist's illustration of a six-wheeled rover with a tall camera mast and wide solar panels on a rocky reddish plain.",
+      "caption": "Artist's concept of a Mars Exploration Rover. Spirit and Opportunity were identical twins.",
+      "credit": "NASA/JPL/Cornell University (PIA04413), artist's concept",
+      "sourceId": "img-pia04413"
+    },
+    "spirit-silica-soil": {
+      "src": "assets/img/spirit-silica-soil",
+      "w": 1024, "h": 1024,
+      "alt": "Reddish Martian soil with two wheel tracks; one track has churned up a bright white streak of soil.",
+      "caption": "The bright soil Spirit's dragging wheel uncovered in 2007, nicknamed Gertrude Weise. It is about 90% silica. The track is about 20 cm wide.",
+      "credit": "NASA/JPL/Cornell (PIA09491)",
+      "sourceId": "pj-pia09491"
+    },
+    "spirit-troy-panorama": {
+      "src": "assets/img/spirit-troy-panorama",
+      "w": 1600, "h": 352,
+      "alt": "Wide panorama of a dusty Martian plain and low hills, seen from where Spirit was stuck.",
+      "caption": "Spirit's view from Troy, where it became embedded in soft soil in spring 2009.",
+      "credit": "NASA/JPL-Caltech/Cornell University (PIA12203)",
+      "sourceId": "pj-pia12203"
+    },
+    "insight-final-selfie": {
+      "src": "assets/img/insight-final-selfie",
+      "w": 1600, "h": 960,
+      "alt": "Mosaic selfie of the InSight lander seen from above, its deck and two round solar panels covered in reddish dust.",
+      "caption": "InSight's final selfie, 24 April 2022 (sol 1,211). Compare the dust with its first selfie in 2018.",
+      "credit": "NASA/JPL-Caltech (PIA25287)",
+      "sourceId": "img-pia25287"
+    },
+    "insight-seis-shield": {
+      "src": "assets/img/insight-seis-shield",
+      "w": 1024, "h": 1024,
+      "alt": "A smooth gray dome sitting on reddish Martian soil, with part of the lander's arm above it.",
+      "caption": "The wind and thermal shield covering InSight's seismometer on Mars, sol 110 (April 2019).",
+      "credit": "NASA/JPL-Caltech (PIA23177)",
+      "sourceId": "img-pia23177"
+    },
+    "insight-deck": {
+      "src": "assets/img/insight-deck",
+      "w": 1024, "h": 1024,
+      "alt": "InSight's deck seen from its arm camera: a copper-colored hexagonal seismometer cover, a gray dome and a black cylindrical probe, with Martian ground beyond.",
+      "caption": "InSight's deck on sol 8 (December 2018): the seismometer (copper cover), its gray shield and the black heat probe, before the arm moved them to the ground.",
+      "credit": "NASA/JPL-Caltech (PIA22871)",
+      "sourceId": "img-pia22871"
+    }
+  },
+  "sources": {
+    "challenge-brief": { "title": "Abandoned but not Forgotten: Storytelling about NASA's Discarded Equipment on the Moon and Mars (challenge brief)", "publisher": "NASA Space Apps Challenge 2026", "url": "https://www.spaceappschallenge.org/2026/challenges/nasas-discarded-equipment-storytelling/", "kind": "brief" },
+    "nssdc-a11-lm": { "title": "Apollo 11 Lunar Module / EASEP", "publisher": "NASA Space Science Data Coordinated Archive (NSSDCA)", "url": "https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1969-059C", "kind": "fact" },
+    "nssdc-a11-lrrr": { "title": "Apollo 11 Laser Ranging Retroreflector (experiment 1969-059C-04)", "publisher": "NASA NSSDCA", "url": "https://nssdc.gsfc.nasa.gov/nmc/experiment/display.action?id=1969-059C-04", "kind": "fact" },
+    "nasa-llr-keeps-giving": { "title": "The Apollo Experiment That Keeps on Giving", "publisher": "NASA (2019)", "url": "https://www.nasa.gov/missions/apollo/apollo-11/the-apollo-experiment-that-keeps-on-giving/", "kind": "fact" },
+    "nasa-retroreflectors-apollo-mars": { "title": "Retroreflectors: From Apollo to Mars", "publisher": "NASA", "url": "https://www.nasa.gov/image-article/retroreflectors-from-apollo-mars/", "kind": "fact" },
+    "nasa-tranquility-base": { "title": "At Tranquility Base", "publisher": "NASA", "url": "https://www.nasa.gov/image-article/tranquility-base/", "kind": "fact" },
+    "nssdc-moon-facts": { "title": "Moon Fact Sheet (perigee, apogee, semimajor axis)", "publisher": "NASA NSSDCA", "url": "https://nssdc.gsfc.nasa.gov/planetary/factsheet/moonfact.html", "kind": "fact" },
+    "nist-c": { "title": "Speed of light in vacuum (exact value, 299,792,458 m/s)", "publisher": "NIST CODATA", "url": "https://physics.nist.gov/cgi-bin/cuu/Value?c", "kind": "fact" },
+    "nasa-mer-spirit": { "title": "Spirit (MER-A) mission page", "publisher": "NASA Science", "url": "https://science.nasa.gov/mission/mer-spirit/", "kind": "fact" },
+    "nasa-mer-twins": { "title": "Mars Exploration Rovers: Spirit and Opportunity", "publisher": "NASA Science", "url": "https://science.nasa.gov/mission/mars-exploration-rovers-spirit-and-opportunity/", "kind": "fact" },
+    "pj-pia09491": { "title": "PIA09491: Silica-Rich Soil Found by Spirit", "publisher": "NASA/JPL Photojournal", "url": "https://photojournal.jpl.nasa.gov/catalog/PIA09491", "kind": "image" },
+    "pj-pia12203": { "title": "PIA12203: Calypso Panorama of Spirit's View from Troy", "publisher": "NASA Image and Video Library", "url": "https://images.nasa.gov/details/PIA12203", "kind": "image" },
+    "nasa-insight": { "title": "InSight mission page", "publisher": "NASA Science", "url": "https://science.nasa.gov/mission/insight/", "kind": "fact" },
+    "nasa-insight-instruments": { "title": "InSight science instruments", "publisher": "NASA Science", "url": "https://science.nasa.gov/mission/insight/science-instruments/", "kind": "fact" },
+    "nasa-insight-science": { "title": "InSight science (Instrument Deployment Camera selfies)", "publisher": "NASA Science", "url": "https://science.nasa.gov/mission/insight/science/", "kind": "fact" },
+    "jpl-insight-retired": { "title": "NASA Retires InSight Mars Lander Mission After Years of Science (21 Dec 2022)", "publisher": "NASA Jet Propulsion Laboratory", "url": "https://www.jpl.nasa.gov/news/nasa-retires-insight-mars-lander-mission-after-years-of-science/", "kind": "fact" },
+    "jpl-insight-interior": { "title": "NASA's InSight Reveals the Deep Interior of Mars", "publisher": "NASA Jet Propulsion Laboratory", "url": "https://www.jpl.nasa.gov/news/nasas-insight-reveals-the-deep-interior-of-mars/", "kind": "fact" },
+    "jpl-insight-first-instrument": { "title": "NASA's InSight Places First Instrument on Mars (19 Dec 2018)", "publisher": "NASA Jet Propulsion Laboratory", "url": "https://www.jpl.nasa.gov/news/nasas-insight-places-first-instrument-on-mars/", "kind": "fact" },
+    "img-as11-40-5927": { "title": "AS11-40-5927: View of Apollo 11 Lunar Module as it rested on lunar surface", "publisher": "NASA Image and Video Library", "url": "https://images.nasa.gov/details/as11-40-5927", "kind": "image" },
+    "img-as11-40-5899": { "title": "AS11-40-5899: View of plaque Apollo 11 astronauts left on moon", "publisher": "NASA Image and Video Library", "url": "https://images.nasa.gov/details/as11-40-5899", "kind": "image" },
+    "img-s69-39334": { "title": "S69-39334: Plaque which Apollo 11 astronauts will leave on the moon (size and mounting)", "publisher": "NASA Image and Video Library", "url": "https://images.nasa.gov/details/S69-39334", "kind": "image" },
+    "img-as11-40-5948": { "title": "AS11-40-5948: Aldrin after deployment of EASEP on surface of moon", "publisher": "NASA Image and Video Library", "url": "https://images.nasa.gov/details/as11-40-5948", "kind": "image" },
+    "img-as11-40-5951": { "title": "AS11-40-5951: Aldrin deploys the Passive Seismic Experiment Package", "publisher": "NASA Image and Video Library", "url": "https://images.nasa.gov/details/as11-40-5951", "kind": "image" },
+    "msfc-6900957": { "title": "6900957: Aldrin carrying the Early Apollo Scientific Experiment Package", "publisher": "NASA Image and Video Library (Marshall Space Flight Center)", "url": "https://images.nasa.gov/details/6900957", "kind": "image" },
+    "img-as14-67-9386": { "title": "AS14-67-9386: Laser Ranging Retro Reflector deployed by Apollo 14", "publisher": "NASA Image and Video Library", "url": "https://images.nasa.gov/details/as14-67-09386", "kind": "image" },
+    "img-pia04413": { "title": "PIA04413: Artist Concept of Rover on Mars", "publisher": "NASA Image and Video Library", "url": "https://images.nasa.gov/details/PIA04413", "kind": "image" },
+    "img-pia25287": { "title": "PIA25287: InSight's Final Selfie", "publisher": "NASA Image and Video Library", "url": "https://images.nasa.gov/details/PIA25287", "kind": "image" },
+    "img-pia23177": { "title": "PIA23177: InSight's Seismometer on the Martian Surface", "publisher": "NASA Image and Video Library", "url": "https://images.nasa.gov/details/PIA23177", "kind": "image" },
+    "img-pia22871": { "title": "PIA22871: Full View of InSight's Deck and Two Science Instruments", "publisher": "NASA Image and Video Library", "url": "https://images.nasa.gov/details/PIA22871", "kind": "image" },
+    "nasa3d-lm": { "title": "Apollo Lunar Module (3D model, GLB)", "publisher": "NASA 3D Resources", "url": "https://github.com/nasa/NASA-3D-Resources/tree/master/3D%20Models/Apollo%20Lunar%20Module", "kind": "model" },
+    "nasa3d-mer-b": { "title": "Mars Exploration Rover – Opportunity (MER-B) (3D model, GLB)", "publisher": "NASA 3D Resources", "url": "https://science.nasa.gov/3d-resources/mars-exploration-rover-opportunity-mer-b/", "kind": "model" },
+    "nasa3d-insight": { "title": "InSight Cruise Lander, arm deployed (3D model, GLB)", "publisher": "NASA 3D Resources", "url": "https://science.nasa.gov/3d-resources/insight-cruise-lander/", "kind": "model" },
+    "nasa3d-mars-texture": { "title": "Mars (global texture map)", "publisher": "NASA 3D Resources (NASA/JPL-Caltech; Viking images processed at USGS)", "url": "https://science.nasa.gov/3d-resources/mars/", "kind": "image" },
+    "svs-cgi-moon-kit": { "title": "CGI Moon Kit (lroc_color_2k.jpg)", "publisher": "NASA's Scientific Visualization Studio", "url": "https://svs.gsfc.nasa.gov/4720/", "kind": "image" },
+    "nasa-media-guidelines": { "title": "NASA Images and Media Usage Guidelines", "publisher": "NASA", "url": "https://www.nasa.gov/nasa-brand-center/images-and-media/", "kind": "terms" }
+  }
+}

@@ -1,0 +1,52 @@
+Source ID: nssdc-a11-lrrr
+Title: Apollo 11 Laser Ranging Retroreflector (experiment 1969-059C-04)
+Publisher: NASA NSSDCA
+URL: https://nssdc.gsfc.nasa.gov/nmc/experiment/display.action?id=1969-059C-04
+Fetched from: https://nssdc.gsfc.nasa.gov/nmc/experiment/display.action?id=1969-059C-04
+Retrieved: 2026-11-07 01:50 UTC (HTTP 200)
+Note: plain-text extract of the public page, kept as evidence for facts.csv. NASA web content is generally not subject to U.S. copyright; see the original page for images and context.
+------------------------------------------------------------------------------
+NASA - NSSDCA - Experiment - Details
+Friday, 06 November 2026
+Laser Ranging Retroreflector
+NSSDCA ID: 1969-059C-04
+Mission Name: Apollo 11 Lunar Module / EASEP
+Principal Investigator: Dr. Carroll O. Alley
+Description
+The laser ranging retroreflector (LRRR), which was left on the lunar surface by the Apollo 11 crew, was a retroreflector array with a folding support structure for aiming and aligning the array toward earth. The array was built of cubes of fused silica. Laser ranging beams from earth were reflected back to their point of origin for precise measurement of earth-moon distance, motion of the moon's center of mass, lunar radius, and earth geophysical information.
+Alternate Names
+Apollo11EASEP/LaserRangingRetroreflector
+S078
+Facts in Brief
+Mass: 77 kg
+Funding Agency
+NASA-Office of Space and Terrestrial Applications (United States)
+Discipline
+Planetary Science: Celestial Mechanics
+Additional Information
+Apollo 11 Lunar Module / EASEP
+Data collections from this experiment
+Questions and comments about this experiment can be directed to:
+Coordinated Request and User Support Office
+Personnel
+Name Role Original Affiliation E-mail
+Dr. Carroll O. Alley Principal Investigator University of Maryland coa@kelvin.umd.edu
+Selected References
+Alley, C. O., et al. , Laser Ranging Retroreflector,
+in Apollo 11 Prelim. Sci. Rept. , NASA SP-214, Wash., DC, 1969.
+Related Information
+Lunar Ranging at McDonald Observatory
+McDonald Laser Ranging Station (University of Texas)
+Current Lunar Laser Ranging Data Sets
+NSSDCA Master Catalog Search
+Spacecraft
+Experiments
+Data Collections
+Publications
+Maps
+New/Updated Data
+Lunar/Planetary Events
++ Privacy Policy and Important Notices
+NASA Official: Thomas H. Morgan
+Curator: T. R. Holden
+Version 5.3.0, 16 October 2026

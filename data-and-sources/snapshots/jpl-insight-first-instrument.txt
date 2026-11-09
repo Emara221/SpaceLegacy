@@ -1,0 +1,218 @@
+Source ID: jpl-insight-first-instrument
+Title: NASA's InSight Places First Instrument on Mars (19 Dec 2018)
+Publisher: NASA Jet Propulsion Laboratory
+URL: https://www.jpl.nasa.gov/news/nasas-insight-places-first-instrument-on-mars/
+Fetched from: https://www.jpl.nasa.gov/news/nasas-insight-places-first-instrument-on-mars/
+Retrieved: 2026-11-07 01:50 UTC (HTTP 200)
+Note: plain-text extract of the public page, kept as evidence for facts.csv. NASA web content is generally not subject to U.S. copyright; see the original page for images and context.
+------------------------------------------------------------------------------
+NASA's InSight Places First Instrument on Mars | NASA Jet Propulsion Laboratory (JPL) Skip to main content
+JPL
+Careers
+Education
+Science & Technology
+About JPL
+Missions
+News
+Galleries
+Events
+Visit
+Topics
+Solar System
+. 4 min read
+NASA's InSight Places First Instrument on Mars
+Jet Propulsion Laboratory https://www.jpl.nasa.gov/ Dec. 19, 2018
+NASA's InSight lander placed its seismometer on Mars on Dec. 19, 2018. This was the first time a spacecraft robotically placed a seismometer onto the surface of another planet. › Full image and caption
+Credit: NASA/JPL-Caltech
+In deploying its first instrument onto the surface of Mars, the lander completes a major mission milestone.
+NASA's InSight
+lander has deployed its first instrument onto the surface of Mars, completing a
+major mission milestone. New images from the lander show the seismometer on the
+ground, its copper-colored covering faintly illuminated in the Martian dusk. It
+looks as if all is calm and all is bright for InSight, heading into the end of
+the year.
+This set of images from the Instrument Deployment Camera shows NASA's InSight lander placing its first instrument onto
+the surface of Mars, completing a major mission milestone. Credit: NASA/JPL-Caltech
+Larger view
+"InSight's
+timetable of activities on Mars has gone better than we hoped," said InSight
+Project Manager Tom Hoffman, who is based at NASA's Jet Propulsion Laboratory
+in Pasadena, California. "Getting the seismometer safely on the ground is
+an awesome Christmas present."
+A fish-eye view of NASA's InSight lander deploying its first instrument onto the surface of Mars, taken by the spacecraft's
+Instrument Context Camera (ICC) on Dec. 19, 2018. Image Credit: NASA/JPL-Caltech
+The InSight
+team has been working carefully toward deploying its two dedicated science
+instruments onto Martian soil since landing on Mars on Nov. 26. Meanwhile, the
+Rotation and Interior Structure Experiment ( RISE ),
+which does not have its own separate instrument, has already begun using
+InSight's radio connection with Earth to collect preliminary data on the
+planet's core. Not enough time has elapsed for scientists to deduce what they
+want to know - scientists estimate they might have some results starting in about
+a year.
+To deploy the
+seismometer (also known as the Seismic Experiment for Interior Structure, or SEIS )
+and the heat probe (also known as the Heat Flow and Physical Properties Probe,
+or HP 3 ),
+engineers first had to verify the robotic arm that picks up and places InSight's
+instruments onto the Martian surface was working properly. Engineers tested the
+commands for the lander, making sure a model in the test bed at JPL
+deployed the instruments exactly as intended. Scientists also had to analyze
+images of the Martian terrain around the lander to figure out the best places
+to deploy the instruments.
+On Tuesday, Dec.
+18, InSight engineers sent up the commands to the spacecraft. On Wednesday,
+Dec. 19, the seismometer was gently placed onto the ground directly in front of
+the lander, about as far away as the arm can reach - 5.367 feet, or 1.636
+meters, away).
+"Seismometer
+deployment is as important as landing InSight on Mars," said InSight
+Principal Investigator Bruce Banerdt, also based at JPL. "The seismometer
+is the highest-priority instrument on InSight: We need it in order to complete about
+three-quarters of our science objectives."
+The seismometer
+allows scientists to peer into the Martian interior by studying ground motion -
+also known as marsquakes. Each marsquake acts as a kind of flashbulb that illuminates
+the structure of the planet's interior. By analyzing how seismic waves pass
+through the layers of the planet, scientists can deduce the depth and
+composition of these layers.
+"Having
+the seismometer on the ground is like holding a phone up to your ear,"
+said Philippe Lognonné, principal investigator of SEIS from Institut de
+Physique du Globe de Paris (IPGP) and Paris Diderot University. "We're
+thrilled that we're now in the best position to listen to all the seismic waves
+from below Mars' surface and from its deep interior."
+In the coming
+days, the InSight team will work on leveling the seismometer, which is sitting
+on ground that is tilted 2 to 3 degrees. The first seismometer science data should
+begin to flow back to Earth after the seismometer is in the right position.
+But engineers
+and scientists at JPL, the French national space agency Centre National d'Études
+Spatiales (CNES) and other institutions affiliated with the SEIS team will need
+several additional weeks to make sure the returned data are as clear as
+possible. For one thing, they will check and possibly adjust the seismometer's
+long, wire-lined tether to minimize noise that could travel along it to the
+seismometer. Then, in early January, engineers expect to command the robotic
+arm to place the Wind and Thermal Shield over the seismometer to stabilize the
+environment around the sensors.
+Assuming that
+there are no unexpected issues, the InSight team plans to deploy the heat probe
+onto the Martian surface by late January. HP 3 will be on the east
+side of the lander's work space, roughly the same distance away from the lander
+as the seismometer.
+For now, though,
+the team is focusing on getting those first bits of seismic data (however
+noisy) back from the Martian surface.
+"We look
+forward to popping some Champagne when we start to get data from InSight's seismometer
+on the ground," Banerdt added. "I have a bottle ready for the
+occasion."
+JPL manages
+InSight for NASA's Science Mission Directorate in Washington. InSight is part
+of NASA's Discovery Program, which is managed by NASA's Marshall Space Flight
+Center in Huntsville, Alabama. Lockheed Martin Space in Denver built the
+InSight spacecraft, including its cruise stage and lander, and supports
+spacecraft operations for the mission.
+A number of
+European partners, including CNES and the German Aerospace Center (DLR),
+support the InSight mission. CNES provided SEIS to NASA, with the principal
+investigator at IPGP. Significant contributions for SEIS came from IPGP, the
+Max Planck Institute for Solar System Research in Germany, the Swiss Institute
+of Technology in Switzerland, Imperial College and Oxford University in the
+United Kingdom, and JPL. DLR provided the Heat Flow and Physical Properties
+Package (HP 3 ) instrument, with significant contributions from the
+Space Research Center of the Polish Academy of Sciences and Astronika in
+Poland. Spain's Centro de Astrobiología supplied the wind sensors.
+For more
+information about InSight, visit:
+https://mars.nasa.gov/insight
+http://mars.nasa.gov
+Media Contacts
+Jia-Rui Cook / Andrew Good
+Jet Propulsion Laboratory, Pasadena, Calif.
+818-354-5011
+jccook@jpl.nasa.gov / andrew.c.good@jpl.nasa.gov
+2018-293
+Related News
+Mars .
+NASA-funded Study Details One of Oldest Mars Meteorites Ever Found
+Solar System .
+NASA’s Voyager 1 Conserves Power, Resolves Brief Communications Pause
+NASA’s Perseverance Offers Clues to Protect Crews from Mars Dust
+Asteroids and Comets .
+Pedal to the Metal: NASA’s Psyche Heads Toward Asteroid Belt
+NASA’s Perseverance Sets Off-World Record for Total Distance Driven
+NASA’s Curiosity Rover Catches Stunning Martian Dawn
+NASA Discovery Reveals Complex Water Systems on Early Mars
+NASA Tests Featherweight Radar Antenna for SkyFall Mars Helicopters
+NASA’s Perseverance Rover Watches Earth Vanish Behind Martian Moon
+NASA Engineers Help Prolong Voyager 2’s Science Mission
+Who We Are
+Directors
+Internships
+The JPL Story
+JPL Achievements
+Documentary Series
+JPL Annual Report
+Executive Council
+Current
+Past
+Future
+All
+Earth
+Stars and Galaxies
+Eyes on the News
+Subscribe to JPL News
+Images
+Videos
+Audio
+Podcasts
+Apps
+Visions of the Future
+Slice of History
+Robotics at JPL
+Lecture Series
+Speakers Bureau
+Calendar
+Explore JPL
+Public Tours
+Virtual Tour
+Directions and Maps
+JPL Life
+Mars
+Climate Change
+Exoplanets
+Robotics
+More
+Asteroid Watch
+NASA's Eyes Visualizations
+Universe - Internal Newsletter
+Social Media
+Accessibility at NASA
+Contact Us
+Get the Latest from JPL
+Follow Us
+JPL is a federally funded research and development center managed for NASA by Caltech.
+More from JPL
+Acquisition
+JPL Store
+Related NASA Sites
+Basics of Spaceflight
+NASA Kids Science - Earth
+Earth / Global Climate Change
+Exoplanet Exploration
+Mars Exploration
+Solar System Exploration
+Space Place
+NASA's Eyes Visualization Project
+Voyager Interstellar Mission
+NASA
+Caltech
+Privacy
+Image Policy
+FAQ
+Feedback
+Version: v3.2.0 - 38db01a
+Site Managers: Emilee Richardson, Alicia Cermak
+Site Editors: Steve Carney
+CL#: 21-0018

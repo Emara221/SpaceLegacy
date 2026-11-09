@@ -1,0 +1,14 @@
+Source ID: img-pia22871
+Title: PIA22871: Full View of InSight's Deck and Two Science Instruments
+Publisher: NASA Image and Video Library
+URL: https://images.nasa.gov/details/PIA22871
+Fetched from: https://images-api.nasa.gov/search?nasa_id=PIA22871
+Retrieved: 2026-11-07 01:50 UTC (HTTP 200)
+Note: plain-text extract of the public page, kept as evidence for facts.csv. NASA web content is generally not subject to U.S. copyright; see the original page for images and context.
+------------------------------------------------------------------------------
+nasa_id: PIA22871
+title: Full View of InSight's Deck and Two Science Instruments
+date_created: 2018-12-06T00:00:00Z
+center: JPL
+secondary_creator: NASA/JPL-Caltech
+description: This image from InSight's robotic-arm mounted Instrument Deployment Camera shows the instruments on the spacecraft's deck, with the Martian surface of Elysium Planitia in the background.  The color-calibrated picture was acquired on Dec. 4, 2018 (Sol 8). In the foreground, a copper-colored hexagonal cover protects the Seismic Experiment for Interior Structure instrument (SEIS), a seismometer that will measure marsquakes. The gray dome behind SEIS is the wind and thermal shield, which will be placed over SEIS. To the left is a black cylindrical instrument, the Heat Flow and Physical Properties Probe (HP3). HP3 will drill up to 16 feet (5 meters) below the Martian surface, measuring heat released from the interior of the planet. Above the deck is InSight's robotic arm, with the stowed grapple directly facing the camera.  To the right can be seen a small portion of one of the two solar panels that help power InSight and part of the UHF communication antenna.  https://photojournal.jpl.nasa.gov/catalog/PIA22871

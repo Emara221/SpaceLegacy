@@ -1,0 +1,14 @@
+Source ID: pj-pia12203
+Title: PIA12203: Calypso Panorama of Spirit's View from Troy
+Publisher: NASA Image and Video Library
+URL: https://images.nasa.gov/details/PIA12203
+Fetched from: https://images-api.nasa.gov/search?nasa_id=PIA12203
+Retrieved: 2026-11-07 01:50 UTC (HTTP 200)
+Note: plain-text extract of the public page, kept as evidence for facts.csv. NASA web content is generally not subject to U.S. copyright; see the original page for images and context.
+------------------------------------------------------------------------------
+nasa_id: PIA12203
+title: Calypso Panorama of Spirit View from Troy
+date_created: 2009-08-26T16:02:28Z
+center: JPL
+secondary_creator: NASA/JPL-Caltech/Cornell University
+description: This full-circle,stereo view from the panoramic camera Pancam on NASA Mars Exploration Rover Spirit shows the terrain surrounding the location called Troy, where Spirit became embedded in soft soil during the spring of 2009.

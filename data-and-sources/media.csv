@@ -1,0 +1,18 @@
+file,kind,credit,caption,source_id
+assets/img/a11-eagle-on-moon-800.webp / -1600.webp,photo,NASA (AS11-40-5927),Eagle at Tranquility Base. Aldrin prepares to unload the experiments package from the descent stage's equipment bay. Photo by Neil Armstrong.,img-as11-40-5927
+assets/img/a11-plaque-800.webp / -1600.webp,photo,NASA (AS11-40-5899),The plaque on the ladder leg of Eagle's descent stage.,img-as11-40-5899
+assets/img/a11-easep-deployed-800.webp / -1600.webp,photo,NASA (AS11-40-5948),"Just after setup: the seismometer in front, the laser reflector beyond it, the flag in the middle and Eagle at far right. Photo by Neil Armstrong.",img-as11-40-5948
+assets/img/a11-aldrin-carries-easep-800.webp / -1600.webp,photo,NASA,Aldrin carries the seismometer (left hand) and the laser reflector (right hand) to their setup site.,msfc-6900957
+assets/img/a14-lrrr-closeup-800.webp / -1600.webp,photo,NASA (AS14-67-9386),"Close-up of the sister array left by Apollo 14 in February 1971. Like Apollo 11's, it holds 100 corner cubes.",img-as14-67-9386
+assets/img/mer-artist-concept-800.webp / -1600.webp,photo,"NASA/JPL/Cornell University (PIA04413), artist's concept",Artist's concept of a Mars Exploration Rover. Spirit and Opportunity were identical twins.,img-pia04413
+assets/img/spirit-silica-soil-800.webp / -1600.webp,photo,NASA/JPL/Cornell (PIA09491),"The bright soil Spirit's dragging wheel uncovered in 2007, nicknamed Gertrude Weise. It is about 90% silica. The track is about 20 cm wide.",pj-pia09491
+assets/img/spirit-troy-panorama-800.webp / -1600.webp,photo,NASA/JPL-Caltech/Cornell University (PIA12203),"Spirit's view from Troy, where it became embedded in soft soil in spring 2009.",pj-pia12203
+assets/img/insight-final-selfie-800.webp / -1600.webp,photo,NASA/JPL-Caltech (PIA25287),"InSight's final selfie, 24 April 2022 (sol 1,211). Compare the dust with its first selfie in 2018.",img-pia25287
+assets/img/insight-seis-shield-800.webp / -1600.webp,photo,NASA/JPL-Caltech (PIA23177),"The wind and thermal shield covering InSight's seismometer on Mars, sol 110 (April 2019).",img-pia23177
+assets/img/insight-deck-800.webp / -1600.webp,photo,NASA/JPL-Caltech (PIA22871),"InSight's deck on sol 8 (December 2018): the seismometer (copper cover), its gray shield and the black heat probe, before the arm moved them to the ground.",img-pia22871
+assets/models/apollo-lm-descent-stage.glb,3D model (GLB),NASA 3D Resources,Descent stage only. We made this version by deleting the ascent stage from NASA's model; nothing was added or reshaped.,nasa3d-lm
+assets/models/apollo-lm-full.glb,3D model (GLB),NASA 3D Resources,"NASA's complete Apollo Lunar Module model, both stages.",nasa3d-lm
+assets/models/mer-rover.glb,3D model (GLB),NASA 3D Resources,NASA's simplified model of Opportunity (MER-B). Spirit and Opportunity were identical twins.,nasa3d-mer-b
+assets/models/insight-lander.glb,3D model (GLB),NASA 3D Resources,"NASA's InSight lander model (arm deployed). It shows SEIS and the heat probe on the deck, where they traveled to Mars.",nasa3d-insight
+assets/maps/moon-lroc-color.webp,map,"NASA's Scientific Visualization Studio (CGI Moon Kit, LROC WAC color mosaic)",Equirectangular projection centered on 0° longitude. Marker positions come from published coordinates.,svs-cgi-moon-kit
+assets/maps/mars-viking-0-360.webp,map,NASA/JPL-Caltech; Viking images processed at the USGS (NASA 3D Resources Mars texture),"Equirectangular projection, re-centered on 180° E for this site (0° E at the left edge). Marker positions come from published coordinates.",nasa3d-mars-texture

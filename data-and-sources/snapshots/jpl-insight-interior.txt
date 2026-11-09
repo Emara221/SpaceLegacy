@@ -1,0 +1,148 @@
+Source ID: jpl-insight-interior
+Title: NASA's InSight Reveals the Deep Interior of Mars
+Publisher: NASA Jet Propulsion Laboratory
+URL: https://www.jpl.nasa.gov/news/nasas-insight-reveals-the-deep-interior-of-mars/
+Fetched from: https://www.jpl.nasa.gov/news/nasas-insight-reveals-the-deep-interior-of-mars/
+Retrieved: 2026-11-07 01:50 UTC (HTTP 200)
+Note: plain-text extract of the public page, kept as evidence for facts.csv. NASA web content is generally not subject to U.S. copyright; see the original page for images and context.
+------------------------------------------------------------------------------
+NASA’s InSight Reveals the Deep Interior of Mars | NASA Jet Propulsion Laboratory (JPL) Skip to main content
+JPL
+Careers
+Education
+Science & Technology
+About JPL
+Missions
+News
+Galleries
+Events
+Visit
+Topics
+Solar System
+. 6 min read
+NASA’s InSight Reveals the Deep Interior of Mars
+Jet Propulsion Laboratory https://www.jpl.nasa.gov/ July 22, 2021
+Clouds drift over the dome-covered seismometer, known as SEIS, belonging to NASA's InSight lander, on Mars. › Full image and caption
+Credit: NASA/JPL-Caltech
+Three papers published today share new details on the crust, mantle, and molten core of the Red Planet.
+Before NASA’s InSight spacecraft touched down on Mars in 2018, the rovers and orbiters studying the Red Planet concentrated on its surface. The stationary lander’s seismometer has changed that, revealing details about the planet’s deep interior for the first time.
+Three papers based on the seismometer’s data were published today in Science, providing details on the depth and composition of Mars’ crust, mantle, and core, including confirmation that the planet’s center is molten. Earth’s outer core is molten, while its inner core is solid; scientists will continue to use InSight’s data to determine whether the same holds true for Mars.
+“When we first started putting together the concept of the mission more than a decade ago, the information in these papers is what we hoped to get at the end,” said InSight’s principal investigator Bruce Banerdt of NASA’s Jet Propulsion Laboratory in Southern California, which leads the mission. “This represents the culmination of all the work and worry over the past decade.”
+Get the Latest JPL News
+SUBSCRIBE TO THE NEWSLETTER
+InSight’s seismometer, called the Seismic Experiment for Interior Structure (SEIS), has recorded 733 distinct marsquakes. About 35 of those – all between magnitudes 3.0 and 4.0 – provided the data for the three papers. The ultrasensitive seismometer enables scientists to “hear” seismic events from hundreds to thousands of miles away.
+Peering Into Mars
+Seismic waves vary in speed and shape when traveling through different materials inside a planet. Those variations on Mars have given seismologists a way to study the planet’s inner structure. In turn, what the scientists learn about Mars can help improve the understanding of how all rocky planets – including Earth – formed.
+Like Earth, Mars heated up as it formed from the dust and larger clumps of meteoritic material orbiting the Sun that helped to shape our early solar system. Over the first tens of millions of years, the planet separated into three distinct layers – the crust, mantle, and core – in a process called differentiation. Part of InSight’s mission was to measure the depth, size, and structure of these three layers.
+Journey to the Center of Mars With the InSight Lander Team
+Join InSight scientists discussing their findings July 23 at 9 a.m. PDT (12 p.m. EDT).
+Learn more
+Each of the papers in Science focuses on a different layer. The scientists found the crust was thinner than expected and may have two or even three sub-layers. It goes as deep as 12 miles (20 kilometers) if there are two sub-layers, or 23 miles (37 kilometers) if there are three.
+Beneath that is the mantle, which extends 969 miles (1,560 kilometers) below the surface.
+At the heart of Mars is the core, which has a radius of 1,137 miles (1,830 kilometers). Confirming the size of the molten core was especially exciting for the team. “This study is a once-in-a-lifetime chance,” said Simon Stähler of the Swiss research university ETH Zurich, lead author of the core paper. “It took scientists hundreds of years to measure Earth’s core; after the Apollo missions, it took them 40 years to measure the Moon’s core. InSight took just two years to measure Mars’ core.”
+NASA’s InSight lander detected a marsquake, represented here as a seismogram, on July 25, 2019, the 235th Martian day, or sol, of its mission. Seismologists study the wiggles in seismograms in order to confirm whether they’re really seeing a quake or noise caused by wind.
+Hunting for Wiggles
+The earthquakes most people feel come from faults caused by tectonic plates shifting. Unlike Earth, Mars has no tectonic plates; its crust is instead like one giant plate. But faults, or rock fractures, still form in the Martian crust due to stresses caused by the slight shrinking of the planet as it continues to cool.
+InSight scientists spend much of their time searching for bursts of vibration in seismograms, where the tiniest wiggle on a line can represent a quake or, for that matter, noise created by wind. If seismogram wiggles follow certain known patterns (and if the wind is not gusting at the same time), there’s a chance they could be a quake.
+The initial wiggles are primary, or P, waves, which are followed by secondary, or S, waves. These waves can also show up again later in the seismogram after reflecting off layers inside the planet.
+“What we’re looking for is an echo,” said Amir Khan of ETH Zurich, lead author of the paper on the mantle. “We’re detecting a direct sound – the quake – and then listening for an echo off a reflector deep underground.”
+These echoes can even help scientists find changes within a single layer, like the sub-layers within the crust.
+“Layering within the crust is something we see all the time on Earth,” said Brigitte Knapmeyer-Endrun of the University of Cologne, lead author on the paper about the crust. “A seismogram’s wiggles can reveal properties like a change in porosity or a more fractured layer.”
+One surprise is that all of InSight’s most significant quakes appear to have come from one area, Cerberus Fossae , a region volcanically active enough that lava may have flowed there within the last few million years. Orbiting spacecraft have spotted the tracks of boulders that may have rolled down steep slopes after being shaken loose by marsquakes.
+Curiously, no quakes have been detected from more prominent volcanic regions, like Tharsis, home to three of the biggest volcanoes on Mars. But it’s possible many quakes – including larger ones – are occurring that InSight can’t detect. That’s because of shadow zones caused by the core refracting seismic waves away from certain areas, preventing a quake’s echo from reaching InSight.
+Waiting for the Big One
+These results are only the beginning. Scientists now have hard data to refine their models of Mars and its formation, and SEIS detects new marsquakes every day. While InSight’s energy level is being managed , its seismometer is still listening and scientists are hopeful they’ll detect a quake bigger than 4.0.
+“We’d still love to see the big one,” said JPL’s Mark Panning, co-lead author of the paper on the crust. “We have to do lots of careful processing to pull the things we want from this data. Having a bigger event would make all of this easier.”
+Panning and other InSight scientists will share their findings at 9 a.m. PDT (12 p.m. EDT) on July 23 in a livestreamed discussion on NASA Television , the NASA app , the agency’s website , and multiple agency social media platforms, including the JPL YouTube and Facebook channels.
+More About the Mission
+JPL manages InSight for NASA’s Science Mission Directorate. InSight is part of NASA’s Discovery Program, managed by the agency’s Marshall Space Flight Center in Huntsville, Alabama. Lockheed Martin Space in Denver built the InSight spacecraft, including its cruise stage and lander, and supports spacecraft operations for the mission.
+A number of European partners, including France’s Centre National d’Études Spatiales (CNES) and the German Aerospace Center (DLR), are supporting the InSight mission. CNES provided the Seismic Experiment for Interior Structure (SEIS) instrument to NASA, with the principal investigator at IPGP (Institut de Physique du Globe de Paris). Significant contributions for SEIS came from IPGP; the Max Planck Institute for Solar System Research (MPS) in Germany; the Swiss Federal Institute of Technology (ETH Zurich) in Switzerland; Imperial College London and Oxford University in the United Kingdom; and JPL. DLR provided the Heat Flow and Physical Properties Package ( HP3 ) instrument, with significant contributions from the Space Research Center (CBK) of the Polish Academy of Sciences and Astronika in Poland. Spain’s Centro de Astrobiología (CAB) supplied the temperature and wind sensors.
+Media Contacts
+Andrew Good
+Jet Propulsion Laboratory, Pasadena, Calif.
+818-393-2433
+andrew.c.good@jpl.nasa.gov
+2021-154
+Related News
+Mars .
+NASA-funded Study Details One of Oldest Mars Meteorites Ever Found
+Solar System .
+NASA’s Voyager 1 Conserves Power, Resolves Brief Communications Pause
+NASA’s Perseverance Offers Clues to Protect Crews from Mars Dust
+Asteroids and Comets .
+Pedal to the Metal: NASA’s Psyche Heads Toward Asteroid Belt
+NASA’s Perseverance Sets Off-World Record for Total Distance Driven
+NASA’s Curiosity Rover Catches Stunning Martian Dawn
+NASA Discovery Reveals Complex Water Systems on Early Mars
+NASA Tests Featherweight Radar Antenna for SkyFall Mars Helicopters
+NASA’s Perseverance Rover Watches Earth Vanish Behind Martian Moon
+NASA Engineers Help Prolong Voyager 2’s Science Mission
+Who We Are
+Directors
+Internships
+The JPL Story
+JPL Achievements
+Documentary Series
+JPL Annual Report
+Executive Council
+Current
+Past
+Future
+All
+Earth
+Stars and Galaxies
+Eyes on the News
+Subscribe to JPL News
+Images
+Videos
+Audio
+Podcasts
+Apps
+Visions of the Future
+Slice of History
+Robotics at JPL
+Lecture Series
+Speakers Bureau
+Calendar
+Explore JPL
+Public Tours
+Virtual Tour
+Directions and Maps
+JPL Life
+Mars
+Climate Change
+Exoplanets
+Robotics
+More
+Asteroid Watch
+NASA's Eyes Visualizations
+Universe - Internal Newsletter
+Social Media
+Accessibility at NASA
+Contact Us
+Get the Latest from JPL
+Follow Us
+JPL is a federally funded research and development center managed for NASA by Caltech.
+More from JPL
+Acquisition
+JPL Store
+Related NASA Sites
+Basics of Spaceflight
+NASA Kids Science - Earth
+Earth / Global Climate Change
+Exoplanet Exploration
+Mars Exploration
+Solar System Exploration
+Space Place
+NASA's Eyes Visualization Project
+Voyager Interstellar Mission
+NASA
+Caltech
+Privacy
+Image Policy
+FAQ
+Feedback
+Version: v3.2.0 - 38db01a
+Site Managers: Emilee Richardson, Alicia Cermak
+Site Editors: Steve Carney
+CL#: 21-0018

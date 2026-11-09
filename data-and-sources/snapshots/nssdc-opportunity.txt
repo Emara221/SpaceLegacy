@@ -1,0 +1,100 @@
+Source ID: nssdc-opportunity
+Title: Opportunity, Mars Exploration Rover B (2003-032A)
+Publisher: NASA Space Science Data Coordinated Archive (NSSDCA)
+URL: https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=2003-032A
+Fetched from: https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=2003-032A
+Retrieved: 2026-11-07 01:50 UTC (HTTP 200)
+Note: plain-text extract of the public page, kept as evidence for facts.csv. NASA web content is generally not subject to U.S. copyright; see the original page for images and context.
+------------------------------------------------------------------------------
+NASA - NSSDCA - Spacecraft - Details
+Friday, 06 November 2026
+Opportunity
+NSSDCA/COSPAR ID: 2003-032A
+Description
+"Opportunity" (Mars Exploration Rover B or MER-1) is one of two rovers launched to Mars in mid-2003. The rovers arrived at Mars in January of 2004 equipped with a battery of scientific instruments and will be able to traverse 100 meters a day. The scientific goals of the rover missions are to gather data to help determine if life ever arose on Mars, characterize the climate of Mars, characterize the geology of Mars, and prepare for human exploration of Mars. To achieve these goals, seven science objectives are called for: 1) search for and characterize a variety of rocks and soils that hold clues to past water activity, 2) determine the distribution and composition of minerals, rocks, and soils surrounding the landing sites, 3) determine what geologic processes have shaped the local terrain and influenced the chemistry 4) perform "ground truth" of surface observations made by Mars orbiter instruments, 5) search for iron-bearing minerals, identify and quantify relative amounts of specific mineral types that contain water or were formed in water, 6) characterize the mineralogy and textures of rocks and soils and determine the processes that created them, and 7) search for geological clues to the environmental conditions that existed when liquid water was present and assess whether those environments were conducive to life.
+Spacecraft and Subsystems
+The Mars Exploration Rover consists of a box-like chassis mounted on six wheels. The chassis contains the warm electronics box (WEB). On top of the WEB is the triangular rover equipment deck, on which is mounted the Pancam mast assembly, high gain, low gain, and UHF antennas, and a camera calibration target. Attached to the two forward sides of the equipment deck are solar arrays which are level with the deck and extend outward with the appearance of a pair of swept-back wings. Attached to the lower front of the WEB is the instrument deployment device, a long hinged arm which protrudes in front of the rover.
+The wheels are attached to a rocker-bogie suspension system. Each wheel has its own motor and the two front and two rear wheels are independently steerable. The rover has a top speed of about 3.75 cm per second, but the average speed over time on flat hard ground would be 1 cm/sec or less due to the hazard avoidance protocols. The rover is designed to withstand a tilt of 45 degrees without falling over, but is programmed to avoid exceeding tilts of 30 degrees. The warm electronics box houses the computer, batteries, and other electronic components. The box is designed to protect these components and control their temperature. Thermal control is achieved through the use of gold paint, aerogel insulation, heaters, thermostats, and radiators.
+Power is provided by the solar arrays, generating up to 140 W of power under full Sun conditions. The energy is stored in two rechargeable batteries. Communications with Earth are in X-band via the high gain directional dish antenna and the low gain omni-directional antenna. Communications with orbiting spacecraft are through the UHF antenna. The onboard computer has 128 Mb RAM. An inertial measurement unit provides 3-axis information on position.
+The rover carries a suite of instruments for science and navigation. The panoramic camera (Pancam) and navigation cameras are mounted on top of the Pancam mast assembly, at a height of about 1.4 meters from the base of the wheels. The mast, mounted at the front of the equipment deck, also acts as a periscope for the Miniature Thermal Emission Spectrometer (Mini-TES). Attached to the end of the instrument deployment device are the Alpha Particle X-Ray Spectrometer (APXS), Mossbauer Spectrometer (MB), Microscopic Imager (MI), and Rock Abrasion Tool (RAT). A magnet array is attached to the front of the equipment deck. Two hazard avoidance cameras are mounted on the front of the rover and two on the rear. The group of science instruments (Pancam, Mini-TES, APXS, MB, MI, and RAT) is known as the Athena science package.
+The rover will be compactly stowed in a tetrahedron shaped landing platform and encased in an aeroshell consisting of a heat shield and a backshell for launch, cruise, and atmospheric entry. The lander platform has a mass of 348 kg, the backshell and parachute 209 kg, and the heat shield 78 kg. The cruise stage mass is 193 kg and propellant mass is 50 kg.
+Mission Profile
+Opportunity was launched on a heavy Delta II 7925H on 8 July 2003 at 03:18:15 UT (July 7, 11:18:15 p.m. EDT). After insertion into a circular Earth parking orbit, the spacecraft third stage reignited and put the craft on a trajectory to Mars, after which the aeroshell, lander, and rover separated from the third stage. The cruise phase to Mars ended on 11 December 2003, 45 days before Mars entry. The approach phase lasted from this date until martian atmospheric entry on 25 January 2004. On entry the lander and components had a mass of 827 kg and were travelling at 19,300 km/hr. The aeroshell decelerated the lander in the upper martian atmosphere for about four minutes to a velocity of 1600 km/hr, followed by deployment of a parachute. The parachute slowed the spacecraft to about 300 km/hr. A series of tones transmitted by the spacecraft during entry and after landing indicated the successful completion of each phase. Just prior to impact, at an altitude of about 100 m, retrorockets slowed the descent and airbags inflated to cushion the impact. The craft hit at roughly 50 km/hr and bounced and rolled along the surface, stopping in a small crater. The airbags deflated and retracted, the petals opened, and the rover deployed its solar arrays. The landing took place at 04:54:22.7 UT (05:05:26.6 UT Earth received time, 12:05 a.m. EST) or approximately 1:15 p.m. local time, about two and a half hours before Earth set at Terra Meridiani. On Mars it was the latter half of southern summer. The spacecraft came to rest in a 20 m diameter crater at 1.946° S and 354.473° E (IAU 2000 body-centered coordinates) (The landing ellipse was centered at 2.07 S, 353.52 W and was roughly 119 by 17 km oriented at 88 degrees.) Terra Meridiani is also known as the "Hematite Site" because it displays evidence of coarse-grained hematite, an iron-rich mineral which typically forms in water. It also appears to be one of the smoothest and therefore safest areas for a landing.
+An egress phase took place over the first 4 days, involving deployment of the Pancam mast and high gain antenna, rover stand up, imaging and calibration, selection of proper egress path, and finally driving of the rover off the lander deck onto the martian surface. Opportunity explored Meridiani Terra, returning images and data from its scientific instruments, for over 14 years. The final communication from the rover was received on 10 June 2018.
+Alternate Names
+MER 1
+Mars Exploration Rover 1
+Mars Exploration Rover B
+MER-B
+27849
+urn:nasa:pds:context:instrument_host:spacecraft.mer1
+Facts in Brief
+Launch Date: 2003-07-08
+Launch Vehicle: Delta II 7925
+Launch Site: Cape Canaveral, United States
+Mass: 185 kg
+Funding Agency
+National Aeronautics and Space Administration (United States)
+Discipline
+Planetary Science
+Additional Information
+Launch/Orbital information for Opportunity
+Telecommunications information for Opportunity
+Experiments on Opportunity
+Data collections from Opportunity
+Questions and comments about this spacecraft can be directed to:
+Coordinated Request and User Support Office
+Personnel
+Name Role Original Affiliation E-mail
+Ms. Joy Anne Crisp Project Scientist NASA Jet Propulsion Laboratory joy@mail2.jpl.nasa.gov
+Dr. Firouz M. Naderi Program Manager NASA Jet Propulsion Laboratory fmnaderi@mailhost4.jpl.nasa.gov
+Dr. James B. Garvin Program Scientist NASA Headquarters garvin@denali.gsfc.nasa.gov
+Mr. Peter C Theisinger Project Manager NASA Jet Propulsion Laboratory Peter.C.Theisinger@jpl.nasa.gov
+Selected References
+Crisp, J. A., et al. , Mars Exploration Rover mission,
+J. Geophys. Res. , 108, No. E12, 8061, doi:10.1029/2002JE002038, 2003.
+Squyres, S. W., et al. , Athena Mars rover science investigation,
+J. Geophys. Res. , 108, No. E12, 8062, doi:10.1029/2003JE002121, 2003.
+Squyres, S. W., et al. , The Opportunity Rover's Athena Science Investigation at Meridiani Planum, Mars,
+Science , 306, No. 5702, 1698-1703, Dec. 2004.
+Cook, R. A., The Mars exploration rover project,
+Acta Astronaut. , 57, No. 2-8, 116-120, 2005.
+Squyres, S. W., et al. , Two years at Meridiani Planum: Results from the Opportunity Rover,
+Science , 313, No. 5792, 1403-1407, Sept. 2006.
+Squyres, S. W., et al. , Overview of the Opportunity Mars Exploration Rover Mission to Meridiani Planum: Eagle Crater to Purgatory Ripple,
+J. Geophys. Res. , 111, E12S12, doi:10.1029/2006JE002771, 2006.
+Taylor, J., et al. , Chapter 7: Mars Exploration Rover Telecommunications,
+in Deep Space Communications , J. Taylor Ed., Vol. 13, pp. 263-375, Deep Space Communications and Navigation Series, JPL, Calif. Inst. Technol., Deep Sp. Comm. and Nav. Sys. (DESCANSO), Pasadena, CA, Oct. 2014.
+"Opportunity" images from Meridiani Planum
+Mars Exploration Rover "Spirit" Page
+Labelled Diagram of the Mars Exploration Rover
+NASA Mars Rovers Braving Severe Dust Storms
+- NASA Press Release 20 July 2007
+Durable Mars Rovers Sent Into Third Overtime Period
+- NASA Press Release 5 April 2005
+Opportunity Rover Finds Strong Evidence Meridiani Planum Was Wet
+- NASA Press Release 2 March 2004
+Mars Rovers Head for Exciting Landings in January
+- NASA Press Release 2 December 2003
+NASA Selects 28 Participating Scientists for Mars Rover Mission
+- NASA Press Release 29 May 2002
+NASA Plans to Send Rover Twins to Mars in 2003
+- NASA Press Release 10 August 2000
+Announcement of Rover Option
+- NASA Press Release 27 July 2000
+Mars Pathfinder Rover
+Mars Exploration Rover Home Page - NASA JPL
+Mars Home Page
+Mars Fact Sheet
+NSSDCA Master Catalog Search
+Spacecraft
+Experiments
+Data Collections
+Publications
+Maps
+New/Updated Data
+Lunar/Planetary Events
++ Privacy Policy and Important Notices
+NASA Official: Thomas H. Morgan
+Curator: T. R. Holden
+Version 5.3.0, 16 October 2026
